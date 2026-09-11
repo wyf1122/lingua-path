@@ -1,0 +1,218 @@
+[
+  {
+    "id": "speaking_a2_001",
+    "title": "Talking About Your Hobbies",
+    "level": "A2",
+    "category": "hobby",
+    "text": "In my free time, I like to read books and play basketball. I also enjoy listening to music. What about you?",
+    "difficulty": 2
+  },
+  {
+    "id": "speaking_a2_002",
+    "title": "Describing Daily Routine",
+    "level": "A2",
+    "category": "daily",
+    "text": "I usually get up at half past seven. After breakfast, I go to school by bus. I have lunch at school and go back home in the afternoon. In the evening, I do my homework and watch TV for a while.",
+    "difficulty": 2
+  },
+  {
+    "id": "speaking_a2_003",
+    "title": "Talking About Weather",
+    "level": "A2",
+    "category": "nature",
+    "text": "The weather today is really nice. It is warm and the sun is shining. Yesterday it rained all day, but today we can go outside and enjoy the fresh air.",
+    "difficulty": 2
+  },
+  {
+    "id": "speaking_a2_004",
+    "title": "Going to the Supermarket",
+    "level": "A2",
+    "category": "shopping",
+    "text": "I need to buy some milk, eggs, and vegetables for dinner tonight. The supermarket near my house always has fresh food and good prices.",
+    "difficulty": 2
+  },
+  {
+    "id": "speaking_a2_005",
+    "title": "Planning a Trip",
+    "level": "A2",
+    "category": "travel",
+    "text": "We are going to visit Beijing next month. I want to see the Great Wall and try some local food. I hope the weather will be nice.",
+    "difficulty": 2
+  },
+  {
+    "id": "speaking_a2_006",
+    "title": "Cooking at Home",
+    "level": "A2",
+    "category": "food",
+    "text": "I learned to make pasta last weekend. First, I boil the water and cook the noodles. Then I add some tomato sauce and vegetables. It was delicious and easy to make.",
+    "difficulty": 2
+  },
+  {
+    "id": "speaking_a2_007",
+    "title": "Talking About Technology",
+    "level": "A2",
+    "category": "technology",
+    "text": "I use my phone every day to send messages and check the news. I also like to take photos with it. My phone is very important in my life.",
+    "difficulty": 2
+  },
+  {
+    "id": "speaking_a2_008",
+    "title": "Watching a Movie",
+    "level": "A2",
+    "category": "entertainment",
+    "text": "I watched a great movie last night with my friends. It was a comedy and we laughed a lot. The ending was really surprising and touching.",
+    "difficulty": 2
+  },
+  {
+    "id": "speaking_a2_009",
+    "title": "Talking About School",
+    "level": "A2",
+    "category": "education",
+    "text": "My favorite subject is English because it is interesting and useful. I have English class three times a week. My teacher is very kind and patient.",
+    "difficulty": 2
+  },
+  {
+    "id": "speaking_a2_010",
+    "title": "Describing Your Best Friend",
+    "level": "A2",
+    "category": "relationship",
+    "text": "My best friend is Li Ming. He is tall and has short black hair. He is very funny and always makes me laugh. We have been friends since primary school.",
+    "difficulty": 2
+  },
+  {
+    "id": "speaking_a2_011",
+    "title": "Talking About Health and Exercise",
+    "level": "A2",
+    "category": "health",
+    "text": "I go jogging every morning to stay healthy. I also try to eat more fruits and vegetables. My doctor says I should drink more water and sleep earlier.",
+    "difficulty": 2
+  },
+  {
+    "id": "speaking_a2_012",
+    "title": "Celebrating a Festival",
+    "level": "A2",
+    "category": "culture",
+    "text": "During the Spring Festival, my family gathers together for a big dinner. We eat dumplings, watch the fireworks, and give red envelopes to children. It is my favorite time of year.",
+    "difficulty": 2
+  },
+  {
+    "id": "speaking_a2_013",
+    "title": "Talking About Work Life",
+    "level": "A2",
+    "category": "work",
+    "text": "I work as a salesperson in a clothing store. I help customers find what they need and handle the cash register. I enjoy talking to different people every day.",
+    "difficulty": 2
+  },
+  {
+    "id": "speaking_a2_014",
+    "title": "Describing Your Home",
+    "level": "A2",
+    "category": "daily",
+    "text": "I live in a small apartment with my parents. It has two bedrooms, a living room, and a kitchen. My favorite place is the balcony because I can see the park from there.",
+    "difficulty": 2
+  },
+  {
+    "id": "speaking_a2_015",
+    "title": "Talking About Transportation",
+    "level": "A2",
+    "category": "travel",
+    "text": "I usually take the subway to work because it is fast and cheap. Sometimes I ride my bike when the weather is good. Traffic in the morning is always very heavy.",
+    "difficulty": 2
+  },
+  {
+    "id": "speaking_a2_r001",
+    "title": "喜欢的颜色",
+    "level": "A2",
+    "category": "hobby",
+    "text": "My favorite color is blue. I love it very much.",
+    "difficulty": 1
+  },
+  {
+    "id": "speaking_a2_r002",
+    "title": "家里的宠物",
+    "level": "A2",
+    "category": "family",
+    "text": "I have a rabbit at home. It is small and cute.",
+    "difficulty": 1
+  },
+  {
+    "id": "speaking_a2_r003",
+    "title": "家庭成员",
+    "level": "A2",
+    "category": "family",
+    "text": "There are two people in my family. We love each other.",
+    "difficulty": 1
+  },
+  {
+    "id": "speaking_a2_r004",
+    "title": "去超市",
+    "level": "A2",
+    "category": "shopping",
+    "text": "I want to buy a sandwich and a bottle of water.",
+    "difficulty": 1
+  },
+  {
+    "id": "speaking_a2_r005",
+    "title": "谈论天气",
+    "level": "A2",
+    "category": "weather",
+    "text": "Today is sunny and warm. Let us go to the supermarket.",
+    "difficulty": 1
+  },
+  {
+    "id": "speaking_a2_r006",
+    "title": "周末计划",
+    "level": "A2",
+    "category": "hobby",
+    "text": "On weekends I play with my friends in the park.",
+    "difficulty": 1
+  },
+  {
+    "id": "speaking_a2_r007",
+    "title": "问时间",
+    "level": "A2",
+    "category": "daily",
+    "text": "Excuse me, what time is it? It is three o’clock.",
+    "difficulty": 1
+  },
+  {
+    "id": "speaking_a2_r008",
+    "title": "上学方式",
+    "level": "A2",
+    "category": "travel",
+    "text": "I go to school by bike every morning.",
+    "difficulty": 1
+  },
+  {
+    "id": "speaking_a2_r009",
+    "title": "点餐",
+    "level": "A2",
+    "category": "food",
+    "text": "I would like a cup of tea, please. Thank you.",
+    "difficulty": 1
+  },
+  {
+    "id": "speaking_a2_r010",
+    "title": "我的房间",
+    "level": "A2",
+    "category": "home",
+    "text": "My room is clean. There is a red bed in it.",
+    "difficulty": 1
+  },
+  {
+    "id": "speaking_a2_r011",
+    "title": "介绍家乡",
+    "level": "A2",
+    "category": "greeting",
+    "text": "I'm from Australia. It is a beautiful place.",
+    "difficulty": 1
+  },
+  {
+    "id": "speaking_a2_r012",
+    "title": "问候与介绍",
+    "level": "A2",
+    "category": "greeting",
+    "text": "Hello, my name is Anna. Nice to meet you.",
+    "difficulty": 1
+  }
+]

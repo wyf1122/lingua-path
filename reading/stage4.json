@@ -1,0 +1,450 @@
+[
+  {
+    "id": "reading_b2_001",
+    "title": "The Rise of Remote Work",
+    "level": "B2",
+    "category": "work",
+    "content": "Remote work has become increasingly popular in recent years. While it offers employees greater flexibility and eliminates commuting time, it also presents challenges such as maintaining work-life balance and effective communication. Companies that successfully implement remote policies often invest in digital collaboration tools and establish clear expectations. As technology continues to advance, it is likely that hybrid models, combining office and remote work, will become the new standard across many industries.",
+    "words": 82,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "Which is a challenge of remote work?",
+        "options": [
+          "Longer commute",
+          "Work-life balance",
+          "Higher costs"
+        ],
+        "answer": "Work-life balance"
+      },
+      {
+        "type": "choice",
+        "question": "What will likely become the new standard?",
+        "options": [
+          "Full office work",
+          "Hybrid models",
+          "Full remote work"
+        ],
+        "answer": "Hybrid models"
+      }
+    ]
+  },
+  {
+    "id": "reading_b2_002",
+    "title": "The Power of Habit",
+    "level": "B2",
+    "category": "psychology",
+    "content": "Habits shape our daily lives more than we realize. Research suggests that roughly half of our everyday actions are automatic. Building a good habit, such as reading for twenty minutes a day, requires consistency rather than intense effort. The key is to design a simple routine, attach it to an existing activity, and reward yourself afterward. Although change takes time, small repeated actions gradually become natural and lead to significant long-term results.",
+    "words": 84,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What does the passage say about half of our actions?",
+        "options": [
+          "They are automatic",
+          "They are planned",
+          "They are difficult"
+        ],
+        "answer": "They are automatic"
+      },
+      {
+        "type": "judge",
+        "question": "文中指出我们的日常行为约有一半是自动化的。",
+        "options": [
+          "正确",
+          "错误",
+          "未提及"
+        ],
+        "answer": "正确"
+      },
+      {
+        "type": "short",
+        "question": "如果你要养成一个每天阅读 20 分钟的习惯，会怎么设计？请用英文说明。",
+        "modelAnswer": "示例：I would read for twenty minutes every night after dinner and reward myself with a short break."
+      }
+    ]
+  },
+  {
+    "id": "reading_b2_003",
+    "title": "Global Warming and Daily Choices",
+    "level": "B2",
+    "category": "environment",
+    "content": "Climate change is a global issue, but individual choices matter more than they appear. Simple actions such as reducing plastic use, saving electricity and using public transport can significantly lower our carbon footprint. However, experts emphasize that lasting change also requires support from businesses and governments. When personal responsibility combines with effective policy, society can make meaningful progress toward a sustainable future.",
+    "words": 78,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "Which action can reduce our carbon footprint?",
+        "options": [
+          "Using public transport",
+          "Buying more plastic",
+          "Wasting electricity"
+        ],
+        "answer": "Using public transport"
+      },
+      {
+        "type": "choice",
+        "question": "What else does lasting change require?",
+        "options": [
+          "Only personal effort",
+          "Support from businesses and governments",
+          "Ignoring policy"
+        ],
+        "answer": "Support from businesses and governments"
+      }
+    ]
+  },
+  {
+    "id": "reading_b2_004",
+    "title": "The Impact of Artificial Intelligence on Education",
+    "level": "B2",
+    "category": "technology",
+    "content": "Artificial intelligence is beginning to reshape education in ways that were unimaginable just a decade ago. Adaptive learning platforms can now analyze a student's performance in real time and adjust the difficulty of exercises accordingly, providing a personalized learning experience that traditional classrooms struggle to offer. AI-powered tools can also assist teachers by automating grading, identifying learning gaps and suggesting targeted interventions. However, critics argue that over-reliance on technology may reduce human interaction and weaken critical thinking skills. There are also concerns about data privacy and the digital divide between students from different socioeconomic backgrounds. To benefit fully from AI in education, schools must adopt a balanced approach that combines technological tools with human guidance and creativity. The goal should be to enhance learning, not to replace the irreplaceable role of dedicated teachers.",
+    "words": 133,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What can adaptive learning platforms do?",
+        "options": [
+          "Replace teachers entirely",
+          "Adjust exercise difficulty in real time",
+          "Eliminate homework"
+        ],
+        "answer": "Adjust exercise difficulty in real time"
+      },
+      {
+        "type": "judge",
+        "question": "Some people worry that AI may weaken students' critical thinking skills.",
+        "options": [
+          "正确",
+          "错误",
+          "未提及"
+        ],
+        "answer": "正确"
+      },
+      {
+        "type": "short",
+        "question": "According to the passage, what should be the goal of using AI in education? Please answer in English.",
+        "modelAnswer": "Example: The goal should be to enhance learning, not to replace the role of teachers."
+      }
+    ]
+  },
+  {
+    "id": "reading_b2_005",
+    "title": "Why We Need Public Libraries",
+    "level": "B2",
+    "category": "society",
+    "content": "In an age dominated by digital information, public libraries remain vital community institutions. They provide free access to books, computers and the internet, bridging the gap between those who can afford technology and those who cannot. Libraries also serve as gathering spaces where people of all ages attend workshops, join book clubs and participate in cultural events. For many immigrants and refugees, libraries are the first place they go to learn the local language and find employment resources. Critics may argue that the internet has made libraries obsolete, but studies show that communities with well-funded libraries tend to have higher literacy rates and stronger social cohesion. In a world that is increasingly divided by economic inequality, libraries stand as symbols of equal opportunity and shared knowledge.",
+    "words": 126,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What do studies show about communities with well-funded libraries?",
+        "options": [
+          "They have less crime",
+          "They have higher literacy rates",
+          "They have more restaurants"
+        ],
+        "answer": "They have higher literacy rates"
+      },
+      {
+        "type": "judge",
+        "question": "Libraries are only useful for borrowing books.",
+        "options": [
+          "正确",
+          "错误",
+          "未提及"
+        ],
+        "answer": "错误"
+      },
+      {
+        "type": "short",
+        "question": "Why are libraries important for immigrants and refugees? Please answer in English.",
+        "modelAnswer": "Example: Libraries help immigrants learn the local language and find employment resources."
+      }
+    ]
+  },
+  {
+    "id": "reading_b2_006",
+    "title": "The Art of Effective Communication",
+    "level": "B2",
+    "category": "psychology",
+    "content": "Good communication is the foundation of successful relationships, both personal and professional. It involves not only expressing your own thoughts clearly but also listening actively to others. Many misunderstandings arise because people assume they have been understood without checking for confirmation. Active listening means giving full attention, asking clarifying questions and reflecting on what has been said before responding. In the workplace, clear communication reduces errors, improves teamwork and builds trust among colleagues. On a personal level, honest and empathetic conversations strengthen bonds and resolve conflicts before they escalate. In today's digital world, where much of our communication happens through text messages and emails, paying attention to tone and context has become more important than ever. Mastering the art of communication is a lifelong skill that benefits every area of life.",
+    "words": 131,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What is one common cause of misunderstandings?",
+        "options": [
+          "Speaking too slowly",
+          "Assuming you have been understood",
+          "Listening too carefully"
+        ],
+        "answer": "Assuming you have been understood"
+      },
+      {
+        "type": "judge",
+        "question": "Active listening only means staying quiet while the other person speaks.",
+        "options": [
+          "正确",
+          "错误",
+          "未提及"
+        ],
+        "answer": "错误"
+      },
+      {
+        "type": "short",
+        "question": "Why is paying attention to tone especially important in digital communication? Please answer in English.",
+        "modelAnswer": "Example: Text messages and emails lack body language and voice cues, so tone can easily be misunderstood."
+      }
+    ]
+  },
+  {
+    "id": "reading_b2_007",
+    "title": "Urban Farming: Growing Food in the City",
+    "level": "B2",
+    "category": "environment",
+    "content": "As cities continue to expand, finding sustainable ways to produce food has become increasingly important. Urban farming, which involves growing fruits, vegetables and herbs within city limits, offers a promising solution. Rooftop gardens, vertical farms and community allotments are just a few examples of how city residents are turning unused spaces into productive land. Beyond providing fresh produce, urban farming reduces the carbon footprint associated with transporting food over long distances. It also strengthens community bonds, as neighbors work together to maintain shared gardens. Some cities have introduced policies to support urban agriculture, including grants for community projects and tax incentives for buildings that incorporate green spaces. While urban farming alone cannot feed entire populations, it represents a meaningful step toward more sustainable and resilient cities.",
+    "words": 126,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "How does urban farming help the environment?",
+        "options": [
+          "By increasing pollution",
+          "By reducing the carbon footprint of food transport",
+          "By using more water"
+        ],
+        "answer": "By reducing the carbon footprint of food transport"
+      },
+      {
+        "type": "judge",
+        "question": "Urban farming can completely replace traditional agriculture.",
+        "options": [
+          "正确",
+          "错误",
+          "未提及"
+        ],
+        "answer": "错误"
+      },
+      {
+        "type": "short",
+        "question": "Besides fresh produce, what social benefit does urban farming provide? Please answer in English.",
+        "modelAnswer": "Example: Urban farming strengthens community bonds as neighbors work together to maintain shared gardens."
+      }
+    ]
+  },
+  {
+    "id": "reading_b2_008",
+    "title": "Digital Detox: Unplugging from Technology",
+    "level": "B2",
+    "category": "psychology",
+    "content": "The average person checks their smartphone over ninety times a day, and many people admit to feeling anxious when separated from their devices. While technology has made our lives more convenient, it has also created a culture of constant distraction and information overload. A growing number of experts now recommend regular digital detoxes, periods during which people deliberately disconnect from screens and online platforms. Research indicates that reducing screen time can improve sleep quality, strengthen face-to-face relationships and boost creativity. Simple steps such as setting phone-free hours during meals, turning off non-essential notifications and spending time outdoors can help break the cycle of digital dependence. Critics argue that complete disconnection is unrealistic in a connected world, but even small, intentional breaks from technology can restore focus and improve overall well-being.",
+    "words": 130,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What is a digital detox?",
+        "options": [
+          "Buying a new phone",
+          "Deliberately disconnecting from screens",
+          "Using technology more efficiently"
+        ],
+        "answer": "Deliberately disconnecting from screens"
+      },
+      {
+        "type": "judge",
+        "question": "Reducing screen time has no effect on sleep quality.",
+        "options": [
+          "正确",
+          "错误",
+          "未提及"
+        ],
+        "answer": "错误"
+      },
+      {
+        "type": "short",
+        "question": "Name two simple steps that can help reduce digital dependence. Please answer in English.",
+        "modelAnswer": "Example: Setting phone-free hours during meals and spending time outdoors."
+      }
+    ]
+  },
+  {
+    "id": "reading_b2_009",
+    "title": "The Value of Learning a Second Language",
+    "level": "B2",
+    "category": "education",
+    "content": "Learning a second language is one of the most rewarding investments a person can make. Beyond the practical benefits of being able to communicate with more people, bilingual individuals tend to perform better on cognitive tasks that require problem-solving and multitasking. Studies have shown that learning a new language can delay the onset of age-related cognitive decline. Culturally, speaking another language opens doors to literature, music and traditions that would otherwise remain inaccessible. Many employers also value bilingual candidates, as globalisation has increased the demand for professionals who can work across linguistic boundaries. Although learning a new language requires patience and consistent effort, the rewards extend far beyond vocabulary and grammar. It broadens your worldview and makes you more adaptable in an increasingly interconnected society.",
+    "words": 125,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What cognitive benefit do bilingual individuals tend to have?",
+        "options": [
+          "Better physical strength",
+          "Better problem-solving and multitasking",
+          "Better sense of direction"
+        ],
+        "answer": "Better problem-solving and multitasking"
+      },
+      {
+        "type": "judge",
+        "question": "Learning a new language can help delay age-related cognitive decline.",
+        "options": [
+          "正确",
+          "错误",
+          "未提及"
+        ],
+        "answer": "正确"
+      },
+      {
+        "type": "short",
+        "question": "Why do many employers value bilingual candidates? Please answer in English.",
+        "modelAnswer": "Example: Because globalisation has increased the demand for professionals who can work across linguistic boundaries."
+      }
+    ]
+  },
+  {
+    "id": "reading_b2_010",
+    "title": "Responsible Tourism: Traveling with Awareness",
+    "level": "B2",
+    "category": "travel",
+    "content": "Tourism is one of the world's largest industries, but its rapid growth has raised serious environmental and social concerns. Popular destinations around the globe are struggling with over-tourism, which leads to pollution, damage to natural habitats and rising living costs for local residents. Responsible tourism encourages travelers to make conscious choices that minimize their impact on the places they visit. This includes supporting locally owned businesses, respecting cultural traditions and choosing eco-friendly transportation options. Some travelers now prefer slower forms of tourism, such as walking tours and cycling holidays, which have a smaller environmental footprint. Governments and travel companies also have a role to play by promoting sustainable practices and limiting visitor numbers in vulnerable areas. Ultimately, the goal of responsible tourism is to ensure that future generations can enjoy the same beautiful destinations that we cherish today.",
+    "words": 138,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What is one negative effect of over-tourism?",
+        "options": [
+          "More cultural exchange",
+          "Rising living costs for local residents",
+          "Better infrastructure"
+        ],
+        "answer": "Rising living costs for local residents"
+      },
+      {
+        "type": "judge",
+        "question": "Walking tours and cycling holidays have a larger environmental footprint than bus tours.",
+        "options": [
+          "正确",
+          "错误",
+          "未提及"
+        ],
+        "answer": "错误"
+      },
+      {
+        "type": "short",
+        "question": "What is the ultimate goal of responsible tourism? Please answer in English.",
+        "modelAnswer": "Example: The goal is to ensure that future generations can enjoy the same beautiful destinations."
+      }
+    ]
+  },
+  {
+    "id": "reading_b2_r001",
+    "title": "一次演讲",
+    "level": "B2",
+    "category": "work",
+    "content": "Olivia gave an interview at the annual conference in Chicago. She spent two weeks preparing it. Many people said her talk was clear and inspiring, and she felt very proud.",
+    "words": 30,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What did Olivia give at the event?",
+        "options": [
+          "a report",
+          "an interview",
+          "a presentation"
+        ],
+        "answer": "an interview"
+      },
+      {
+        "type": "choice",
+        "question": "Where did Olivia give her talk?",
+        "options": [
+          "conference",
+          "training session",
+          "meeting"
+        ],
+        "answer": "conference"
+      },
+      {
+        "type": "choice",
+        "question": "In which city did the event take place?",
+        "options": [
+          "Shanghai",
+          "Chicago",
+          "Manchester"
+        ],
+        "answer": "Chicago"
+      },
+      {
+        "type": "judge",
+        "question": "Olivia prepared her talk for two weeks.",
+        "options": [
+          "正确",
+          "错误"
+        ],
+        "answer": "正确"
+      },
+      {
+        "type": "short",
+        "question": "用一句英文简要回答：What did Olivia give at the event?",
+        "answer": "an interview"
+      }
+    ]
+  },
+  {
+    "id": "reading_b2_r002",
+    "title": "工作随笔",
+    "level": "B2",
+    "category": "work",
+    "content": "Ethan works for an international company in Munich. He usually attends meetings about an interview. He believes clear communication is the key to success at work.",
+    "words": 26,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "Where does Ethan work?",
+        "options": [
+          "Chicago",
+          "Munich",
+          "Manchester"
+        ],
+        "answer": "Munich"
+      },
+      {
+        "type": "choice",
+        "question": "How often does Ethan attend meetings?",
+        "options": [
+          "rarely",
+          "usually",
+          "sometimes"
+        ],
+        "answer": "usually"
+      },
+      {
+        "type": "choice",
+        "question": "What do the meetings usually discuss?",
+        "options": [
+          "an interview",
+          "a report",
+          "a presentation"
+        ],
+        "answer": "an interview"
+      },
+      {
+        "type": "judge",
+        "question": "Ethan works in the education field.",
+        "options": [
+          "正确",
+          "错误"
+        ],
+        "answer": "错误"
+      },
+      {
+        "type": "short",
+        "question": "用一句英文简要回答：Where does Ethan work?",
+        "answer": "Munich"
+      }
+    ]
+  }
+]

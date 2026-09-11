@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "modules": {
+    "grammar": 1,
+    "listening": 1,
+    "reading": 1,
+    "speaking": 1,
+    "vocabulary": 1
+  }
+}

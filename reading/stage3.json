@@ -1,0 +1,489 @@
+[
+  {
+    "id": "reading_b1_001",
+    "title": "The Importance of Exercise",
+    "level": "B1",
+    "category": "health",
+    "content": "Regular exercise is essential for maintaining a healthy lifestyle. It not only improves your physical fitness but also boosts your mental health. When you exercise, your body releases chemicals that make you feel happier and more relaxed. Furthermore, exercise can help you sleep better and improve your concentration. To get the most benefits, experts recommend at least thirty minutes of moderate activity every day.",
+    "words": 75,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What does exercise release that makes you feel better?",
+        "options": [
+          "Vitamins",
+          "Chemicals",
+          "Minerals"
+        ],
+        "answer": "Chemicals"
+      },
+      {
+        "type": "choice",
+        "question": "How much exercise is recommended daily?",
+        "options": [
+          "Ten minutes",
+          "Thirty minutes",
+          "Sixty minutes"
+        ],
+        "answer": "Thirty minutes"
+      }
+    ]
+  },
+  {
+    "id": "reading_b1_002",
+    "title": "Saving Money for the Future",
+    "level": "B1",
+    "category": "finance",
+    "content": "Learning to save money is an important life skill. Experts suggest starting by setting a small, realistic goal, such as saving ten percent of your pocket money each month. Keep your savings in a separate account to avoid spending it, and compare prices before making big purchases. Over time, these small habits can grow into a healthy financial future and give you more choices in life.",
+    "words": 74,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What saving goal do experts suggest at first?",
+        "options": [
+          "Saving all your money",
+          "Saving ten percent monthly",
+          "Buying more things"
+        ],
+        "answer": "Saving ten percent monthly"
+      },
+      {
+        "type": "judge",
+        "question": "专家建议最初把每月零花钱全部存起来。",
+        "options": [
+          "正确",
+          "错误",
+          "未提及"
+        ],
+        "answer": "错误"
+      },
+      {
+        "type": "short",
+        "question": "请用英文给出一个存钱的具体建议。",
+        "modelAnswer": "示例：Start by saving ten percent of your monthly pocket money in a separate account."
+      }
+    ]
+  },
+  {
+    "id": "reading_b1_003",
+    "title": "City Life vs. Country Life",
+    "level": "B1",
+    "category": "society",
+    "content": "Both city life and country life have their own advantages. Cities offer more job opportunities, better public transport and a wider range of entertainment. On the other hand, the countryside provides cleaner air, more space and a quieter pace of life. Although some people enjoy the excitement of a big city, many choose to move to the countryside for a healthier lifestyle. The best choice depends on each person's needs and priorities.",
+    "words": 80,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What does the city offer according to the passage?",
+        "options": [
+          "Cleaner air",
+          "More job opportunities",
+          "Quieter life"
+        ],
+        "answer": "More job opportunities"
+      },
+      {
+        "type": "choice",
+        "question": "Why do some people move to the countryside?",
+        "options": [
+          "For a healthier lifestyle",
+          "For more entertainment",
+          "For better transport"
+        ],
+        "answer": "For a healthier lifestyle"
+      }
+    ]
+  },
+  {
+    "id": "reading_b1_004",
+    "title": "Social Media and Teenagers",
+    "level": "B1",
+    "category": "technology",
+    "content": "Social media has become a major part of teenagers' lives. Many young people spend several hours each day chatting with friends, watching videos and sharing photos online. While social media helps teens stay connected, it can also lead to problems such as poor sleep, reduced face-to-face interaction and feelings of anxiety. Experts suggest that teenagers should set time limits on screen use and take regular breaks. Parents can help by encouraging outdoor activities and having open conversations about online safety. Although social media has many benefits, finding a healthy balance between online and offline life is essential for teenagers' well-being.",
+    "words": 114,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What problem can social media cause for teenagers?",
+        "options": [
+          "Better grades",
+          "Poor sleep and anxiety",
+          "More exercise"
+        ],
+        "answer": "Poor sleep and anxiety"
+      },
+      {
+        "type": "judge",
+        "question": "Experts think teenagers should use social media without any limits.",
+        "options": [
+          "正确",
+          "错误",
+          "未提及"
+        ],
+        "answer": "错误"
+      },
+      {
+        "type": "short",
+        "question": "How can parents help teenagers use social media wisely? Please answer in English.",
+        "modelAnswer": "Example: Parents can encourage outdoor activities and have open conversations about online safety."
+      }
+    ]
+  },
+  {
+    "id": "reading_b1_005",
+    "title": "The Benefits of Reading",
+    "level": "B1",
+    "category": "education",
+    "content": "Reading is one of the most valuable habits a person can develop. Books allow us to travel to different worlds, learn about new cultures and understand other people's perspectives without leaving our homes. Studies show that people who read regularly tend to have better vocabulary, stronger critical thinking skills and lower levels of stress. Reading before bedtime can also improve the quality of sleep. Whether you prefer novels, magazines or online articles, the key is to read consistently. Even fifteen minutes a day can make a significant difference over time. Libraries and bookshops are great places to discover new reading material.",
+    "words": 101,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What skill do regular readers tend to have?",
+        "options": [
+          "Better cooking skills",
+          "Stronger critical thinking",
+          "Faster running"
+        ],
+        "answer": "Stronger critical thinking"
+      },
+      {
+        "type": "judge",
+        "question": "Reading before bed can help improve sleep quality.",
+        "options": [
+          "正确",
+          "错误",
+          "未提及"
+        ],
+        "answer": "正确"
+      },
+      {
+        "type": "short",
+        "question": "How long should you read each day to make a difference? Please answer in English.",
+        "modelAnswer": "Example: Even fifteen minutes a day can make a significant difference over time."
+      }
+    ]
+  },
+  {
+    "id": "reading_b1_006",
+    "title": "A Gap Year Experience",
+    "level": "B1",
+    "category": "culture",
+    "content": "After finishing university, I decided to take a gap year before starting my career. I traveled to Southeast Asia and spent three months volunteering at a local school. I helped teach English to young children and learned about their customs and traditions. Living on a small budget taught me to be resourceful and independent. I also made friends from many different countries. The whole experience changed my view of the world and made me much more confident. When I finally returned home, I felt ready to face new challenges and had a much clearer idea of what I wanted to do with my life.",
+    "words": 104,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What did the writer do during the gap year?",
+        "options": [
+          "Started a company",
+          "Volunteered at a local school",
+          "Went to graduate school"
+        ],
+        "answer": "Volunteered at a local school"
+      },
+      {
+        "type": "choice",
+        "question": "What did living on a small budget teach the writer?",
+        "options": [
+          "To save money for a car",
+          "To be resourceful and independent",
+          "To cook fancy meals"
+        ],
+        "answer": "To be resourceful and independent"
+      },
+      {
+        "type": "judge",
+        "question": "The writer felt less confident after the gap year.",
+        "options": [
+          "正确",
+          "错误",
+          "未提及"
+        ],
+        "answer": "错误"
+      }
+    ]
+  },
+  {
+    "id": "reading_b1_007",
+    "title": "The Problem with Plastic Waste",
+    "level": "B1",
+    "category": "environment",
+    "content": "Every year, millions of tons of plastic waste end up in the oceans, threatening marine life and ecosystems. Single-use items such as shopping bags, bottles and food containers make up a large portion of this waste. Many countries have introduced bans or taxes on plastic bags to reduce consumption. Recycling is another important solution, but only about nine percent of all plastic ever produced has been recycled. Consumers can make a difference by choosing reusable products, avoiding unnecessary packaging and supporting businesses that use environmentally friendly materials. Governments, companies and individuals must all work together to solve this growing crisis.",
+    "words": 100,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What percentage of all plastic has ever been recycled?",
+        "options": [
+          "About fifty percent",
+          "About nine percent",
+          "About one percent"
+        ],
+        "answer": "About nine percent"
+      },
+      {
+        "type": "judge",
+        "question": "Only governments can solve the plastic waste problem.",
+        "options": [
+          "正确",
+          "错误",
+          "未提及"
+        ],
+        "answer": "错误"
+      },
+      {
+        "type": "short",
+        "question": "Name one way consumers can help reduce plastic waste. Please answer in English.",
+        "modelAnswer": "Example: Consumers can choose reusable products and avoid unnecessary packaging."
+      }
+    ]
+  },
+  {
+    "id": "reading_b1_008",
+    "title": "Time Management Tips for Students",
+    "level": "B1",
+    "category": "education",
+    "content": "Managing time well is one of the biggest challenges for students. With classes, homework, social activities and sometimes part-time jobs, it can feel like there are never enough hours in the day. One effective strategy is to make a weekly schedule and stick to it. Breaking large tasks into smaller steps makes them feel less overwhelming. It is also important to set priorities and focus on the most urgent tasks first. Taking short breaks between study sessions helps maintain concentration. Finally, avoid multitasking, as research shows it often reduces the quality of work. With practice, these habits can make studying more efficient and leave more free time for relaxation.",
+    "words": 109,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "Why should students avoid multitasking?",
+        "options": [
+          "It saves time",
+          "It reduces the quality of work",
+          "It is too easy"
+        ],
+        "answer": "It reduces the quality of work"
+      },
+      {
+        "type": "judge",
+        "question": "Breaking large tasks into smaller steps makes them harder to manage.",
+        "options": [
+          "正确",
+          "错误",
+          "未提及"
+        ],
+        "answer": "错误"
+      },
+      {
+        "type": "short",
+        "question": "What is one strategy for managing time effectively? Please answer in English.",
+        "modelAnswer": "Example: One effective strategy is to make a weekly schedule and stick to it."
+      }
+    ]
+  },
+  {
+    "id": "reading_b1_009",
+    "title": "My Favorite Holiday Memory",
+    "level": "B1",
+    "category": "travel",
+    "content": "When I was ten years old, my family went on a trip to the countryside during the summer holiday. We stayed at a small farmhouse surrounded by rice fields and mountains. Every morning, I woke up to the sound of birds and the smell of fresh air. I helped the farmer feed the chickens and collect eggs. In the afternoon, I went fishing by the river with my grandfather. We caught two small fish and cooked them for dinner. There were no computers or televisions, but I never felt bored. That holiday taught me to appreciate the simple pleasures of life.",
+    "words": 101,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What did the writer and grandfather do in the afternoon?",
+        "options": [
+          "Played cards",
+          "Went fishing",
+          "Watched television"
+        ],
+        "answer": "Went fishing"
+      },
+      {
+        "type": "judge",
+        "question": "The writer felt bored during the holiday.",
+        "options": [
+          "正确",
+          "错误",
+          "未提及"
+        ],
+        "answer": "错误"
+      },
+      {
+        "type": "short",
+        "question": "What did the writer learn from this holiday? Please answer in English.",
+        "modelAnswer": "Example: The holiday taught the writer to appreciate the simple pleasures of life."
+      }
+    ]
+  },
+  {
+    "id": "reading_b1_010",
+    "title": "The Rise of Electric Vehicles",
+    "level": "B1",
+    "category": "technology",
+    "content": "Electric vehicles, commonly known as EVs, have grown rapidly in popularity over the past decade. Unlike traditional cars that run on petrol or diesel, EVs are powered by rechargeable batteries, producing zero direct emissions. This makes them a cleaner option for reducing air pollution in cities. However, some people worry about the limited range of electric cars and the time it takes to recharge them. Governments around the world are encouraging EV adoption through subsidies and tax benefits. As battery technology improves and charging stations become more common, electric vehicles are expected to play a major role in the future of transportation.",
+    "words": 102,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What advantage do electric vehicles have over traditional cars?",
+        "options": [
+          "They are faster",
+          "They produce zero direct emissions",
+          "They are cheaper to buy"
+        ],
+        "answer": "They produce zero direct emissions"
+      },
+      {
+        "type": "judge",
+        "question": "Electric vehicles can travel as far as traditional cars without recharging.",
+        "options": [
+          "正确",
+          "错误",
+          "未提及"
+        ],
+        "answer": "错误"
+      },
+      {
+        "type": "short",
+        "question": "What concern do some people have about electric vehicles? Please answer in English.",
+        "modelAnswer": "Example: Some people worry about the limited range and the long recharging time."
+      }
+    ]
+  },
+  {
+    "id": "reading_b1_r001",
+    "title": "一位老师的一天",
+    "level": "B1",
+    "category": "education",
+    "content": "Mrs. Li works as a teacher in a small town. She gets up at nine every day and goes to work by bike. She loves her job because she can help children learn.",
+    "words": 33,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What is Mrs. Li's job?",
+        "options": [
+          "a doctor",
+          "a manager",
+          "a teacher"
+        ],
+        "answer": "a teacher"
+      },
+      {
+        "type": "choice",
+        "question": "When does Mrs. Li get up every day?",
+        "options": [
+          "six",
+          "nine",
+          "seven"
+        ],
+        "answer": "nine"
+      },
+      {
+        "type": "choice",
+        "question": "How does Mrs. Li go to work?",
+        "options": [
+          "by bike",
+          "by bus",
+          "on foot"
+        ],
+        "answer": "by bike"
+      },
+      {
+        "type": "judge",
+        "question": "Mrs. Li works in a small town.",
+        "options": [
+          "正确",
+          "错误"
+        ],
+        "answer": "正确"
+      },
+      {
+        "type": "short",
+        "question": "用一句英文简要回答：What is Mrs. Li's job?",
+        "answer": "a teacher"
+      }
+    ]
+  },
+  {
+    "id": "reading_b1_r002",
+    "title": "我的爱好",
+    "level": "B1",
+    "category": "hobby",
+    "content": "Sophia loves swimming very much. She practices it every week after school. Her favorite place to practice is near her home, and she often goes there by bike.",
+    "words": 28,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What is Sophia’s hobby?",
+        "options": [
+          "football",
+          "basketball",
+          "swimming"
+        ],
+        "answer": "swimming"
+      },
+      {
+        "type": "choice",
+        "question": "How does Sophia get to her practice place?",
+        "options": [
+          "by bike",
+          "on foot",
+          "by train"
+        ],
+        "answer": "by bike"
+      },
+      {
+        "type": "judge",
+        "question": "Sophia practices her hobby once a month.",
+        "options": [
+          "正确",
+          "错误"
+        ],
+        "answer": "错误"
+      },
+      {
+        "type": "short",
+        "question": "用一句英文简要回答：What is Sophia’s hobby?",
+        "answer": "swimming"
+      }
+    ]
+  },
+  {
+    "id": "reading_b1_r003",
+    "title": "城市旅行",
+    "level": "B1",
+    "category": "travel",
+    "content": "Last month David visited New York. He stayed there for a week. He walked around the city and tried local salad. He thinks New York is a wonderful city to visit in summer.",
+    "words": 33,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "Which city did David visit?",
+        "options": [
+          "New York",
+          "Paris",
+          "Beijing"
+        ],
+        "answer": "New York"
+      },
+      {
+        "type": "choice",
+        "question": "What did David try in the city?",
+        "options": [
+          "noodles",
+          "fried rice",
+          "salad"
+        ],
+        "answer": "salad"
+      },
+      {
+        "type": "judge",
+        "question": "David stayed in the city for one month.",
+        "options": [
+          "正确",
+          "错误"
+        ],
+        "answer": "错误"
+      },
+      {
+        "type": "short",
+        "question": "用一句英文简要回答：Which city did David visit?",
+        "answer": "New York"
+      }
+    ]
+  }
+]

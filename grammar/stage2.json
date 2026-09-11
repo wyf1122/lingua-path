@@ -1,0 +1,943 @@
+[
+  {
+    "id": "grammar_a2_001",
+    "title": "一般过去时（规则动词）",
+    "level": "A2",
+    "category": "时态",
+    "explanation": "一般过去时用于描述过去发生的动作。规则动词的过去式在词尾加 -ed，但有不同的拼写规则。否定用 didn't + 动词原形，疑问句用 Did + 主语 + 动词原形。",
+    "rules": [
+      "一般加 -ed：walk → walked, play → played",
+      "以 e 结尾只加 -d：live → lived, hope → hoped",
+      "辅音字母 + y 结尾变 y 为 i 加 -ed：study → studied",
+      "重读闭音节双写末字母加 -ed：stop → stopped"
+    ],
+    "examples": [
+      {
+        "en": "I walked to school yesterday.",
+        "zh": "我昨天步行去学校。"
+      },
+      {
+        "en": "She studied English last night.",
+        "zh": "她昨晚学习了英语。"
+      },
+      {
+        "en": "We cleaned the house on Sunday.",
+        "zh": "我们周日打扫了房子。"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill",
+        "question": "They ___ (visit) their grandparents last weekend.",
+        "answer": "visited",
+        "options": [
+          "visit",
+          "visited",
+          "visiting"
+        ]
+      },
+      {
+        "type": "error",
+        "question": "找出错误并选择正确说法：I didn't went to school yesterday.",
+        "answer": "I didn't go to school yesterday.",
+        "options": [
+          "I didn't went to school yesterday.",
+          "I didn't go to school yesterday.",
+          "I no went to school yesterday."
+        ]
+      },
+      {
+        "type": "order",
+        "question": "把单词排序成正确的句子（一般过去时：1. She 2. walked 3. to the park 4. yesterday）。",
+        "answer": "she walked to the park yesterday",
+        "segments": [
+          "She",
+          "walked",
+          "to the park",
+          "yesterday"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grammar_a2_002",
+    "title": "一般过去时（不规则动词）",
+    "level": "A2",
+    "category": "时态",
+    "explanation": "不规则动词的过去式没有统一规律，需要逐个记忆。常见的不规则动词有 go-went, see-saw, eat-ate, take-took 等。否定和疑问形式与规则动词相同。",
+    "rules": [
+      "不规则动词过去式需单独记忆：go → went, see → saw, eat → ate",
+      "否定：didn't + 动词原形，如 didn't go",
+      "疑问：Did + 主语 + 动词原形，如 Did you go?",
+      "过去式变化类型多样：元音变化、辅音变化、词形完全不同等"
+    ],
+    "examples": [
+      {
+        "en": "She went to Beijing last week.",
+        "zh": "她上周去了北京。"
+      },
+      {
+        "en": "I saw a movie yesterday.",
+        "zh": "我昨天看了一部电影。"
+      },
+      {
+        "en": "We ate lunch at noon.",
+        "zh": "我们中午吃了午饭。"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill",
+        "question": "She ___ (go) to the store yesterday.",
+        "answer": "went",
+        "options": [
+          "go",
+          "went",
+          "goed"
+        ]
+      },
+      {
+        "type": "fill",
+        "question": "___ you see the movie last night?",
+        "answer": "Did",
+        "options": [
+          "Do",
+          "Did",
+          "Does"
+        ]
+      },
+      {
+        "type": "error",
+        "question": "找出错误并选择正确说法：I eated breakfast this morning.",
+        "answer": "I ate breakfast this morning.",
+        "options": [
+          "I eated breakfast this morning.",
+          "I ate breakfast this morning.",
+          "I eat breakfast this morning."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grammar_a2_003",
+    "title": "现在完成时（入门）",
+    "level": "A2",
+    "category": "时态",
+    "explanation": "现在完成时用于描述过去发生的动作对现在造成的影响，或从过去持续到现在的状态。结构为 have/has + 过去分词。常与 already, yet, just, ever, never 等副词连用。",
+    "rules": [
+      "have / has + 过去分词",
+      "I / You / We / They + have + p.p.",
+      "He / She / It + has + p.p.",
+      "already（肯定句中）、yet（否定/疑问句中）、just 表示时间",
+      "ever / never 表示经历"
+    ],
+    "examples": [
+      {
+        "en": "I have already finished my homework.",
+        "zh": "我已经完成了作业。"
+      },
+      {
+        "en": "Have you ever been to Shanghai?",
+        "zh": "你去过上海吗？"
+      },
+      {
+        "en": "She has just arrived.",
+        "zh": "她刚刚到达。"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill",
+        "question": "She ___ (finish) her report already.",
+        "answer": "has finished",
+        "options": [
+          "finished",
+          "has finished",
+          "have finished"
+        ]
+      },
+      {
+        "type": "fill",
+        "question": "I ___ never been to the UK.",
+        "answer": "have",
+        "options": [
+          "has",
+          "have",
+          "am"
+        ]
+      },
+      {
+        "type": "error",
+        "question": "找出错误并选择正确说法：I have ever visited Beijing last year.",
+        "answer": "I visited Beijing last year.",
+        "options": [
+          "I have visited Beijing last year.",
+          "I visited Beijing last year.",
+          "I have visit Beijing last year."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grammar_a2_004",
+    "title": "形容词比较级",
+    "level": "A2",
+    "category": "形容词",
+    "explanation": "比较级用于两者之间的比较。短形容词加 -er，长形容词前加 more。基本结构为 比较级 + than。还有一些不规则变化需特别记忆。",
+    "rules": [
+      "短形容词加 -er：tall → taller, fast → faster",
+      "以 e 结尾只加 -r：large → larger",
+      "辅音 + y 结尾变 y 为 i 加 -er：happy → happier",
+      "长形容词前加 more：more beautiful, more expensive",
+      "不规则：good → better, bad → worse, far → farther/further"
+    ],
+    "examples": [
+      {
+        "en": "This book is more interesting than that one.",
+        "zh": "这本书比那本更有趣。"
+      },
+      {
+        "en": "She is taller than her sister.",
+        "zh": "她比她姐姐高。"
+      },
+      {
+        "en": "Today is hotter than yesterday.",
+        "zh": "今天比昨天更热。"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill",
+        "question": "Summer is ___ (hot) than spring.",
+        "answer": "hotter",
+        "options": [
+          "hot",
+          "hotter",
+          "hottest"
+        ]
+      },
+      {
+        "type": "fill",
+        "question": "This movie is ___ (good) than the last one.",
+        "answer": "better",
+        "options": [
+          "gooder",
+          "better",
+          "more good"
+        ]
+      },
+      {
+        "type": "error",
+        "question": "找出错误并选择正确说法：My brother is more tall than me.",
+        "answer": "My brother is taller than me.",
+        "options": [
+          "My brother is more tall than me.",
+          "My brother is taller than me.",
+          "My brother is most tall than me."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grammar_a2_005",
+    "title": "形容词最高级",
+    "level": "A2",
+    "category": "形容词",
+    "explanation": "最高级用于三者或以上的比较，表示最什么的。短形容词加 -est，长形容词前加 most。最高级前通常加 the。",
+    "rules": [
+      "短形容词加 -est：tall → the tallest",
+      "长形容词前加 the most：the most beautiful",
+      "不规则：good → the best, bad → the worst",
+      "常与 in + 范围或 of + 群体连用"
+    ],
+    "examples": [
+      {
+        "en": "She is the best student in our class.",
+        "zh": "她是我们班最好的学生。"
+      },
+      {
+        "en": "This is the most expensive restaurant in town.",
+        "zh": "这是城里最贵的餐厅。"
+      },
+      {
+        "en": "Mt. Everest is the highest mountain in the world.",
+        "zh": "珠穆朗玛峰是世界上最高的山。"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill",
+        "question": "This is the ___ (expensive) restaurant in town.",
+        "answer": "most expensive",
+        "options": [
+          "expensiver",
+          "most expensive",
+          "expensivest"
+        ]
+      },
+      {
+        "type": "fill",
+        "question": "He is the ___ (tall) boy in the class.",
+        "answer": "tallest",
+        "options": [
+          "taller",
+          "tallest",
+          "most tall"
+        ]
+      },
+      {
+        "type": "error",
+        "question": "找出错误并选择正确说法：This is the most cheap phone in the store.",
+        "answer": "This is the cheapest phone in the store.",
+        "options": [
+          "This is the most cheap phone in the store.",
+          "This is the cheapest phone in the store.",
+          "This is cheapest phone in the store."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grammar_a2_006",
+    "title": "频率副词",
+    "level": "A2",
+    "category": "副词",
+    "explanation": "频率副词用于表示动作发生的频率。按频率从高到低排列：always (100%) → usually (80%) → often (60%) → sometimes (40%) → seldom (20%) → never (0%)。频率副词通常放在 be 动词之后、行为动词之前。",
+    "rules": [
+      "be 动词之后：She is always late.",
+      "行为动词之前：I usually get up at 7.",
+      "助动词/情态动词之后：He can never remember.",
+      "sometimes 还可放在句首或句末"
+    ],
+    "examples": [
+      {
+        "en": "I always brush my teeth before bed.",
+        "zh": "我睡前总是刷牙。"
+      },
+      {
+        "en": "She is sometimes late for school.",
+        "zh": "她有时候上学迟到。"
+      },
+      {
+        "en": "He never eats fast food.",
+        "zh": "他从不吃快餐。"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill",
+        "question": "She ___ (always) arrives on time.",
+        "answer": "always",
+        "options": [
+          "always",
+          "never",
+          "already"
+        ]
+      },
+      {
+        "type": "fill",
+        "question": "I ___ (usually / never) drink coffee in the morning.",
+        "answer": "usually",
+        "options": [
+          "usually",
+          "already",
+          "still"
+        ]
+      },
+      {
+        "type": "error",
+        "question": "找出错误并选择正确说法：He always is happy.",
+        "answer": "He is always happy.",
+        "options": [
+          "He always is happy.",
+          "He is always happy.",
+          "He always happy is."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grammar_a2_007",
+    "title": "情态动词 should 和 must",
+    "level": "A2",
+    "category": "情态动词",
+    "explanation": "should 表示建议或应该做的事，must 表示义务或必须做的事。should 语气较温和，must 语气较强。否定形式：shouldn't（不应该）、mustn't（禁止）。",
+    "rules": [
+      "should + 动词原形：表示建议或义务",
+      "must + 动词原形：表示必须或强烈义务",
+      "shouldn't 表示不应该",
+      "mustn't 表示禁止（不可以）",
+      "must 的否定回答用 needn't 或 don't have to"
+    ],
+    "examples": [
+      {
+        "en": "You should drink more water.",
+        "zh": "你应该多喝水。"
+      },
+      {
+        "en": "You must wear a seatbelt in the car.",
+        "zh": "在车里你必须系安全带。"
+      },
+      {
+        "en": "You shouldn't stay up too late.",
+        "zh": "你不应该熬夜太晚。"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill",
+        "question": "You ___ (should / must) see a doctor if you feel sick.",
+        "answer": "should",
+        "options": [
+          "should",
+          "must",
+          "can"
+        ]
+      },
+      {
+        "type": "fill",
+        "question": "You ___ (mustn't / shouldn't) touch the wet paint.",
+        "answer": "mustn't",
+        "options": [
+          "mustn't",
+          "shouldn't",
+          "needn't"
+        ]
+      },
+      {
+        "type": "order",
+        "question": "把单词排序成正确的句子（should：1. more 2. You 3. exercise 4. should）。",
+        "answer": "you should exercise more",
+        "segments": [
+          "more",
+          "You",
+          "exercise",
+          "should"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grammar_a2_008",
+    "title": "时间介词",
+    "level": "A2",
+    "category": "介词",
+    "explanation": "英语中常用的时间介词有 at、on、in。at 用于具体时刻，on 用于具体日期和星期，in 用于较长的时间段如月份、年份、季节等。",
+    "rules": [
+      "at 用于具体时刻：at 7 o'clock, at noon, at night",
+      "on 用于日期和星期：on Monday, on May 1st, on Christmas Day",
+      "in 用于时间段：in the morning, in 2024, in summer",
+      "for 表示持续时间，since 表示从某时间点起"
+    ],
+    "examples": [
+      {
+        "en": "I wake up at 6:30 every day.",
+        "zh": "我每天6:30起床。"
+      },
+      {
+        "en": "We have a meeting on Friday.",
+        "zh": "我们周五有个会议。"
+      },
+      {
+        "en": "She was born in 1995.",
+        "zh": "她出生于1995年。"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill",
+        "question": "I usually get up ___ 7 o'clock.",
+        "answer": "at",
+        "options": [
+          "at",
+          "on",
+          "in"
+        ]
+      },
+      {
+        "type": "fill",
+        "question": "The concert is ___ Saturday.",
+        "answer": "on",
+        "options": [
+          "at",
+          "on",
+          "in"
+        ]
+      },
+      {
+        "type": "error",
+        "question": "找出错误并选择正确说法：I was born in May 1st, 1995.",
+        "answer": "I was born on May 1st, 1995.",
+        "options": [
+          "I was born in May 1st, 1995.",
+          "I was born on May 1st, 1995.",
+          "I was born at May 1st, 1995."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grammar_a2_009",
+    "title": "连词 and / but / or",
+    "level": "A2",
+    "category": "连词",
+    "explanation": "连词用于连接单词、短语或句子。and 表示并列或递进，but 表示转折或对比，or 表示选择或否定条件（否则）。",
+    "rules": [
+      "and 连接并列成分：A and B",
+      "but 连接转折关系：A, but B",
+      "or 连接选择关系：A or B",
+      "否定句中用 or 代替 and：I don't like tea or coffee"
+    ],
+    "examples": [
+      {
+        "en": "I like tea and coffee.",
+        "zh": "我喜欢茶和咖啡。"
+      },
+      {
+        "en": "He is smart but lazy.",
+        "zh": "他聪明但是懒。"
+      },
+      {
+        "en": "Would you like tea or coffee?",
+        "zh": "你想要茶还是咖啡？"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill",
+        "question": "She is tired ___ happy.",
+        "answer": "but",
+        "options": [
+          "and",
+          "but",
+          "or"
+        ]
+      },
+      {
+        "type": "fill",
+        "question": "Do you want rice ___ noodles?",
+        "answer": "or",
+        "options": [
+          "and",
+          "but",
+          "or"
+        ]
+      },
+      {
+        "type": "order",
+        "question": "把单词排序成正确的句子（and：1. I 2. like 3. and 4. cats 5. dogs）。",
+        "answer": "i like cats and dogs",
+        "segments": [
+          "I",
+          "like",
+          "cats",
+          "and",
+          "dogs"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grammar_a2_010",
+    "title": "be going to 将来时",
+    "level": "A2",
+    "category": "时态",
+    "explanation": "be going to 用于表示已有的计划或意图，以及根据当前迹象做出的预测。结构为 be (am/is/are) going to + 动词原形。",
+    "rules": [
+      "be going to + 动词原形：表示计划或打算",
+      "根据迹象预测：Look at the clouds. It is going to rain.",
+      "am going to（I）、is going to（he/she/it）、are going to（you/we/they）",
+      "否定：be + not + going to + 动词原形"
+    ],
+    "examples": [
+      {
+        "en": "I am going to study abroad next year.",
+        "zh": "我打算明年出国留学。"
+      },
+      {
+        "en": "Look at the clouds! It is going to rain.",
+        "zh": "看那些云！要下雨了。"
+      },
+      {
+        "en": "We are going to have a party this weekend.",
+        "zh": "我们这周末要举办派对。"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill",
+        "question": "Look at the clouds! It ___ (rain) soon.",
+        "answer": "is going to rain",
+        "options": [
+          "rains",
+          "is going to rain",
+          "will raining"
+        ]
+      },
+      {
+        "type": "fill",
+        "question": "We ___ (go) to the beach tomorrow.",
+        "answer": "are going to go",
+        "options": [
+          "are going to go",
+          "are going",
+          "go"
+        ]
+      },
+      {
+        "type": "error",
+        "question": "找出错误并选择正确说法：She going to travel next month.",
+        "answer": "She is going to travel next month.",
+        "options": [
+          "She going to travel next month.",
+          "She is going to travel next month.",
+          "She is go to travel next month."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grammar_a2_r001",
+    "title": "一般将来时",
+    "category": "时态",
+    "explanation": "一般将来时表示将要发生的动作，常用 will / be going to 表达。",
+    "rules": [
+      "will + 动词原形",
+      "be going to + 动词原形",
+      "时间词：tomorrow, next week"
+    ],
+    "examples": [
+      {
+        "en": "I will visit you tomorrow.",
+        "zh": "我明天去看你。"
+      },
+      {
+        "en": "She is going to buy a new car.",
+        "zh": "她打算买一辆新车。"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill",
+        "question": "It ___ tomorrow.",
+        "answer": "will rain",
+        "options": [
+          "rains",
+          "will rain",
+          "raining"
+        ]
+      },
+      {
+        "type": "error",
+        "question": "找出错误：They will goes to the park.",
+        "answer": "They will go to the park",
+        "options": [
+          "They will go to the park",
+          "They will goes to the park",
+          "They will going to the park"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grammar_a2_r002",
+    "title": "比较级和最高级",
+    "category": "词法",
+    "explanation": "比较级比较两者，最高级比较三者及以上。规则形容词加 er/est，多音节用 more/most。",
+    "rules": [
+      "两者：形容词比较级（+er 或 more）than",
+      "三者及以上：the 最高级（+est 或 most）",
+      "不规则：good-better-best"
+    ],
+    "examples": [
+      {
+        "en": "This box is heavier than that one.",
+        "zh": "这个箱子比那个重。"
+      },
+      {
+        "en": "She is the best student in our class.",
+        "zh": "她是我们班最好的学生。"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill",
+        "question": "My sister is ___ than me.",
+        "answer": "taller",
+        "options": [
+          "tall",
+          "taller",
+          "tallest"
+        ]
+      },
+      {
+        "type": "error",
+        "question": "找出错误：He is more taller than his brother.",
+        "answer": "He is taller than his brother",
+        "options": [
+          "He is taller than his brother",
+          "He is more taller than his brother",
+          "He is tall than his brother"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grammar_a2_r003",
+    "title": "宾格代词",
+    "category": "代词",
+    "explanation": "宾格代词在句子中作宾语，位于动词或介词之后。",
+    "rules": [
+      "I → me, he → him, she → her, they → them",
+      "位于动词之后：help me",
+      "位于介词之后：for him"
+    ],
+    "examples": [
+      {
+        "en": "Please give it to me.",
+        "zh": "请把它给我。"
+      },
+      {
+        "en": "John helped them yesterday.",
+        "zh": "约翰昨天帮了他们。"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill",
+        "question": "Can you call ___ tonight?",
+        "answer": "her",
+        "options": [
+          "she",
+          "her",
+          "hers"
+        ]
+      },
+      {
+        "type": "error",
+        "question": "找出错误：Tom and me went to the park.",
+        "answer": "Tom and I went to the park",
+        "options": [
+          "Tom and I went to the park",
+          "Tom and me went to the park",
+          "Tom and I go to the park"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grammar_a2_r004",
+    "title": "This / That / These / Those",
+    "category": "代词",
+    "explanation": "近处用 this/these，远处用 that/those。this/that 后接单数名词，these/those 后接复数。",
+    "rules": [
+      "this / that + 单数",
+      "these / those + 复数",
+      "疑问句把 this/that 提前"
+    ],
+    "examples": [
+      {
+        "en": "This is my sister.",
+        "zh": "这是我姐姐。"
+      },
+      {
+        "en": "Those are my classmates.",
+        "zh": "那些是我的同学。"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill",
+        "question": "___ is my pen.",
+        "answer": "This",
+        "options": [
+          "This",
+          "These",
+          "That"
+        ]
+      },
+      {
+        "type": "error",
+        "question": "找出错误：These book are new.",
+        "answer": "These books are new",
+        "options": [
+          "These books are new",
+          "These book are new",
+          "This books are new"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grammar_a2_r005",
+    "title": "祈使句",
+    "category": "句型",
+    "explanation": "祈使句表示请求、命令或建议，通常省略主语 you，动词用原形。",
+    "rules": [
+      "肯定：动词原形开头",
+      "否定：Don’t + 动词原形",
+      "委婉：Please …"
+    ],
+    "examples": [
+      {
+        "en": "Open the window, please.",
+        "zh": "请打开窗户。"
+      },
+      {
+        "en": "Don’t be late again.",
+        "zh": "别再迟到了。"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill",
+        "question": "___ here.",
+        "answer": "Don’t smoke",
+        "options": [
+          "Don’t smoke",
+          "Not smoke",
+          "No smoke"
+        ]
+      },
+      {
+        "type": "error",
+        "question": "找出错误：Don’t to run in the hall.",
+        "answer": "Don’t run in the hall",
+        "options": [
+          "Don’t run in the hall",
+          "Don’t to run in the hall",
+          "No run in the hall"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grammar_a2_r006",
+    "title": "情态动词 must",
+    "category": "情态动词",
+    "explanation": "must 表示“必须”，语义很强，否定 mustn’t 表示“禁止”。",
+    "rules": [
+      "must + 动词原形",
+      "否定：must not / mustn’t",
+      "所有人称同形"
+    ],
+    "examples": [
+      {
+        "en": "You must wear a seat belt.",
+        "zh": "你必须系安全带。"
+      },
+      {
+        "en": "You mustn’t talk loudly here.",
+        "zh": "这里不许大声说话。"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill",
+        "question": "We ___ finish the work today.",
+        "answer": "must",
+        "options": [
+          "must",
+          "musts",
+          "must to"
+        ]
+      },
+      {
+        "type": "error",
+        "question": "找出错误：You must to finish it now.",
+        "answer": "You must finish it now",
+        "options": [
+          "You must finish it now",
+          "You must to finish it now",
+          "You musts finish it now"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grammar_a2_r007",
+    "title": "连接词 and / but / so",
+    "category": "连词",
+    "explanation": "连词用来连接句子。and 表示并列，but 表示转折，so 表示结果。",
+    "rules": [
+      "and：并列顺承",
+      "but：转折对比",
+      "so：因果关系"
+    ],
+    "examples": [
+      {
+        "en": "I like tea and I like coffee too.",
+        "zh": "我喜欢茶，也喜欢咖啡。"
+      },
+      {
+        "en": "It was late, so I went home.",
+        "zh": "天晚了，所以我就回家了。"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill",
+        "question": "I studied hard, ___ I passed the exam.",
+        "answer": "so",
+        "options": [
+          "so",
+          "but",
+          "and"
+        ]
+      },
+      {
+        "type": "fill",
+        "question": "He is rich, ___ he is not happy.",
+        "answer": "but",
+        "options": [
+          "but",
+          "so",
+          "and"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grammar_a2_r008",
+    "title": "频率副词",
+    "category": "词法",
+    "explanation": "频率副词表示动作发生的频率，通常位于动词前、be 动词后。",
+    "rules": [
+      "程度排序：always > usually > often > sometimes > never",
+      "一般动词前：I often read",
+      "be 动词后：It is always cold"
+    ],
+    "examples": [
+      {
+        "en": "I always brush my teeth before bed.",
+        "zh": "我睡觉前总是刷牙。"
+      },
+      {
+        "en": "She never eats fast food.",
+        "zh": "她从不吃快餐。"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "order",
+        "question": "排序：usually / he / walks / to school",
+        "answer": "He usually walks to school",
+        "options": [
+          "He usually walks to school",
+          "He walk usually to school",
+          "He walks school usually to"
+        ]
+      },
+      {
+        "type": "fill",
+        "question": "I ___ at six.",
+        "answer": "always get up",
+        "options": [
+          "always get up",
+          "get up always",
+          "get always up"
+        ]
+      }
+    ]
+  }
+]

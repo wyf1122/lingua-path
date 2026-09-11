@@ -1,0 +1,412 @@
+[
+  {
+    "id": "listening_a1_001",
+    "title": "At the Coffee Shop",
+    "level": "A1",
+    "category": "going-out",
+    "content": "Can I help you? Yes, I'd like a coffee, please. Would you like anything else? No, thank you. That will be three dollars.",
+    "duration": 20,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What does the customer want?",
+        "options": [
+          "A tea",
+          "A coffee",
+          "A juice"
+        ],
+        "answer": "A coffee"
+      },
+      {
+        "type": "choice",
+        "question": "How much is the coffee?",
+        "options": [
+          "Two dollars",
+          "Three dollars",
+          "Four dollars"
+        ],
+        "answer": "Three dollars"
+      }
+    ]
+  },
+  {
+    "id": "listening_a1_002",
+    "title": "Greeting a New Friend",
+    "level": "A1",
+    "category": "friendship",
+    "content": "Hi, I'm Lucy. Nice to meet you. I'm Tom. Where are you from? I'm from the UK. How about you? I'm from Australia.",
+    "duration": 25,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "Where is Tom from?",
+        "options": [
+          "The UK",
+          "Australia",
+          "The USA"
+        ],
+        "answer": "Australia"
+      },
+      {
+        "type": "choice",
+        "question": "What is Lucy's nationality?",
+        "options": [
+          "Australian",
+          "American",
+          "British"
+        ],
+        "answer": "British"
+      }
+    ]
+  },
+  {
+    "id": "listening_a1_003",
+    "title": "Buying a Ticket",
+    "level": "A1",
+    "category": "going-out",
+    "content": "Good morning. I'd like two tickets to the movie, please. The movie starts at seven. How much is each ticket? It is five dollars. OK, here you go. Thank you and enjoy the show.",
+    "duration": 25,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "How many tickets does the person buy?",
+        "options": [
+          "One",
+          "Two",
+          "Three"
+        ],
+        "answer": "Two"
+      },
+      {
+        "type": "choice",
+        "question": "How much is each ticket?",
+        "options": [
+          "Five dollars",
+          "Six dollars",
+          "Seven dollars"
+        ],
+        "answer": "Five dollars"
+      }
+    ]
+  },
+  {
+    "id": "listening_a1_004",
+    "title": "At Home with Family",
+    "level": "A1",
+    "category": "family",
+    "content": "Mom, I'm hungry. What's for dinner? We have pasta tonight. Great! I love pasta. Do you want some salad too? Yes, please. OK, sit at the table. Dinner is ready in ten minutes.",
+    "duration": 22,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What is for dinner?",
+        "options": [
+          "Rice",
+          "Pasta",
+          "Soup"
+        ],
+        "answer": "Pasta"
+      },
+      {
+        "type": "choice",
+        "question": "How long until dinner is ready?",
+        "options": [
+          "Five minutes",
+          "Ten minutes",
+          "Twenty minutes"
+        ],
+        "answer": "Ten minutes"
+      }
+    ]
+  },
+  {
+    "id": "listening_a1_005",
+    "title": "Shopping for Clothes",
+    "level": "A1",
+    "category": "shopping",
+    "content": "Can I help you? Yes, I'm looking for a T-shirt. What colour do you like? Blue, please. How about this one? It's nice. How much is it? It's twelve pounds. OK, I'll take it.",
+    "duration": 20,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What is the person looking for?",
+        "options": [
+          "A jacket",
+          "A T-shirt",
+          "A hat"
+        ],
+        "answer": "A T-shirt"
+      },
+      {
+        "type": "choice",
+        "question": "How much does the T-shirt cost?",
+        "options": [
+          "Ten pounds",
+          "Twelve pounds",
+          "Fifteen pounds"
+        ],
+        "answer": "Twelve pounds"
+      }
+    ]
+  },
+  {
+    "id": "listening_a1_006",
+    "title": "At School",
+    "level": "A1",
+    "category": "school",
+    "content": "Good morning, class. Open your books to page ten. Today we will learn about animals. Can you see the picture of the cat? Yes! Very good. What sound does a cat make? Meow! That's right.",
+    "duration": 22,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What page should the students open?",
+        "options": [
+          "Page five",
+          "Page ten",
+          "Page fifteen"
+        ],
+        "answer": "Page ten"
+      },
+      {
+        "type": "choice",
+        "question": "What topic are they learning about?",
+        "options": [
+          "Colours",
+          "Numbers",
+          "Animals"
+        ],
+        "answer": "Animals"
+      }
+    ]
+  },
+  {
+    "id": "listening_a1_007",
+    "title": "Playing in the Park",
+    "level": "A1",
+    "category": "hobbies",
+    "content": "Hi, Anna! Do you want to play? Yes! What do you want to play? Let's play football. OK! I can kick the ball. Great! Can you pass it to me? Here you go. Good job!",
+    "duration": 18,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What sport do they play?",
+        "options": [
+          "Basketball",
+          "Football",
+          "Tennis"
+        ],
+        "answer": "Football"
+      },
+      {
+        "type": "choice",
+        "question": "Who kicks the ball?",
+        "options": [
+          "Anna",
+          "The speaker",
+          "Both"
+        ],
+        "answer": "Anna"
+      }
+    ]
+  },
+  {
+    "id": "listening_a1_008",
+    "title": "A Visit to the Doctor",
+    "level": "A1",
+    "category": "health",
+    "content": "Good morning. What's the matter? I have a headache. I see. Do you have a fever? Let me check. Your temperature is normal. Take this medicine and drink lots of water. Thank you, doctor.",
+    "duration": 25,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What is wrong with the patient?",
+        "options": [
+          "A cough",
+          "A headache",
+          "A toothache"
+        ],
+        "answer": "A headache"
+      },
+      {
+        "type": "choice",
+        "question": "What does the patient's temperature show?",
+        "options": [
+          "A fever",
+          "It is normal",
+          "It is low"
+        ],
+        "answer": "It is normal"
+      }
+    ]
+  },
+  {
+    "id": "listening_a1_009",
+    "title": "Booking a Hotel Room",
+    "level": "A1",
+    "category": "travel",
+    "content": "Hello, I'd like to book a room, please. For how many nights? Two nights. From Friday to Sunday. Do you want a single or double room? A single room, please. That's sixty dollars per night. OK, that's fine.",
+    "duration": 22,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "How many nights does the person want to stay?",
+        "options": [
+          "One night",
+          "Two nights",
+          "Three nights"
+        ],
+        "answer": "Two nights"
+      },
+      {
+        "type": "choice",
+        "question": "What type of room does the person book?",
+        "options": [
+          "A double room",
+          "A single room",
+          "A family room"
+        ],
+        "answer": "A single room"
+      }
+    ]
+  },
+  {
+    "id": "listening_a1_010",
+    "title": "Ordering Breakfast",
+    "level": "A1",
+    "category": "food",
+    "content": "Good morning! What would you like for breakfast? I'd like some eggs and toast, please. And some orange juice. OK. Anything else? No, that's all. Here you are. Thank you. Enjoy your breakfast.",
+    "duration": 20,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What does the customer order?",
+        "options": [
+          "Cereal and milk",
+          "Eggs, toast and juice",
+          "Pancakes and coffee"
+        ],
+        "answer": "Eggs, toast and juice"
+      },
+      {
+        "type": "choice",
+        "question": "Does the customer want anything else?",
+        "options": [
+          "Yes, more juice",
+          "Yes, some fruit",
+          "No, that's all"
+        ],
+        "answer": "No, that's all"
+      }
+    ]
+  },
+  {
+    "id": "listening_a1_r001",
+    "title": "动物园见闻",
+    "level": "A1",
+    "category": "nature",
+    "content": "Look, there is a rabbit over there! Wow, it is so cute and green. Yes, I love it a lot. Let us take a photo of it.",
+    "duration": 20,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What animal do they see?",
+        "options": [
+          "a bird",
+          "a dog",
+          "a rabbit"
+        ],
+        "answer": "a rabbit"
+      },
+      {
+        "type": "choice",
+        "question": "What color is the animal?",
+        "options": [
+          "red",
+          "green",
+          "blue"
+        ],
+        "answer": "green"
+      }
+    ]
+  },
+  {
+    "id": "listening_a1_r002",
+    "title": "早餐讨论",
+    "level": "A1",
+    "category": "food",
+    "content": "What do you have for breakfast? I usually have a piece of cake and a glass of milk. That sounds good! And I also drink a glass of juice later in the day.",
+    "duration": 20,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What does the person eat for breakfast?",
+        "options": [
+          "a piece of cake",
+          "a sandwich",
+          "some chicken"
+        ],
+        "answer": "a piece of cake"
+      },
+      {
+        "type": "choice",
+        "question": "What does the person also like to drink?",
+        "options": [
+          "a bottle of water",
+          "a glass of juice",
+          "a cup of coffee"
+        ],
+        "answer": "a glass of juice"
+      }
+    ]
+  },
+  {
+    "id": "listening_a1_r003",
+    "title": "上学聊天",
+    "level": "A1",
+    "category": "education",
+    "content": "How do you go to school every day? I go to school by bus. What time do you leave home? I leave home at nine in the morning.",
+    "duration": 20,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What time does the person leave home?",
+        "options": [
+          "eight",
+          "seven",
+          "nine"
+        ],
+        "answer": "nine"
+      }
+    ]
+  },
+  {
+    "id": "listening_a1_r004",
+    "title": "在咖啡店点单",
+    "level": "A1",
+    "category": "going-out",
+    "content": "Can I help you? Yes, I would like a glass of juice, please. That will be four dollars. Here you go. Thank you.",
+    "duration": 20,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What would the customer like to order?",
+        "options": [
+          "a glass of juice",
+          "a cup of tea",
+          "a cup of coffee"
+        ],
+        "answer": "a glass of juice"
+      },
+      {
+        "type": "choice",
+        "question": "How much does the drink cost?",
+        "options": [
+          "five",
+          "three",
+          "four"
+        ],
+        "answer": "four"
+      }
+    ]
+  }
+]

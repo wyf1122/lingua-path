@@ -1,0 +1,462 @@
+[
+  {
+    "id": "listening_b1_001",
+    "title": "Job Interview Tips",
+    "level": "B1",
+    "category": "work",
+    "content": "When you go to a job interview, it is important to arrive early and dress neatly. Prepare answers to common questions about your experience. Remember to show confidence and ask questions about the company.",
+    "duration": 40,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What is important before a job interview?",
+        "options": [
+          "Arriving late",
+          "Arriving early",
+          "Bringing a gift"
+        ],
+        "answer": "Arriving early"
+      },
+      {
+        "type": "choice",
+        "question": "What should you prepare for the interview?",
+        "options": [
+          "Answers about your experience",
+          "A list of questions only",
+          "Your resume translation"
+        ],
+        "answer": "Answers about your experience"
+      }
+    ]
+  },
+  {
+    "id": "listening_b1_002",
+    "title": "Airport Announcement",
+    "level": "B1",
+    "category": "travel",
+    "content": "Attention all passengers. Flight 402 to London is now boarding at Gate 12. Please have your boarding pass ready. The flight will depart at 14:30. Passengers in first class may board first. We apologize for the short delay and thank you for your patience.",
+    "duration": 35,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "Which flight is boarding?",
+        "options": [
+          "Flight 204 to Paris",
+          "Flight 402 to London",
+          "Flight 420 to New York"
+        ],
+        "answer": "Flight 402 to London"
+      },
+      {
+        "type": "choice",
+        "question": "When will the flight depart?",
+        "options": [
+          "At 13:30",
+          "At 14:30",
+          "At 15:30"
+        ],
+        "answer": "At 14:30"
+      }
+    ]
+  },
+  {
+    "id": "listening_b1_003",
+    "title": "Student Club Notice",
+    "level": "B1",
+    "category": "education",
+    "content": "Hello everyone. Our English club will meet every Friday afternoon this term from four to five. We will practice speaking, watch short movies and share different cultures. If you are interested, please send an email to the club address by this Wednesday. We look forward to seeing you there.",
+    "duration": 38,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "When does the English club meet?",
+        "options": [
+          "Every Monday afternoon",
+          "Every Friday afternoon",
+          "Every Sunday morning"
+        ],
+        "answer": "Every Friday afternoon"
+      },
+      {
+        "type": "choice",
+        "question": "How should students sign up?",
+        "options": [
+          "By phone",
+          "By email",
+          "In person"
+        ],
+        "answer": "By email"
+      }
+    ]
+  },
+  {
+    "id": "listening_b1_004",
+    "title": "A Team Meeting at Work",
+    "level": "B1",
+    "category": "work",
+    "content": "OK everyone, let's get started. We need to finish the report by Friday. I've assigned the first section to Mark and the second section to Lisa. Sarah, can you handle the charts and graphs? Sure, no problem. What about the conclusion? I'll write that myself. Any questions? When is the draft due? Please send it to me by Thursday morning so I can review it. Got it. Let's make this our best report yet.",
+    "duration": 45,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "When is the report due?",
+        "options": [
+          "By Wednesday",
+          "By Thursday",
+          "By Friday"
+        ],
+        "answer": "By Friday"
+      },
+      {
+        "type": "choice",
+        "question": "Who will write the conclusion?",
+        "options": [
+          "Mark",
+          "Lisa",
+          "The manager"
+        ],
+        "answer": "The manager"
+      },
+      {
+        "type": "choice",
+        "question": "What will Sarah handle?",
+        "options": [
+          "The introduction",
+          "The charts and graphs",
+          "The bibliography"
+        ],
+        "answer": "The charts and graphs"
+      }
+    ]
+  },
+  {
+    "id": "listening_b1_005",
+    "title": "A Conversation About Exercise",
+    "level": "B1",
+    "category": "health",
+    "content": "Do you exercise regularly? Yes, I try to go to the gym three times a week. That's great. What kind of exercises do you do? I usually start with a ten-minute jog, then I do some weight training. Do you do any stretching? Yes, I always stretch for five minutes before and after. My doctor said stretching is very important to prevent injuries. That's good advice. I should probably do more of that.",
+    "duration": 42,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "How often does the person go to the gym?",
+        "options": [
+          "Once a week",
+          "Three times a week",
+          "Every day"
+        ],
+        "answer": "Three times a week"
+      },
+      {
+        "type": "choice",
+        "question": "What does the person do first at the gym?",
+        "options": [
+          "Weight training",
+          "Stretching",
+          "A ten-minute jog"
+        ],
+        "answer": "A ten-minute jog"
+      },
+      {
+        "type": "choice",
+        "question": "Why is stretching important according to the doctor?",
+        "options": [
+          "To build muscle",
+          "To prevent injuries",
+          "To lose weight"
+        ],
+        "answer": "To prevent injuries"
+      }
+    ]
+  },
+  {
+    "id": "listening_b1_006",
+    "title": "Volunteering at the Animal Shelter",
+    "level": "B1",
+    "category": "nature",
+    "content": "Thank you for coming to volunteer today. We have about thirty dogs and forty cats that need care. Your main job will be to feed the cats and clean their cages. That sounds great. I love animals. Do I need any special training? No, but please wear gloves when you clean the cages. We also need someone to walk the dogs this afternoon. I can do that too! Perfect. The dog leashes are by the back door.",
+    "duration": 45,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "How many cats are at the shelter?",
+        "options": [
+          "Thirty",
+          "Forty",
+          "Seventy"
+        ],
+        "answer": "Forty"
+      },
+      {
+        "type": "choice",
+        "question": "What must the volunteer wear when cleaning cages?",
+        "options": [
+          "An apron",
+          "Gloves",
+          "Boots"
+        ],
+        "answer": "Gloves"
+      },
+      {
+        "type": "choice",
+        "question": "Where are the dog leashes?",
+        "options": [
+          "By the front door",
+          "By the back door",
+          "In the office"
+        ],
+        "answer": "By the back door"
+      }
+    ]
+  },
+  {
+    "id": "listening_b1_007",
+    "title": "Discussing Weekend Plans",
+    "level": "B1",
+    "category": "friendship",
+    "content": "Hey, do you have any plans for this weekend? Not really. I was thinking of going hiking. Do you want to join me? I'd love to! Where are you planning to go? There's a nice trail near the lake. It takes about two hours to get to the top. That doesn't sound too bad. What should I bring? Bring water, snacks, and a rain jacket just in case. The weather can change quickly up there. OK, I'll pack everything tonight. What time should we leave? Let's meet at the train station at eight.",
+    "duration": 40,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What activity are they planning?",
+        "options": [
+          "Camping",
+          "Hiking",
+          "Cycling"
+        ],
+        "answer": "Hiking"
+      },
+      {
+        "type": "choice",
+        "question": "How long does it take to reach the top?",
+        "options": [
+          "About one hour",
+          "About two hours",
+          "About three hours"
+        ],
+        "answer": "About two hours"
+      },
+      {
+        "type": "choice",
+        "question": "What should they bring in case of rain?",
+        "options": [
+          "An umbrella",
+          "A rain jacket",
+          "A hat"
+        ],
+        "answer": "A rain jacket"
+      }
+    ]
+  },
+  {
+    "id": "listening_b1_008",
+    "title": "A Hotel Check-In",
+    "level": "B1",
+    "category": "travel",
+    "content": "Good afternoon. Welcome to the Grand Hotel. Do you have a reservation? Yes, under the name Kim. Let me check. Yes, I see a twin room for three nights. Would you like a room with a city view or a garden view? The garden view, please. Sure. Here's your key card. Your room is on the fifth floor. Breakfast is served from seven to ten in the dining room on the ground floor. Thank you. Is there Wi-Fi in the room? Yes, the password is on the card in your room. Enjoy your stay!",
+    "duration": 45,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What type of room did Mr. Kim book?",
+        "options": [
+          "A single room",
+          "A twin room",
+          "A family room"
+        ],
+        "answer": "A twin room"
+      },
+      {
+        "type": "choice",
+        "question": "What view does Mr. Kim choose?",
+        "options": [
+          "City view",
+          "Garden view",
+          "Sea view"
+        ],
+        "answer": "Garden view"
+      },
+      {
+        "type": "choice",
+        "question": "Until what time is breakfast served?",
+        "options": [
+          "Until eight",
+          "Until nine",
+          "Until ten"
+        ],
+        "answer": "Until ten"
+      }
+    ]
+  },
+  {
+    "id": "listening_b1_009",
+    "title": "Learning to Cook",
+    "level": "B1",
+    "category": "food",
+    "content": "Welcome to today's cooking class. We're going to make a simple pasta with tomato sauce. First, boil some water in a large pot. While waiting, chop the onions and garlic. When the water is boiling, add the pasta and cook it for about ten minutes. In another pan, heat some olive oil, add the onions and garlic, and stir for two minutes. Then add the canned tomatoes and salt. Let it simmer for fifteen minutes. Finally, drain the pasta and mix it with the sauce. Easy, right? Yes, it sounds delicious!",
+    "duration": 45,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "How long should the pasta cook?",
+        "options": [
+          "About five minutes",
+          "About ten minutes",
+          "About fifteen minutes"
+        ],
+        "answer": "About ten minutes"
+      },
+      {
+        "type": "choice",
+        "question": "What should you add after the onions and garlic?",
+        "options": [
+          "Butter and milk",
+          "Canned tomatoes and salt",
+          "Cheese and pepper"
+        ],
+        "answer": "Canned tomatoes and salt"
+      },
+      {
+        "type": "choice",
+        "question": "What is the last step?",
+        "options": [
+          "Boil the water",
+          "Drain the pasta and mix with sauce",
+          "Chop the onions"
+        ],
+        "answer": "Drain the pasta and mix with sauce"
+      }
+    ]
+  },
+  {
+    "id": "listening_b1_010",
+    "title": "A Discussion About Technology",
+    "level": "B1",
+    "category": "technology",
+    "content": "Have you heard about the new smartphone that came out last week? Yes, I saw the advertisement. It looks impressive. The camera is supposed to be amazing. I read an article about it. It says the battery life is much longer than the old model. That's good news. The old one barely lasted a full day. How much does it cost, though? It's about eight hundred dollars. That's quite expensive. Is it worth it? I think it depends on what you need. If you use your phone a lot for photos and videos, it might be worth it.",
+    "duration": 42,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What feature is praised about the new phone?",
+        "options": [
+          "The screen size",
+          "The camera",
+          "The weight"
+        ],
+        "answer": "The camera"
+      },
+      {
+        "type": "choice",
+        "question": "How much does the new phone cost?",
+        "options": [
+          "About six hundred dollars",
+          "About eight hundred dollars",
+          "About one thousand dollars"
+        ],
+        "answer": "About eight hundred dollars"
+      },
+      {
+        "type": "choice",
+        "question": "Who might find the phone worth buying?",
+        "options": [
+          "People who rarely use phones",
+          "People who take many photos and videos",
+          "People who prefer old phones"
+        ],
+        "answer": "People who take many photos and videos"
+      }
+    ]
+  },
+  {
+    "id": "listening_b1_r001",
+    "title": "周末安排",
+    "level": "B1",
+    "category": "hobby",
+    "content": "What are your plans for the weekend? I will practice basketball with my friends. Where do you usually do that? At the sports center near New York.",
+    "duration": 20,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What will the person do on the weekend?",
+        "options": [
+          "swimming",
+          "football",
+          "basketball"
+        ],
+        "answer": "basketball"
+      },
+      {
+        "type": "choice",
+        "question": "Where is the sports center?",
+        "options": [
+          "New York",
+          "London",
+          "Paris"
+        ],
+        "answer": "New York"
+      }
+    ]
+  },
+  {
+    "id": "listening_b1_r002",
+    "title": "健康饮食建议",
+    "level": "B1",
+    "category": "health",
+    "content": "You should eat more fried rice every day. Really? Is it good for my health? Yes, and remember to go to bed by nine. OK, I will try it from today.",
+    "duration": 20,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What food should the person eat more?",
+        "options": [
+          "salad",
+          "soup",
+          "fried rice"
+        ],
+        "answer": "fried rice"
+      },
+      {
+        "type": "choice",
+        "question": "When should the person go to bed?",
+        "options": [
+          "nine",
+          "seven",
+          "six"
+        ],
+        "answer": "nine"
+      }
+    ]
+  },
+  {
+    "id": "listening_b1_r003",
+    "title": "新工作消息",
+    "level": "B1",
+    "category": "work",
+    "content": "I heard you got a new job as a doctor. Yes, I am very excited. When did you start? I started last Monday and I go to work by train.",
+    "duration": 20,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What is the person’s new job?",
+        "options": [
+          "a doctor",
+          "an engineer",
+          "a manager"
+        ],
+        "answer": "a doctor"
+      },
+      {
+        "type": "choice",
+        "question": "How does the person go to work?",
+        "options": [
+          "by train",
+          "on foot",
+          "by bus"
+        ],
+        "answer": "by train"
+      }
+    ]
+  }
+]

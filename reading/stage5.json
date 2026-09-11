@@ -1,0 +1,455 @@
+[
+  {
+    "id": "reading_c1_001",
+    "title": "Artificial Intelligence in Healthcare",
+    "level": "C1",
+    "category": "technology",
+    "content": "Artificial intelligence is transforming the healthcare industry in unprecedented ways. From early disease detection to personalized treatment plans, machine learning algorithms are enabling more accurate diagnoses and better patient outcomes. However, the integration of AI in medicine raises significant ethical questions regarding data privacy, algorithmic bias, and the role of human judgment. As these technologies evolve, healthcare professionals and policymakers must collaborate to establish robust regulatory frameworks that ensure both innovation and patient safety.",
+    "words": 85,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "How is AI helping healthcare?",
+        "options": [
+          "More accurate diagnoses",
+          "Lower salaries",
+          "Shorter hospital stays only"
+        ],
+        "answer": "More accurate diagnoses"
+      },
+      {
+        "type": "choice",
+        "question": "What ethical question does AI raise in medicine?",
+        "options": [
+          "Data privacy",
+          "Hospital design",
+          "Medicine pricing"
+        ],
+        "answer": "Data privacy"
+      }
+    ]
+  },
+  {
+    "id": "reading_c1_002",
+    "title": "The Economics of Urbanization",
+    "level": "C1",
+    "category": "society",
+    "content": "Urbanization has long been associated with economic growth, as cities concentrate talent, capital and infrastructure. Yet rapid urban expansion also brings significant challenges, including housing shortages, traffic congestion and environmental pressure. Economists argue that sustainable urban development requires careful planning that balances growth with livability. Investments in public transit, affordable housing and green spaces can mitigate the negative consequences while preserving the economic dynamism that makes cities attractive.",
+    "words": 86,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "Why is urbanization linked to economic growth?",
+        "options": [
+          "Cities concentrate talent and capital",
+          "Cities reduce pollution",
+          "Cities lower housing costs"
+        ],
+        "answer": "Cities concentrate talent and capital"
+      },
+      {
+        "type": "judge",
+        "question": "根据文章，过度扩张的城市化会带来住房短缺与交通拥堵。",
+        "options": [
+          "正确",
+          "错误",
+          "未提及"
+        ],
+        "answer": "正确"
+      },
+      {
+        "type": "short",
+        "question": "请用英文说明：城市发展如何兼顾增长与宜居？",
+        "modelAnswer": "示例：Cities should invest in public transit, affordable housing and green spaces to balance growth with livability."
+      }
+    ]
+  },
+  {
+    "id": "reading_c1_003",
+    "title": "The Psychology of Decision Making",
+    "level": "C1",
+    "category": "psychology",
+    "content": "Human decisions are rarely as rational as we believe. Behavioral scientists have demonstrated that cognitive biases, such as the anchoring effect and loss aversion, systematically influence our choices. For instance, people tend to weigh potential losses more heavily than equivalent gains, a tendency that can distort both financial planning and personal relationships. Recognizing these biases is the first step toward improving judgment; by deliberately questioning our initial intuitions and considering alternative perspectives, we can make more balanced and informed decisions.",
+    "words": 88,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What do cognitive biases do?",
+        "options": [
+          "Make decisions perfectly rational",
+          "Systematically influence choices",
+          "Only affect emotions"
+        ],
+        "answer": "Systematically influence choices"
+      },
+      {
+        "type": "judge",
+        "question": "损失厌恶(loss aversion)会使人们过度看重潜在损失。",
+        "options": [
+          "正确",
+          "错误",
+          "未提及"
+        ],
+        "answer": "正确"
+      },
+      {
+        "type": "short",
+        "question": "请用英文概括：我们如何改进自己的判断力？",
+        "modelAnswer": "示例：We should question our initial intuitions and consider alternative perspectives before deciding."
+      }
+    ]
+  },
+  {
+    "id": "reading_c1_004",
+    "title": "The Ethics of Genetic Engineering",
+    "level": "C1",
+    "category": "health",
+    "content": "Recent advances in gene-editing technology, particularly CRISPR-Cas9, have opened up unprecedented possibilities for treating genetic diseases, improving agricultural productivity and even extending human lifespan. However, these capabilities come with profound ethical dilemmas that society is only beginning to grapple with. The prospect of designer babies, in which parents select desirable traits for their children, raises questions about equality, consent and the very definition of what it means to be human. There is also the risk that genetic technologies could be used to create biological weapons or exacerbate existing social inequalities. Scientists, ethicists and policymakers must engage in open and informed dialogue to establish clear boundaries for the use of these tools. While the potential benefits of genetic engineering are undeniable, the technology must be guided by principles of justice, transparency and respect for human dignity. Without careful regulation, the line between healing and enhancement could blur in ways that undermine the values we hold most dear.",
+    "words": 156,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What does the term 'designer babies' refer to?",
+        "options": [
+          "Babies born in hospitals",
+          "Parents selecting desirable traits for children",
+          "Artificially created babies"
+        ],
+        "answer": "Parents selecting desirable traits for children"
+      },
+      {
+        "type": "judge",
+        "question": "The author believes genetic engineering has no potential benefits.",
+        "options": [
+          "正确",
+          "错误",
+          "未提及"
+        ],
+        "answer": "错误"
+      },
+      {
+        "type": "short",
+        "question": "According to the passage, what principles should guide the use of genetic engineering? Please answer in English.",
+        "modelAnswer": "Example: The technology must be guided by principles of justice, transparency and respect for human dignity."
+      }
+    ]
+  },
+  {
+    "id": "reading_c1_005",
+    "title": "Cultural Globalization and Local Identity",
+    "level": "C1",
+    "category": "culture",
+    "content": "The accelerating process of cultural globalization has brought both opportunities and threats to local identities around the world. On one hand, the exchange of ideas, music, cuisine and customs across borders has enriched our collective human experience and fostered greater understanding between nations. On the other hand, critics warn that the dominance of Western media and consumer culture is eroding traditional practices and languages, particularly in smaller communities. The challenge lies in finding a balance between embracing global connectivity and preserving the unique cultural heritage that gives each community its sense of identity. Some scholars argue that cultures have always evolved through contact with others, and that globalization is simply a new chapter in this ancient process. Others contend that the speed and scale of modern cultural exchange are fundamentally different and require active protection of vulnerable traditions. Ultimately, a healthy global society must celebrate diversity rather than allow it to be homogenized by a single cultural narrative.",
+    "words": 158,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What do critics warn about cultural globalization?",
+        "options": [
+          "It creates too many new languages",
+          "It erodes traditional practices in smaller communities",
+          "It eliminates all cultural differences"
+        ],
+        "answer": "It erodes traditional practices in smaller communities"
+      },
+      {
+        "type": "judge",
+        "question": "Some scholars believe cultures have always changed through contact with others.",
+        "options": [
+          "正确",
+          "错误",
+          "未提及"
+        ],
+        "answer": "正确"
+      },
+      {
+        "type": "short",
+        "question": "What does the author argue a healthy global society must do? Please answer in English.",
+        "modelAnswer": "Example: A healthy global society must celebrate diversity rather than allow it to be homogenized by a single cultural narrative."
+      }
+    ]
+  },
+  {
+    "id": "reading_c1_006",
+    "title": "The Neuroscience of Creativity",
+    "level": "C1",
+    "category": "psychology",
+    "content": "Creativity has long been considered a mysterious quality, something that belongs to artists, musicians and inventors rather than ordinary people. However, modern neuroscience has begun to shed light on what actually happens in the brain during creative thinking. Research using brain imaging has revealed that creativity involves a dynamic interplay between the brain's default mode network, which is active during daydreaming, and the executive control network, which manages focused attention. This means that creative ideas often emerge not from intense concentration alone, but from a relaxed state in which the mind is free to wander and make unexpected connections. Studies also suggest that regular exposure to diverse experiences, such as traveling, reading and engaging with different art forms, strengthens the neural pathways associated with creative thought. Interestingly, sleep plays a crucial role, as the brain consolidates memories and forms new associations during rest. Understanding the science behind creativity does not diminish its wonder; rather, it reveals that everyone has the potential to think more creatively by adopting habits that support brain health and cognitive flexibility.",
+    "words": 175,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "According to the passage, when do creative ideas often emerge?",
+        "options": [
+          "During intense concentration only",
+          "From a relaxed, wandering mind",
+          "Only while sleeping"
+        ],
+        "answer": "From a relaxed, wandering mind"
+      },
+      {
+        "type": "judge",
+        "question": "The passage suggests that only artists and musicians can be creative.",
+        "options": [
+          "正确",
+          "错误",
+          "未提及"
+        ],
+        "answer": "错误"
+      },
+      {
+        "type": "short",
+        "question": "What role does sleep play in creativity according to the passage? Please answer in English.",
+        "modelAnswer": "Example: During sleep, the brain consolidates memories and forms new associations, which supports creative thought."
+      }
+    ]
+  },
+  {
+    "id": "reading_c1_007",
+    "title": "The Future of Work in an Automated World",
+    "level": "C1",
+    "category": "work",
+    "content": "Automation and artificial intelligence are transforming the global workforce at an unprecedented pace. While previous technological revolutions primarily displaced manual labour, the current wave of innovation affects a wide range of occupations, including those traditionally considered safe from automation, such as accounting, legal analysis and even creative writing. According to recent studies, up to thirty percent of existing jobs could be automated within the next two decades. This prospect has reignited debates about universal basic income, reskilling programmes and the social contract between employers and employees. Some economists argue that new technologies will ultimately create more jobs than they destroy, just as the industrial revolution did. However, others warn that the transition period could be extremely difficult for workers whose skills become obsolete. Governments must invest heavily in education and training to prepare citizens for the jobs of the future. The challenge is not simply technological; it is deeply social and requires coordinated action from businesses, educational institutions and policymakers.",
+    "words": 160,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "How does the current wave of automation differ from past technological revolutions?",
+        "options": [
+          "It only affects farming",
+          "It affects a wide range of white-collar occupations",
+          "It creates more jobs than it destroys immediately"
+        ],
+        "answer": "It affects a wide range of white-collar occupations"
+      },
+      {
+        "type": "judge",
+        "question": "All economists agree that automation will create more jobs than it destroys.",
+        "options": [
+          "正确",
+          "错误",
+          "未提及"
+        ],
+        "answer": "错误"
+      },
+      {
+        "type": "short",
+        "question": "What must governments do to prepare for the future of work? Please answer in English.",
+        "modelAnswer": "Example: Governments must invest heavily in education and training to prepare citizens for future jobs."
+      }
+    ]
+  },
+  {
+    "id": "reading_c1_008",
+    "title": "Climate Justice and Economic Inequality",
+    "level": "C1",
+    "category": "environment",
+    "content": "Climate change does not affect all people equally. The world's poorest communities, which have contributed least to greenhouse gas emissions, often suffer the most from rising temperatures, extreme weather events and food insecurity. This imbalance has given rise to the concept of climate justice, which argues that addressing climate change must also involve tackling economic inequality. Wealthy nations, responsible for the majority of historical emissions, have a moral obligation to support developing countries through financial aid, technology transfer and fair trade policies. At the same time, domestic policies within countries must ensure that the transition to clean energy does not disproportionately burden low-income workers. Communities that depend on fossil fuel industries need viable alternatives and retraining opportunities. The intersection of climate change and social justice demands a holistic approach that considers not only carbon targets but also human welfare. Only by recognizing and addressing these inequalities can the world build a truly sustainable and equitable future.",
+    "words": 156,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "Who suffers the most from climate change according to the passage?",
+        "options": [
+          "Wealthy nations",
+          "The world's poorest communities",
+          "Technology companies"
+        ],
+        "answer": "The world's poorest communities"
+      },
+      {
+        "type": "judge",
+        "question": "Climate justice only focuses on reducing carbon emissions.",
+        "options": [
+          "正确",
+          "错误",
+          "未提及"
+        ],
+        "answer": "错误"
+      },
+      {
+        "type": "short",
+        "question": "What is a moral obligation of wealthy nations according to the passage? Please answer in English.",
+        "modelAnswer": "Example: Wealthy nations have a moral obligation to support developing countries through financial aid, technology transfer and fair trade policies."
+      }
+    ]
+  },
+  {
+    "id": "reading_c1_009",
+    "title": "The Relationship Between Language and Thought",
+    "level": "C1",
+    "category": "psychology",
+    "content": "The question of whether language shapes thought or merely expresses it has fascinated philosophers, linguists and cognitive scientists for centuries. The Sapir-Whorf hypothesis, one of the most influential theories in this field, proposes that the structure of a language influences the way its speakers perceive and conceptualize the world. For example, speakers of languages that have many words for different shades of blue may be able to distinguish between those colours more quickly than speakers of languages with fewer colour terms. While strong versions of this hypothesis have been largely discredited, moderate forms continue to receive empirical support. Research has shown that bilingual individuals often think differently depending on which language they are using, suggesting that language can indeed influence reasoning, memory and even emotional responses. As globalisation brings an ever-greater number of languages into contact with one another, understanding the relationship between language and thought becomes not merely an academic exercise but a practical necessity for cross-cultural communication and mutual understanding.",
+    "words": 162,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What does the Sapir-Whorf hypothesis propose?",
+        "options": [
+          "Language has no effect on thought",
+          "Language structure influences how speakers perceive the world",
+          "All languages are basically the same"
+        ],
+        "answer": "Language structure influences how speakers perceive the world"
+      },
+      {
+        "type": "judge",
+        "question": "Bilingual people may think differently depending on which language they are using.",
+        "options": [
+          "正确",
+          "错误",
+          "未提及"
+        ],
+        "answer": "正确"
+      },
+      {
+        "type": "short",
+        "question": "Why is understanding the language-thought relationship practically important in a globalized world? Please answer in English.",
+        "modelAnswer": "Example: It is a practical necessity for cross-cultural communication and mutual understanding."
+      }
+    ]
+  },
+  {
+    "id": "reading_c1_010",
+    "title": "Rethinking Education for the 21st Century",
+    "level": "C1",
+    "category": "education",
+    "content": "The traditional model of education, built around lectures, textbooks and standardized tests, was designed for an industrial age that no longer exists. In today's rapidly changing world, students need a different set of skills, including critical thinking, creativity, digital literacy and emotional intelligence. Many educational reformers argue that schools should shift from memorizing facts to developing problem-solving abilities and encouraging collaborative learning. Finland, often cited as a model for educational excellence, has already implemented project-based learning, reduced standardized testing and given teachers greater professional autonomy. Other countries are experimenting with competency-based curricula that allow students to progress at their own pace rather than being ranked against their peers. Technology also plays an increasingly important role, with artificial intelligence enabling personalized learning experiences and virtual reality offering immersive educational opportunities. However, the digital divide remains a significant barrier, as millions of students worldwide still lack access to basic internet and devices. Ultimately, reimagining education requires not only new teaching methods but also a fundamental shift in how societies value and invest in the intellectual development of their young people.",
+    "words": 178,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What does the passage say about Finland's approach to education?",
+        "options": [
+          "It relies heavily on standardized tests",
+          "It has implemented project-based learning and given teachers more autonomy",
+          "It has eliminated all homework"
+        ],
+        "answer": "It has implemented project-based learning and given teachers more autonomy"
+      },
+      {
+        "type": "judge",
+        "question": "The digital divide is no longer a significant barrier to education.",
+        "options": [
+          "正确",
+          "错误",
+          "未提及"
+        ],
+        "answer": "错误"
+      },
+      {
+        "type": "short",
+        "question": "What broader change does the author argue is needed to reimagine education? Please answer in English.",
+        "modelAnswer": "Example: A fundamental shift in how societies value and invest in the intellectual development of their young people."
+      }
+    ]
+  },
+  {
+    "id": "reading_c1_r001",
+    "title": "一次演讲",
+    "level": "C1",
+    "category": "work",
+    "content": "Olivia gave a presentation at the annual conference in Chicago. She spent two weeks preparing it. Many people said her talk was clear and inspiring, and she felt very proud.",
+    "words": 30,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What did Olivia give at the event?",
+        "options": [
+          "a report",
+          "a presentation",
+          "an interview"
+        ],
+        "answer": "a presentation"
+      },
+      {
+        "type": "choice",
+        "question": "Where did Olivia give her talk?",
+        "options": [
+          "conference",
+          "meeting",
+          "training session"
+        ],
+        "answer": "conference"
+      },
+      {
+        "type": "choice",
+        "question": "In which city did the event take place?",
+        "options": [
+          "Manchester",
+          "Chicago",
+          "Munich"
+        ],
+        "answer": "Chicago"
+      },
+      {
+        "type": "judge",
+        "question": "Olivia prepared her talk for two weeks.",
+        "options": [
+          "正确",
+          "错误"
+        ],
+        "answer": "正确"
+      },
+      {
+        "type": "short",
+        "question": "用一句英文简要回答：What did Olivia give at the event?",
+        "answer": "a presentation"
+      }
+    ]
+  },
+  {
+    "id": "reading_c1_r002",
+    "title": "工作随笔",
+    "level": "C1",
+    "category": "work",
+    "content": "Ethan works for an international company in Manchester. He sometimes attends meetings about an interview. He believes clear communication is the key to success at work.",
+    "words": 26,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "Where does Ethan work?",
+        "options": [
+          "Shanghai",
+          "Munich",
+          "Manchester"
+        ],
+        "answer": "Manchester"
+      },
+      {
+        "type": "choice",
+        "question": "How often does Ethan attend meetings?",
+        "options": [
+          "always",
+          "sometimes",
+          "rarely"
+        ],
+        "answer": "sometimes"
+      },
+      {
+        "type": "choice",
+        "question": "What do the meetings usually discuss?",
+        "options": [
+          "a presentation",
+          "an interview",
+          "a report"
+        ],
+        "answer": "an interview"
+      },
+      {
+        "type": "judge",
+        "question": "Ethan works in the education field.",
+        "options": [
+          "正确",
+          "错误"
+        ],
+        "answer": "错误"
+      },
+      {
+        "type": "short",
+        "question": "用一句英文简要回答：Where does Ethan work?",
+        "answer": "Manchester"
+      }
+    ]
+  }
+]

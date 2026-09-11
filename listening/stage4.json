@@ -1,0 +1,462 @@
+[
+  {
+    "id": "listening_b2_001",
+    "title": "The Benefits of Reading",
+    "level": "B2",
+    "category": "education",
+    "content": "Reading regularly can significantly improve your vocabulary and critical thinking skills. Studies have shown that people who read frequently tend to have better memory and focus. It also helps reduce stress and broadens your perspective on the world.",
+    "duration": 50,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What does regular reading improve?",
+        "options": [
+          "Vocabulary and critical thinking",
+          "Only memory",
+          "Physical health only"
+        ],
+        "answer": "Vocabulary and critical thinking"
+      },
+      {
+        "type": "choice",
+        "question": "Which is NOT mentioned as a benefit of reading?",
+        "options": [
+          "Reducing stress",
+          "Broadening perspective",
+          "Increasing salary"
+        ],
+        "answer": "Increasing salary"
+      },
+      {
+        "type": "choice",
+        "question": "What do frequent readers tend to have?",
+        "options": [
+          "Better sleep",
+          "Better memory and focus",
+          "More free time"
+        ],
+        "answer": "Better memory and focus"
+      }
+    ]
+  },
+  {
+    "id": "listening_b2_002",
+    "title": "A Debate on Social Media",
+    "level": "B2",
+    "category": "technology",
+    "content": "Social media has dramatically changed how we communicate. On one hand, it enables instant connection with people around the world and gives a voice to those who are often unheard. On the other hand, excessive use can affect mental health and spread misinformation. To reduce the risks, experts recommend setting limits on daily use and critically checking information before sharing it.",
+    "duration": 45,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What positive effect of social media is mentioned?",
+        "options": [
+          "Instant connection worldwide",
+          "Better sleep",
+          "Higher salary"
+        ],
+        "answer": "Instant connection worldwide"
+      },
+      {
+        "type": "choice",
+        "question": "What do experts recommend regarding social media?",
+        "options": [
+          "Use it all day",
+          "Set limits on daily use",
+          "Share everything quickly"
+        ],
+        "answer": "Set limits on daily use"
+      },
+      {
+        "type": "choice",
+        "question": "What negative effect is associated with excessive social media use?",
+        "options": [
+          "Improved memory",
+          "Affected mental health",
+          "Better focus"
+        ],
+        "answer": "Affected mental health"
+      }
+    ]
+  },
+  {
+    "id": "listening_b2_003",
+    "title": "City Recycling Program",
+    "level": "B2",
+    "category": "environment",
+    "content": "Our city is launching a new recycling program starting next month. Residents will receive separate bins for plastic, paper and organic waste. Collection trucks will visit each neighborhood twice a week. The program aims to reduce landfill waste by thirty percent within two years. If residents have questions, they can contact the environment department or check the official website.",
+    "duration": 48,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What is the program's goal?",
+        "options": [
+          "Reduce landfill waste by 30%",
+          "Double collection fees",
+          "Close all recycling plants"
+        ],
+        "answer": "Reduce landfill waste by 30%"
+      },
+      {
+        "type": "choice",
+        "question": "How often will collection trucks visit?",
+        "options": [
+          "Once a week",
+          "Twice a week",
+          "Once a month"
+        ],
+        "answer": "Twice a week"
+      },
+      {
+        "type": "choice",
+        "question": "When does the program start?",
+        "options": [
+          "This week",
+          "Next month",
+          "Next year"
+        ],
+        "answer": "Next month"
+      }
+    ]
+  },
+  {
+    "id": "listening_b2_004",
+    "title": "Remote Work vs Office Work",
+    "level": "B2",
+    "category": "work",
+    "content": "The debate between remote work and office work continues to divide opinions. Proponents of remote work point to increased flexibility, reduced commuting time, and often higher productivity. However, managers worry about team cohesion, communication gaps, and the difficulty of mentoring junior staff remotely. Some companies have adopted a hybrid model, allowing employees to work from home two or three days a week. This approach seems to balance individual flexibility with the collaborative benefits of in-person interaction.",
+    "duration": 52,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What benefit of remote work is mentioned?",
+        "options": [
+          "Higher costs",
+          "Increased flexibility",
+          "More meetings"
+        ],
+        "answer": "Increased flexibility"
+      },
+      {
+        "type": "choice",
+        "question": "What concerns do managers have about remote work?",
+        "options": [
+          "Better productivity",
+          "Team cohesion and communication gaps",
+          "Lower expenses"
+        ],
+        "answer": "Team cohesion and communication gaps"
+      },
+      {
+        "type": "choice",
+        "question": "What model have some companies adopted?",
+        "options": [
+          "Fully remote work",
+          "Fully office-based work",
+          "A hybrid model"
+        ],
+        "answer": "A hybrid model"
+      }
+    ]
+  },
+  {
+    "id": "listening_b2_005",
+    "title": "A Discussion on Fast Fashion",
+    "level": "B2",
+    "category": "environment",
+    "content": "Fast fashion has become a major environmental concern. The industry is responsible for roughly ten percent of global carbon emissions and is the second-largest consumer of water worldwide. Many garments are worn only a few times before being thrown away. Critics argue that we need to shift toward more sustainable clothing choices, such as buying fewer items, choosing durable fabrics, and supporting ethical brands. Some fashion companies are responding by using recycled materials and offering take-back programs for old clothing.",
+    "duration": 50,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What percentage of global carbon emissions does the fashion industry produce?",
+        "options": [
+          "About five percent",
+          "About ten percent",
+          "About twenty percent"
+        ],
+        "answer": "About ten percent"
+      },
+      {
+        "type": "choice",
+        "question": "What sustainable choice is mentioned?",
+        "options": [
+          "Buying more clothes",
+          "Buying fewer items and choosing durable fabrics",
+          "Shopping online more often"
+        ],
+        "answer": "Buying fewer items and choosing durable fabrics"
+      },
+      {
+        "type": "choice",
+        "question": "How are some fashion companies responding?",
+        "options": [
+          "Using recycled materials and take-back programs",
+          "Lowering prices",
+          "Increasing production"
+        ],
+        "answer": "Using recycled materials and take-back programs"
+      }
+    ]
+  },
+  {
+    "id": "listening_b2_006",
+    "title": "The Future of Public Transportation",
+    "level": "B2",
+    "category": "travel",
+    "content": "Cities around the world are rethinking public transportation to reduce traffic congestion and pollution. Electric buses are becoming increasingly popular because they produce zero emissions and are quieter than diesel buses. Some cities have introduced underground metro systems, while others are experimenting with autonomous shuttles. Experts agree that the key challenge is not just technology but also funding. Governments need to invest heavily in infrastructure and offer affordable fares to encourage people to leave their cars at home.",
+    "duration": 55,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "Why are electric buses becoming popular?",
+        "options": [
+          "They are faster than cars",
+          "They produce zero emissions and are quieter",
+          "They require no charging"
+        ],
+        "answer": "They produce zero emissions and are quieter"
+      },
+      {
+        "type": "choice",
+        "question": "What is the key challenge according to experts?",
+        "options": [
+          "Building more roads",
+          "Funding and infrastructure investment",
+          "Producing more cars"
+        ],
+        "answer": "Funding and infrastructure investment"
+      },
+      {
+        "type": "choice",
+        "question": "What do governments need to offer to encourage public transport use?",
+        "options": [
+          "Free parking",
+          "Expensive tickets",
+          "Affordable fares"
+        ],
+        "answer": "Affordable fares"
+      }
+    ]
+  },
+  {
+    "id": "listening_b2_007",
+    "title": "The Impact of Sleep Deprivation",
+    "level": "B2",
+    "category": "health",
+    "content": "Sleep deprivation is a growing health concern, especially among young adults. Research shows that getting less than seven hours of sleep regularly can impair memory, weaken the immune system, and increase the risk of heart disease. Many people sacrifice sleep for work or entertainment, not realizing the long-term consequences. Doctors recommend maintaining a consistent sleep schedule, avoiding screens before bed, and creating a comfortable sleep environment. Studies also suggest that even short naps of twenty minutes can improve alertness and performance during the day.",
+    "duration": 50,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "How many hours of sleep are recommended regularly?",
+        "options": [
+          "Less than five hours",
+          "At least seven hours",
+          "At least ten hours"
+        ],
+        "answer": "At least seven hours"
+      },
+      {
+        "type": "choice",
+        "question": "What should people avoid before bed?",
+        "options": [
+          "Reading a book",
+          "Screens",
+          "Drinking water"
+        ],
+        "answer": "Screens"
+      },
+      {
+        "type": "choice",
+        "question": "How long should a beneficial nap be?",
+        "options": [
+          "Five minutes",
+          "Twenty minutes",
+          "One hour"
+        ],
+        "answer": "Twenty minutes"
+      }
+    ]
+  },
+  {
+    "id": "listening_b2_008",
+    "title": "A Talk About Cultural Festivals",
+    "level": "B2",
+    "category": "culture",
+    "content": "Cultural festivals play a vital role in preserving traditions and bringing communities together. In Japan, the cherry blossom festival attracts millions of visitors each spring. In India, Diwali celebrates the triumph of light over darkness with fireworks and family gatherings. Meanwhile, Carnival in Rio de Janeiro is famous for its colorful parades and samba music. These events not only celebrate heritage but also boost local economies through tourism. However, some argue that commercialization is slowly diluting the original meaning of many traditional festivals.",
+    "duration": 52,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What does Japan's cherry blossom festival celebrate?",
+        "options": [
+          "The harvest season",
+          "Spring and cherry blossoms",
+          "Independence Day"
+        ],
+        "answer": "Spring and cherry blossoms"
+      },
+      {
+        "type": "choice",
+        "question": "What is Carnival in Rio de Janeiro known for?",
+        "options": [
+          "Quiet ceremonies",
+          "Colorful parades and samba music",
+          "Winter sports"
+        ],
+        "answer": "Colorful parades and samba music"
+      },
+      {
+        "type": "choice",
+        "question": "What concern is raised about cultural festivals?",
+        "options": [
+          "They are too quiet",
+          "Commercialization is diluting their meaning",
+          "They are too expensive to attend"
+        ],
+        "answer": "Commercialization is diluting their meaning"
+      }
+    ]
+  },
+  {
+    "id": "listening_b2_009",
+    "title": "An Interview About Space Exploration",
+    "level": "B2",
+    "category": "technology",
+    "content": "Space exploration has always fascinated humanity. In recent years, private companies like SpaceX have made significant progress in reducing the cost of launching rockets. Dr. Collins, a leading astrophysicist, believes that the next major milestone will be establishing a permanent base on Mars. However, she cautions that radiation exposure, psychological challenges of long-duration missions, and the enormous cost remain serious obstacles. Despite these challenges, she remains optimistic that humans will set foot on Mars within the next two decades.",
+    "duration": 52,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What have companies like SpaceX achieved?",
+        "options": [
+          "Built space stations",
+          "Reduced the cost of launching rockets",
+          "Discovered new planets"
+        ],
+        "answer": "Reduced the cost of launching rockets"
+      },
+      {
+        "type": "choice",
+        "question": "What does Dr. Collins believe is the next major milestone?",
+        "options": [
+          "Landing on the Moon",
+          "Establishing a permanent base on Mars",
+          "Building a new space station"
+        ],
+        "answer": "Establishing a permanent base on Mars"
+      },
+      {
+        "type": "choice",
+        "question": "Which challenge is NOT mentioned for Mars missions?",
+        "options": [
+          "Radiation exposure",
+          "Psychological challenges",
+          "Lack of interest from the public"
+        ],
+        "answer": "Lack of interest from the public"
+      }
+    ]
+  },
+  {
+    "id": "listening_b2_010",
+    "title": "A Conversation About Food Waste",
+    "level": "B2",
+    "category": "food",
+    "content": "Did you know that roughly one-third of all food produced globally is wasted? That's shocking. Where does most of the waste happen? In developed countries, most waste occurs at the consumer level — people buy too much and throw away food that has gone past its sell-by date. In developing countries, the problem is more about poor storage and transportation. Some restaurants have started offering smaller portions to reduce waste. Supermarkets are also beginning to sell produce that looks imperfect but is perfectly fine to eat. Individual consumers can help by planning meals and freezing leftovers.",
+    "duration": 50,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What fraction of food produced globally is wasted?",
+        "options": [
+          "About one-quarter",
+          "About one-third",
+          "About one-half"
+        ],
+        "answer": "About one-third"
+      },
+      {
+        "type": "choice",
+        "question": "Where does most food waste happen in developed countries?",
+        "options": [
+          "At farms",
+          "At the consumer level",
+          "In restaurants"
+        ],
+        "answer": "At the consumer level"
+      },
+      {
+        "type": "choice",
+        "question": "What can individual consumers do to help?",
+        "options": [
+          "Buy more food",
+          "Plan meals and freeze leftovers",
+          "Ignore sell-by dates"
+        ],
+        "answer": "Plan meals and freeze leftovers"
+      }
+    ]
+  },
+  {
+    "id": "listening_b2_r001",
+    "title": "出差计划",
+    "level": "B2",
+    "category": "travel",
+    "content": "I am flying to Munich for business next week. How long will you stay there? About a week. I rarely travel for work. Good luck and enjoy the trip.",
+    "duration": 20,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "Where is the person flying to?",
+        "options": [
+          "Manchester",
+          "Shanghai",
+          "Munich"
+        ],
+        "answer": "Munich"
+      },
+      {
+        "type": "choice",
+        "question": "How often does the person travel for work?",
+        "options": [
+          "usually",
+          "rarely",
+          "sometimes"
+        ],
+        "answer": "rarely"
+      }
+    ]
+  },
+  {
+    "id": "listening_b2_r002",
+    "title": "会议通知",
+    "level": "B2",
+    "category": "work",
+    "content": "There will be a conference next Wednesday morning. Good, I have prepared a report already. Please arrive by nine and bring your notes. No problem, I will be there on time.",
+    "duration": 20,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What will be held next Wednesday?",
+        "options": [
+          "meeting",
+          "training session",
+          "conference"
+        ],
+        "answer": "conference"
+      },
+      {
+        "type": "choice",
+        "question": "What has the person already prepared?",
+        "options": [
+          "an interview",
+          "a report",
+          "a presentation"
+        ],
+        "answer": "a report"
+      }
+    ]
+  }
+]

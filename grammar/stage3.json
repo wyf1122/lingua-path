@@ -1,0 +1,945 @@
+[
+  {
+    "id": "grammar_b1_001",
+    "title": "现在完成时 vs 一般过去时",
+    "level": "B1",
+    "category": "时态",
+    "explanation": "现在完成时强调过去动作对现在的影响或与现在的关联，不与具体过去时间连用；一般过去时强调过去发生的动作本身，通常有明确的过去时间状语。区分二者的关键在于是否有具体的时间点。",
+    "rules": [
+      "现在完成时：have/has + p.p.，不与 yesterday, last year 等连用",
+      "一般过去时：动词过去式，常与 yesterday, ago, last week 等连用",
+      "现在完成时强调结果或经历：I have lost my key.（钥匙现在找不到了）",
+      "一般过去时强调事件本身：I lost my key yesterday."
+    ],
+    "examples": [
+      {
+        "en": "I have lived here for five years.",
+        "zh": "我在这里住了五年了。（现在仍住）"
+      },
+      {
+        "en": "I lived in Beijing for two years.",
+        "zh": "我在北京住了两年。（现在不住了）"
+      },
+      {
+        "en": "She has finished her homework.",
+        "zh": "她已经做完作业了。（现在不用做了）"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill",
+        "question": "I ___ (know) him since 2015.",
+        "answer": "have known",
+        "options": [
+          "knew",
+          "have known",
+          "know"
+        ]
+      },
+      {
+        "type": "fill",
+        "question": "We ___ (go) to Paris last summer.",
+        "answer": "went",
+        "options": [
+          "have gone",
+          "went",
+          "go"
+        ]
+      },
+      {
+        "type": "error",
+        "question": "找出错误并选择正确说法：I have visited Beijing last year.",
+        "answer": "I visited Beijing last year.",
+        "options": [
+          "I have visited Beijing last year.",
+          "I visited Beijing last year.",
+          "I have visit Beijing last year."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grammar_b1_002",
+    "title": "现在完成进行时",
+    "level": "B1",
+    "category": "时态",
+    "explanation": "现在完成进行时表示从过去某时开始一直持续到现在的动作，强调动作的持续性和未完成性。结构为 have/has been + 动词-ing。常与 for, since, all day 等连用。",
+    "rules": [
+      "have / has been + 动词-ing",
+      "强调动作从过去持续到现在且可能继续",
+      "常与 for + 时间段 / since + 时间点连用",
+      "可表示刚结束的动作带来的痕迹：I've been running.（还在喘气）"
+    ],
+    "examples": [
+      {
+        "en": "I have been studying English for three years.",
+        "zh": "我已经学英语三年了。"
+      },
+      {
+        "en": "She has been waiting for two hours.",
+        "zh": "她已经等了两个小时了。"
+      },
+      {
+        "en": "It has been raining all day.",
+        "zh": "雨一整天都在下。"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill",
+        "question": "I ___ (read) this book since morning.",
+        "answer": "have been reading",
+        "options": [
+          "have read",
+          "have been reading",
+          "am reading"
+        ]
+      },
+      {
+        "type": "fill",
+        "question": "They ___ (wait) for over an hour.",
+        "answer": "have been waiting",
+        "options": [
+          "have waited",
+          "have been waiting",
+          "are waiting"
+        ]
+      },
+      {
+        "type": "error",
+        "question": "找出错误并选择正确说法：She has been work here since 2020.",
+        "answer": "She has been working here since 2020.",
+        "options": [
+          "She has been work here since 2020.",
+          "She has been working here since 2020.",
+          "She has working here since 2020."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grammar_b1_003",
+    "title": "被动语态（入门）",
+    "level": "B1",
+    "category": "被动语态",
+    "explanation": "被动语态用于强调动作的承受者而非执行者，或在不知道/不重要谁执行动作时使用。结构为 be + 过去分词。by + 施动者可省略。",
+    "rules": [
+      "be + 过去分词（be 随时态变化）",
+      "一般现在时：is/am/are + p.p.",
+      "一般过去时：was/were + p.p.",
+      "一般将来时：will be + p.p.",
+      "by + 施动者（可省略）"
+    ],
+    "examples": [
+      {
+        "en": "The bridge was built in 1990.",
+        "zh": "这座桥建于1990年。"
+      },
+      {
+        "en": "English is spoken in many countries.",
+        "zh": "许多国家都讲英语。"
+      },
+      {
+        "en": "The homework will be finished tomorrow.",
+        "zh": "作业明天会完成。"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill",
+        "question": "This book ___ (write) by a famous author.",
+        "answer": "was written",
+        "options": [
+          "is wrote",
+          "was written",
+          "wrote"
+        ]
+      },
+      {
+        "type": "error",
+        "question": "找出错误并选择正确说法：The bridge was build in 1990.",
+        "answer": "The bridge was built in 1990.",
+        "options": [
+          "The bridge was build in 1990.",
+          "The bridge was built in 1990.",
+          "The bridge built in 1990."
+        ]
+      },
+      {
+        "type": "order",
+        "question": "把单词排序成正确的句子（被动语态：1. English 2. is 3. spoken 4. in many countries）。",
+        "answer": "english is spoken in many countries",
+        "segments": [
+          "English",
+          "is",
+          "spoken",
+          "in many countries"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grammar_b1_004",
+    "title": "情态动词表推测",
+    "level": "B1",
+    "category": "情态动词",
+    "explanation": "can, may, must, might, could 等情态动词可用于表示对事实的推测。must 表示肯定推测（一定），can't 表示否定推测（不可能），may/might/could 表示可能。",
+    "rules": [
+      "must + 动词原形：表示肯定推测（一定）",
+      "can't + 动词原形：表示否定推测（不可能）",
+      "may / might + 动词原形：表示可能（可能性较小）",
+      "could + 动词原形：表示可能（语气委婉）",
+      "推测过去用 must/can't/may/might + have + p.p."
+    ],
+    "examples": [
+      {
+        "en": "He must be at home. The light is on.",
+        "zh": "他一定在家。灯亮着。"
+      },
+      {
+        "en": "She can't be a doctor. She is too young.",
+        "zh": "她不可能是医生。她太年轻了。"
+      },
+      {
+        "en": "It may rain later.",
+        "zh": "晚些时候可能会下雨。"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill",
+        "question": "He ___ be tired. He has been working all day.",
+        "answer": "must",
+        "options": [
+          "must",
+          "can",
+          "should"
+        ]
+      },
+      {
+        "type": "fill",
+        "question": "That ___ be true. It's impossible!",
+        "answer": "can't",
+        "options": [
+          "must",
+          "can't",
+          "may"
+        ]
+      },
+      {
+        "type": "error",
+        "question": "找出错误并选择正确说法：She must is at home right now.",
+        "answer": "She must be at home right now.",
+        "options": [
+          "She must is at home right now.",
+          "She must be at home right now.",
+          "She must are at home right now."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grammar_b1_005",
+    "title": "定语从句（入门）",
+    "level": "B1",
+    "category": "从句",
+    "explanation": "定语从句（关系从句）用于修饰名词或代词，由关系代词 who, whom, which, that, whose 引导。定语从句紧跟在先行词之后，为其提供附加信息。",
+    "rules": [
+      "who 修饰人（作主语）：The man who called you is my brother.",
+      "whom 修饰人（作宾语）：The girl whom I met is nice.",
+      "which 修饰物：The book which I read was great.",
+      "that 可修饰人或物（口语常用）",
+      "whose 表示所属关系：The boy whose father is a doctor..."
+    ],
+    "examples": [
+      {
+        "en": "The man who lives next door is a doctor.",
+        "zh": "住在隔壁的那个人是医生。"
+      },
+      {
+        "en": "I bought a phone which was on sale.",
+        "zh": "我买了一部打折的手机。"
+      },
+      {
+        "en": "The teacher whose class I attend is very kind.",
+        "zh": "我上的那位老师的课的老师非常好。"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill",
+        "question": "The girl ___ (who / which) won the prize is my sister.",
+        "answer": "who",
+        "options": [
+          "who",
+          "which",
+          "where"
+        ]
+      },
+      {
+        "type": "fill",
+        "question": "This is the book ___ (that / who) changed my life.",
+        "answer": "that",
+        "options": [
+          "that",
+          "who",
+          "what"
+        ]
+      },
+      {
+        "type": "order",
+        "question": "把单词排序成正确的句子（定语从句：1. The man 2. who 3. lives next door 4. is a doctor）。",
+        "answer": "the man who lives next door is a doctor",
+        "segments": [
+          "The man",
+          "who",
+          "lives next door",
+          "is a doctor"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grammar_b1_006",
+    "title": "虚拟条件句（入门）",
+    "level": "B1",
+    "category": "虚拟语气",
+    "explanation": "虚拟条件句用于表达与事实相反的假设。与现在事实相反：if 从句用过去式（be 用 were），主句用 would + 动词原形。与过去事实相反：if 从句用 had + p.p.，主句用 would have + p.p.",
+    "rules": [
+      "与现在相反：If + 过去式（were）, would + 动词原形",
+      "与过去相反：If + had + p.p., would have + p.p.",
+      "If I were you...（固定表达，be 动词用 were）",
+      "表示建议/愿望：I wish + 过去式 / I wish + had + p.p."
+    ],
+    "examples": [
+      {
+        "en": "If I had known, I would have helped you.",
+        "zh": "如果我当时知道，我就会帮你。"
+      },
+      {
+        "en": "I wish I were taller.",
+        "zh": "我希望自己更高。"
+      },
+      {
+        "en": "If I had more time, I would learn to play the guitar.",
+        "zh": "如果我有更多时间，我会学弹吉他。"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill",
+        "question": "If I ___ (be) you, I would take the job.",
+        "answer": "were",
+        "options": [
+          "am",
+          "was",
+          "were"
+        ]
+      },
+      {
+        "type": "error",
+        "question": "找出错误并选择正确说法：If I have known, I would have helped you.",
+        "answer": "If I had known, I would have helped you.",
+        "options": [
+          "If I have known, I would help you.",
+          "If I had known, I would have helped you.",
+          "If I knew, I will have helped you."
+        ]
+      },
+      {
+        "type": "order",
+        "question": "把单词排序成正确的句子（虚拟语气：1. If 2. I 3. were 4. a bird 5. I would fly）。",
+        "answer": "if i were a bird i would fly",
+        "segments": [
+          "If",
+          "I",
+          "were",
+          "a bird",
+          "I would fly"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grammar_b1_007",
+    "title": "间接引语（入门）",
+    "level": "B1",
+    "category": "从句",
+    "explanation": "间接引语用于转述他人的话，不使用引号。转述陈述句时用 that 引导，人称、时态和时间词需要相应变化。时态通常后退一步。",
+    "rules": [
+      "陈述句间接引语：主语 + said (that) + 从句",
+      "时态后退：say → said, will → would, can → could",
+      "人称变化：I → he/she, my → his/her",
+      "时间词变化：today → that day, yesterday → the day before"
+    ],
+    "examples": [
+      {
+        "en": "He said (that) he was tired.",
+        "zh": "他说他很累。"
+      },
+      {
+        "en": "She told me that she had finished the work.",
+        "zh": "她告诉我她已经完成了工作。"
+      },
+      {
+        "en": "They said they would come the next day.",
+        "zh": "他们说他们第二天会来。"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill",
+        "question": "He said he ___ (be) hungry.",
+        "answer": "was",
+        "options": [
+          "is",
+          "was",
+          "were"
+        ]
+      },
+      {
+        "type": "fill",
+        "question": "She told me that she ___ (will / would) help me.",
+        "answer": "would",
+        "options": [
+          "will",
+          "would",
+          "can"
+        ]
+      },
+      {
+        "type": "error",
+        "question": "找出错误并选择正确说法：He said that he is tired.",
+        "answer": "He said that he was tired.",
+        "options": [
+          "He said that he is tired.",
+          "He said that he was tired.",
+          "He said that he were tired."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grammar_b1_008",
+    "title": "过去完成时",
+    "level": "B1",
+    "category": "时态",
+    "explanation": "过去完成时表示过去的过去，即在某一过去时间点之前已经发生的动作。结构为 had + 过去分词。常用于叙述故事、比较两个过去的动作先后顺序。",
+    "rules": [
+      "had + 过去分词",
+      "表示在过去某一时刻之前已完成的动作",
+      "常与 by the time, before, after, when 等连用",
+      "在叙述中建立两个过去事件的时间先后关系"
+    ],
+    "examples": [
+      {
+        "en": "When I arrived, the movie had already started.",
+        "zh": "当我到达时，电影已经开始了。"
+      },
+      {
+        "en": "She had finished her homework before dinner.",
+        "zh": "她在晚饭前就做完了作业。"
+      },
+      {
+        "en": "By the time he called, I had left.",
+        "zh": "他打电话的时候，我已经走了。"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill",
+        "question": "When I got there, the train ___ (leave) already.",
+        "answer": "had left",
+        "options": [
+          "left",
+          "had left",
+          "has left"
+        ]
+      },
+      {
+        "type": "fill",
+        "question": "She ___ (finish) dinner before he arrived.",
+        "answer": "had finished",
+        "options": [
+          "finished",
+          "had finished",
+          "has finished"
+        ]
+      },
+      {
+        "type": "error",
+        "question": "找出错误并选择正确说法：By the time I arrived, she has left.",
+        "answer": "By the time I arrived, she had left.",
+        "options": [
+          "By the time I arrived, she has left.",
+          "By the time I arrived, she had left.",
+          "By the time I arrived, she left."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grammar_b1_009",
+    "title": "比较级与最高级（多音节）",
+    "level": "B1",
+    "category": "比较结构",
+    "explanation": "多音节形容词的比较级和最高级分别用 more 和 the most 构成。此外还有一些特殊比较结构：as...as（同级比较）、not as...as（不如）、the more...the more（越越）。",
+    "rules": [
+      "多音节形容词比较级：more + 形容词 + than",
+      "多音节形容词最高级：the most + 形容词",
+      "同级比较：as + 形容词 + as",
+      "否定同级比较：not as/so + 形容词 + as",
+      "the more...the more：越越"
+    ],
+    "examples": [
+      {
+        "en": "This problem is more difficult than the last one.",
+        "zh": "这个问题比上一个更难。"
+      },
+      {
+        "en": "She is as tall as her mother.",
+        "zh": "她和她妈妈一样高。"
+      },
+      {
+        "en": "The more you practice, the better you become.",
+        "zh": "你练得越多，你就变得越好。"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill",
+        "question": "This movie is ___ (more boring / boringer) than that one.",
+        "answer": "more boring",
+        "options": [
+          "more boring",
+          "boringer",
+          "most boring"
+        ]
+      },
+      {
+        "type": "fill",
+        "question": "He is ___ (as tall / taller) as his father.",
+        "answer": "as tall",
+        "options": [
+          "as tall",
+          "taller",
+          "more tall"
+        ]
+      },
+      {
+        "type": "error",
+        "question": "找出错误并选择正确说法：English is more importanter than math.",
+        "answer": "English is more important than math.",
+        "options": [
+          "English is more importanter than math.",
+          "English is more important than math.",
+          "English is most important than math."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grammar_b1_010",
+    "title": "used to 结构",
+    "level": "B1",
+    "category": "时态",
+    "explanation": "used to 表示过去习惯性动作或过去的状况，暗示现在已不再如此。结构为 used to + 动词原形。否定形式为 didn't use to 或 used not to。疑问句用 Did...use to...?",
+    "rules": [
+      "used to + 动词原形：表示过去习惯",
+      "否定：didn't use to / used not to",
+      "疑问：Did + 主语 + use to...?",
+      "不表示具体次数或持续时间，仅表示过去的习惯",
+      "be used to + 动词-ing 表示习惯于，含义不同"
+    ],
+    "examples": [
+      {
+        "en": "I used to play football after school.",
+        "zh": "我过去放学后常踢足球。（现在不踢了）"
+      },
+      {
+        "en": "She didn't use to like coffee.",
+        "zh": "她过去不喜欢咖啡。（现在喜欢了）"
+      },
+      {
+        "en": "Did you use to live in this city?",
+        "zh": "你过去住在这个城市吗？"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill",
+        "question": "He ___ (used to / uses to) wake up early.",
+        "answer": "used to",
+        "options": [
+          "used to",
+          "uses to",
+          "use to"
+        ]
+      },
+      {
+        "type": "fill",
+        "question": "I ___ (didn't use to / doesn't use to) like vegetables.",
+        "answer": "didn't use to",
+        "options": [
+          "didn't use to",
+          "doesn't use to",
+          "isn't use to"
+        ]
+      },
+      {
+        "type": "error",
+        "question": "找出错误并选择正确说法：She used to living alone.",
+        "answer": "She used to live alone.",
+        "options": [
+          "She used to living alone.",
+          "She used to live alone.",
+          "She used live alone."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grammar_b1_r001",
+    "title": "一般过去时（不规则动词）",
+    "category": "时态",
+    "explanation": "很多常用动词的过去式不规则，需要单独记忆，如 go-went, eat-ate, see-saw。",
+    "rules": [
+      "常见不规则动词：go-went / eat-ate / see-saw",
+      "否定与疑问用 did + 动词原形",
+      "时间词：yesterday, last week"
+    ],
+    "examples": [
+      {
+        "en": "I went to the cinema yesterday.",
+        "zh": "我昨天去了电影院。"
+      },
+      {
+        "en": "She saw a movie last weekend.",
+        "zh": "她上周末看了场电影。"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill",
+        "question": "We ___ (eat) dinner at a new restaurant.",
+        "answer": "ate",
+        "options": [
+          "ate",
+          "eated",
+          "eats"
+        ]
+      },
+      {
+        "type": "error",
+        "question": "找出错误：Did you went home early?",
+        "answer": "Did you go home early?",
+        "options": [
+          "Did you go home early?",
+          "Did you went home early?",
+          "Do you went home early?"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grammar_b1_r002",
+    "title": "现在完成时",
+    "category": "时态",
+    "explanation": "现在完成时表示“已经发生并对现在有影响”的动作，结构为 have/has + 过去分词。",
+    "rules": [
+      "have/has + 过去分词",
+      "常搭配 already, just, yet",
+      "ever/never 用于经历提问"
+    ],
+    "examples": [
+      {
+        "en": "She has already finished her homework.",
+        "zh": "她已经完成了作业。"
+      },
+      {
+        "en": "Have you ever been to Beijing?",
+        "zh": "你去过北京吗？"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill",
+        "question": "He has ___ (travel) to many countries.",
+        "answer": "traveled",
+        "options": [
+          "traveled",
+          "travel",
+          "traveling"
+        ]
+      },
+      {
+        "type": "error",
+        "question": "找出错误：I have visit the museum yesterday.",
+        "answer": "I visited the museum yesterday",
+        "options": [
+          "I visited the museum yesterday",
+          "I have visit the museum yesterday",
+          "I have visited the museum yesterday"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grammar_b1_r003",
+    "title": "被动语态（一般现在）",
+    "category": "语态",
+    "explanation": "当动作的承受者是主语时使用被动语态，结构为 am/is/are + 过去分词。",
+    "rules": [
+      "主动：They speak English everywhere",
+      "被动：English is spoken everywhere",
+      "by 引出施事者（可省略）"
+    ],
+    "examples": [
+      {
+        "en": "English is spoken in many countries.",
+        "zh": "许多国家都讲英语。"
+      },
+      {
+        "en": "This bridge is made of stone.",
+        "zh": "这座桥是石头建成的。"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill",
+        "question": "Rice ___ (grow) in the south.",
+        "answer": "is grown",
+        "options": [
+          "is grown",
+          "grows",
+          "is growing"
+        ]
+      },
+      {
+        "type": "error",
+        "question": "找出错误：The cake make by my mother.",
+        "answer": "The cake is made by my mother",
+        "options": [
+          "The cake is made by my mother",
+          "The cake make by my mother",
+          "The cake made by my mother"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grammar_b1_r004",
+    "title": "定语从句（who / which）",
+    "category": "从句",
+    "explanation": "定语从句修饰名词。先行词是人用 who/that，是物用 which/that。",
+    "rules": [
+      "人：The man who is talking",
+      "物：The book which I bought",
+      "that 人、物皆可"
+    ],
+    "examples": [
+      {
+        "en": "The man who is talking is my uncle.",
+        "zh": "正在说话的那个人是我叔叔。"
+      },
+      {
+        "en": "The book which I bought is great.",
+        "zh": "我买的那本书很棒。"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill",
+        "question": "The girl ___ sings well is my friend.",
+        "answer": "who",
+        "options": [
+          "who",
+          "which",
+          "where"
+        ]
+      },
+      {
+        "type": "error",
+        "question": "找出错误：The cat which lives next door are black.",
+        "answer": "The cat which lives next door is black",
+        "options": [
+          "The cat which lives next door is black",
+          "The cat which lives next door are black",
+          "The cat who lives next door is black"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grammar_b1_r005",
+    "title": "条件句（第一类）",
+    "category": "从句",
+    "explanation": "真实条件句描述可能发生的事：if 从句用一般现在时，主句用 will + 动词原形。",
+    "rules": [
+      "if 从句：一般现在时",
+      "主句：will + 动词原形",
+      "从句可放句首或句末"
+    ],
+    "examples": [
+      {
+        "en": "If it rains, I will stay at home.",
+        "zh": "如果下雨，我就待在家里。"
+      },
+      {
+        "en": "I will call you if I finish early.",
+        "zh": "如果我提前完成就给你打电话。"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill",
+        "question": "If she ___ (come), we will start.",
+        "answer": "comes",
+        "options": [
+          "comes",
+          "will come",
+          "come"
+        ]
+      },
+      {
+        "type": "error",
+        "question": "找出错误：If it will rain, we stay home.",
+        "answer": "If it rains, we will stay home",
+        "options": [
+          "If it rains, we will stay home",
+          "If it will rain, we stay home",
+          "If it rains, we stay home"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grammar_b1_r006",
+    "title": "情态动词 could / should",
+    "category": "情态动词",
+    "explanation": "could 表示过去能力或礼貌请求，should 表示建议。",
+    "rules": [
+      "could：过去能 / 礼貌请求",
+      "should：应该（建议）",
+      "后接动词原形"
+    ],
+    "examples": [
+      {
+        "en": "I could swim when I was five.",
+        "zh": "我五岁就会游泳了。"
+      },
+      {
+        "en": "You should see a doctor.",
+        "zh": "你应该去看医生。"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill",
+        "question": "You ___ drink more water.",
+        "answer": "should",
+        "options": [
+          "should",
+          "is",
+          "did"
+        ]
+      },
+      {
+        "type": "error",
+        "question": "找出错误：He could to speak two languages.",
+        "answer": "He could speak two languages",
+        "options": [
+          "He could speak two languages",
+          "He could to speak two languages",
+          "He could speaks two languages"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grammar_b1_r007",
+    "title": "不定式作目的",
+    "category": "词法",
+    "explanation": "不定式（to do）可以表示做某事的目的，回答“为什么”这个问题。",
+    "rules": [
+      "动词 + to do 表目的",
+      "可放句首：To keep fit, I run",
+      "与 in order to 同义"
+    ],
+    "examples": [
+      {
+        "en": "I went to the shop to buy some milk.",
+        "zh": "我去商店买牛奶。"
+      },
+      {
+        "en": "She studies hard to pass the exam.",
+        "zh": "她努力学习以通过考试。"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill",
+        "question": "He opened the door ___ the cat.",
+        "answer": "to let in",
+        "options": [
+          "to let in",
+          "for let in",
+          "let in"
+        ]
+      },
+      {
+        "type": "error",
+        "question": "找出错误：I study for get good grades.",
+        "answer": "I study to get good grades",
+        "options": [
+          "I study to get good grades",
+          "I study for get good grades",
+          "I study to getting good grades"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grammar_b1_r008",
+    "title": "物主代词与所有格",
+    "category": "代词",
+    "explanation": "物主代词表示所属关系，形容词性（my, your, his）后接名词，名词性（mine, yours, his）独立使用。",
+    "rules": [
+      "形容词性：my / your / his / her",
+      "名词性：mine / yours / hers",
+      "名词所有格：Lisa’s book"
+    ],
+    "examples": [
+      {
+        "en": "This is my book.",
+        "zh": "这是我的书。"
+      },
+      {
+        "en": "The red one is mine.",
+        "zh": "红色那个是我的。"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill",
+        "question": "That bag is ___, not yours.",
+        "answer": "mine",
+        "options": [
+          "mine",
+          "my",
+          "me"
+        ]
+      },
+      {
+        "type": "error",
+        "question": "找出错误：The book is my.",
+        "answer": "The book is mine",
+        "options": [
+          "The book is mine",
+          "The book is my",
+          "The book are mine"
+        ]
+      }
+    ]
+  }
+]

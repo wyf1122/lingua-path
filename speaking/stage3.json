@@ -1,0 +1,186 @@
+[
+  {
+    "id": "speaking_b1_001",
+    "title": "Describing Your Weekend",
+    "level": "B1",
+    "category": "weekend",
+    "text": "Last weekend, I went to the countryside with my classmates. The weather was beautiful and we had a picnic near the river. It was a really relaxing experience.",
+    "difficulty": 3
+  },
+  {
+    "id": "speaking_b1_002",
+    "title": "Making a Suggestion",
+    "level": "B1",
+    "category": "planning",
+    "text": "How about going to the new mall this Saturday? We could watch a movie and then have dinner together. If you prefer, we can also visit the science museum instead. What do you think?",
+    "difficulty": 3
+  },
+  {
+    "id": "speaking_b1_003",
+    "title": "Talking About Healthy Habits",
+    "level": "B1",
+    "category": "health",
+    "text": "Staying healthy is very important to me. I try to exercise three times a week and eat a balanced diet. I believe that good habits, like sleeping early and drinking enough water, make a big difference in daily life.",
+    "difficulty": 3
+  },
+  {
+    "id": "speaking_b1_004",
+    "title": "Discussing Career Plans",
+    "level": "B1",
+    "category": "work",
+    "text": "After I graduate, I want to work in marketing because I enjoy being creative. I plan to gain some experience at a small company first, then move to a larger firm.",
+    "difficulty": 3
+  },
+  {
+    "id": "speaking_b1_005",
+    "title": "Expressing Opinions About Education",
+    "level": "B1",
+    "category": "education",
+    "text": "I think online learning is becoming more popular and useful. Students can study at their own pace and choose from a wide range of courses from anywhere in the world.",
+    "difficulty": 3
+  },
+  {
+    "id": "speaking_b1_006",
+    "title": "Talking About a Memorable Trip",
+    "level": "B1",
+    "category": "travel",
+    "text": "The most memorable trip I have ever taken was to Yunnan province. I was amazed by the beautiful scenery and the diverse cultures. I would love to go back someday.",
+    "difficulty": 3
+  },
+  {
+    "id": "speaking_b1_007",
+    "title": "Discussing Environmental Issues",
+    "level": "B1",
+    "category": "environment",
+    "text": "Air pollution is a serious problem in many cities. Governments should encourage people to use public transportation and develop renewable energy sources to protect the environment.",
+    "difficulty": 3
+  },
+  {
+    "id": "speaking_b1_008",
+    "title": "Sharing a Personal Experience",
+    "level": "B1",
+    "category": "storytelling",
+    "text": "Last summer, I volunteered at a local school in a rural area. I taught children English and played games with them. It was one of the most rewarding experiences of my life.",
+    "difficulty": 3
+  },
+  {
+    "id": "speaking_b1_009",
+    "title": "Talking About Technology Use",
+    "level": "B1",
+    "category": "technology",
+    "text": "Social media helps me stay connected with friends who live far away. However, I sometimes spend too much time scrolling through my phone and realize I need a digital detox.",
+    "difficulty": 3
+  },
+  {
+    "id": "speaking_b1_010",
+    "title": "Discussing Cultural Differences",
+    "level": "B1",
+    "category": "culture",
+    "text": "People in different countries have very different customs and traditions. For example, in some cultures it is polite to remove your shoes before entering a home, while in others it is not necessary.",
+    "difficulty": 3
+  },
+  {
+    "id": "speaking_b1_011",
+    "title": "Talking About Financial Planning",
+    "level": "B1",
+    "category": "finance",
+    "text": "I try to save at least twenty percent of my salary every month. I think it is important to set aside money for emergencies and future goals like buying a house.",
+    "difficulty": 3
+  },
+  {
+    "id": "speaking_b1_012",
+    "title": "Describing a Favorite Book",
+    "level": "B1",
+    "category": "entertainment",
+    "text": "The book I enjoyed the most is called The Old Man and the Sea. It tells the story of a fisherman who never gives up. I was deeply inspired by his determination and courage.",
+    "difficulty": 3
+  },
+  {
+    "id": "speaking_b1_013",
+    "title": "Talking About Relationships",
+    "level": "B1",
+    "category": "relationship",
+    "text": "I believe trust and communication are the most important things in any relationship. Without them, even the strongest friendship or romance can quickly fall apart over small misunderstandings.",
+    "difficulty": 3
+  },
+  {
+    "id": "speaking_b1_014",
+    "title": "Discussing Sports and Fitness",
+    "level": "B1",
+    "category": "sports",
+    "text": "I started playing badminton last year and it has become my favorite sport. It is a great way to stay fit and meet new people. I usually play twice a week after work.",
+    "difficulty": 3
+  },
+  {
+    "id": "speaking_b1_015",
+    "title": "Giving Advice About Stress",
+    "level": "B1",
+    "category": "wellness",
+    "text": "When I feel stressed, I usually go for a long walk or listen to calming music. I have found that taking short breaks during the day really helps me stay focused and relaxed.",
+    "difficulty": 3
+  },
+  {
+    "id": "speaking_b1_r001",
+    "title": "交通方式",
+    "level": "B1",
+    "category": "travel",
+    "text": "I get to work by bike. It takes about thirty minutes.",
+    "difficulty": 2
+  },
+  {
+    "id": "speaking_b1_r002",
+    "title": "介绍职业",
+    "level": "B1",
+    "category": "work",
+    "text": "My father is a doctor. He works very hard.",
+    "difficulty": 2
+  },
+  {
+    "id": "speaking_b1_r003",
+    "title": "健康饮食",
+    "level": "B1",
+    "category": "health",
+    "text": "For lunch I usually have noodles. It is healthy.",
+    "difficulty": 2
+  },
+  {
+    "id": "speaking_b1_r004",
+    "title": "城市生活",
+    "level": "B1",
+    "category": "travel",
+    "text": "I live in Tokyo. It is a big and busy city.",
+    "difficulty": 2
+  },
+  {
+    "id": "speaking_b1_r005",
+    "title": "旅行计划",
+    "level": "B1",
+    "category": "travel",
+    "text": "I plan to visit London next month with my family.",
+    "difficulty": 2
+  },
+  {
+    "id": "speaking_b1_r006",
+    "title": "工作描述",
+    "level": "B1",
+    "category": "work",
+    "text": "As a manager, I have many tasks to finish every day.",
+    "difficulty": 2
+  },
+  {
+    "id": "speaking_b1_r007",
+    "title": "兴趣爱好",
+    "level": "B1",
+    "category": "hobby",
+    "text": "My hobby is basketball. I do it every week.",
+    "difficulty": 2
+  },
+  {
+    "id": "speaking_b1_r008",
+    "title": "日常安排",
+    "level": "B1",
+    "category": "daily",
+    "text": "I get up at eight every morning and drink a cup of tea.",
+    "difficulty": 2
+  }
+]

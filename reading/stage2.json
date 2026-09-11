@@ -1,0 +1,474 @@
+[
+  {
+    "id": "reading_a2_001",
+    "title": "A Day at the Beach",
+    "level": "A2",
+    "category": "travel",
+    "content": "Last Saturday, my friends and I went to the beach. The weather was sunny and warm. We swam in the sea and built sandcastles on the sand. For lunch, we ate sandwiches and drank cold juice. In the afternoon, we played volleyball. It was a wonderful day and we enjoyed it very much.",
+    "words": 55,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "When did they go to the beach?",
+        "options": [
+          "Sunday",
+          "Saturday",
+          "Friday"
+        ],
+        "answer": "Saturday"
+      },
+      {
+        "type": "choice",
+        "question": "What did they do after swimming?",
+        "options": [
+          "Built sandcastles",
+          "Went home",
+          "Read books"
+        ],
+        "answer": "Built sandcastles"
+      }
+    ]
+  },
+  {
+    "id": "reading_a2_002",
+    "title": "My Favorite Season",
+    "level": "A2",
+    "category": "nature",
+    "content": "My favorite season is autumn. The weather is cool and comfortable. The leaves on the trees turn yellow, orange and red, so the parks look very beautiful. I often go for a walk with my parents on weekends. We also pick apples on a farm nearby. Autumn is a wonderful time of the year.",
+    "words": 58,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "Why does the writer like autumn?",
+        "options": [
+          "The weather is cool and comfortable",
+          "It snows a lot",
+          "School starts"
+        ],
+        "answer": "The weather is cool and comfortable"
+      },
+      {
+        "type": "judge",
+        "question": "根据文章，作者喜欢夏天胜过秋天。",
+        "options": [
+          "正确",
+          "错误",
+          "未提及"
+        ],
+        "answer": "错误"
+      },
+      {
+        "type": "short",
+        "question": "为什么作者喜欢秋天？请用英文简单说明。",
+        "modelAnswer": "示例：Because the weather is cool and comfortable and the parks look beautiful."
+      }
+    ]
+  },
+  {
+    "id": "reading_a2_003",
+    "title": "Healthy Eating Habits",
+    "level": "A2",
+    "category": "health",
+    "content": "Eating well is important for your body. You should eat more fruit and vegetables and drink enough water every day. Try not to eat too much fast food or sweet drinks. A healthy breakfast gives you energy for the whole morning. Remember to eat a little at a time, and do not skip meals.",
+    "words": 55,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What gives you energy for the morning?",
+        "options": [
+          "A healthy breakfast",
+          "Fast food",
+          "Sweet drinks"
+        ],
+        "answer": "A healthy breakfast"
+      },
+      {
+        "type": "choice",
+        "question": "Which should you try NOT to eat too much?",
+        "options": [
+          "Vegetables",
+          "Fast food",
+          "Fruit"
+        ],
+        "answer": "Fast food"
+      }
+    ]
+  },
+  {
+    "id": "reading_a2_004",
+    "title": "A Trip to the Zoo",
+    "level": "A2",
+    "category": "travel",
+    "content": "Last summer, my family visited the city zoo. We saw many animals, including elephants, lions and penguins. The elephants were very big and friendly. My little brother loved the monkeys because they were funny and played with each other. We took many photos and had lunch at the zoo cafe. It was a long day, but everyone was happy. I want to go back again next year.",
+    "words": 67,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "Which animal did the little brother love?",
+        "options": [
+          "Elephants",
+          "Monkeys",
+          "Penguins"
+        ],
+        "answer": "Monkeys"
+      },
+      {
+        "type": "judge",
+        "question": "They had lunch at a restaurant outside the zoo.",
+        "options": [
+          "正确",
+          "错误",
+          "未提及"
+        ],
+        "answer": "错误"
+      }
+    ]
+  },
+  {
+    "id": "reading_a2_005",
+    "title": "My Best Friend",
+    "level": "A2",
+    "category": "daily-life",
+    "content": "My best friend is Li Hua. We are in the same class at school. Li Hua is tall and has short black hair. He is very kind and always helps me with my homework. After school, we often ride our bikes to the park and play basketball together. On weekends, we sometimes go to the bookshop. I am lucky to have such a good friend.",
+    "words": 65,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What do they do after school?",
+        "options": [
+          "Watch TV",
+          "Ride bikes and play basketball",
+          "Go swimming"
+        ],
+        "answer": "Ride bikes and play basketball"
+      },
+      {
+        "type": "choice",
+        "question": "Where do they sometimes go on weekends?",
+        "options": [
+          "To the cinema",
+          "To the bookshop",
+          "To the zoo"
+        ],
+        "answer": "To the bookshop"
+      },
+      {
+        "type": "judge",
+        "question": "Li Hua is in a different class from the writer.",
+        "options": [
+          "正确",
+          "错误",
+          "未提及"
+        ],
+        "answer": "错误"
+      }
+    ]
+  },
+  {
+    "id": "reading_a2_006",
+    "title": "Learning to Cook",
+    "level": "A2",
+    "category": "food",
+    "content": "Last month, I decided to learn how to cook. My grandmother taught me how to make tomato egg soup. First, I washed the tomatoes and cut them into small pieces. Then I cooked the eggs in hot water. Finally, I added some salt and sugar. The soup tasted delicious. Now I cook for my family every weekend. Cooking is a useful skill and I enjoy it very much.",
+    "words": 68,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "Who taught the writer to cook?",
+        "options": [
+          "Father",
+          "Grandmother",
+          "Teacher"
+        ],
+        "answer": "Grandmother"
+      },
+      {
+        "type": "short",
+        "question": "What did the writer add at the end? Please answer in English.",
+        "modelAnswer": "Example: The writer added some salt and sugar."
+      }
+    ]
+  },
+  {
+    "id": "reading_a2_007",
+    "title": "My First Day at a New School",
+    "level": "A2",
+    "category": "education",
+    "content": "Today was my first day at a new school. I was very nervous in the morning. My teacher, Mr. Wang, was friendly and showed me around the school. The classroom was big and bright. I met three new classmates during break time. They were nice and invited me to play with them. I ate lunch in the school cafeteria. The food was good. By the end of the day, I was no longer afraid. I think I will like this school.",
+    "words": 81,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "How did the writer feel in the morning?",
+        "options": [
+          "Happy",
+          "Nervous",
+          "Bored"
+        ],
+        "answer": "Nervous"
+      },
+      {
+        "type": "judge",
+        "question": "The classroom was small and dark.",
+        "options": [
+          "正确",
+          "错误",
+          "未提及"
+        ],
+        "answer": "错误"
+      },
+      {
+        "type": "short",
+        "question": "Did the writer enjoy the first day? Why or why not? Please answer in English.",
+        "modelAnswer": "Example: Yes, because the teacher was friendly and the classmates were nice."
+      }
+    ]
+  },
+  {
+    "id": "reading_a2_008",
+    "title": "My New Phone",
+    "level": "A2",
+    "category": "technology",
+    "content": "I got a new phone for my birthday. It is black and has a big screen. I can use it to take photos, listen to music and chat with my friends. My parents said I should not use it too much. I must finish my homework before I can play on my phone. I also set an alarm on my phone to wake me up in the morning. It is very useful.",
+    "words": 72,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What color is the new phone?",
+        "options": [
+          "White",
+          "Black",
+          "Blue"
+        ],
+        "answer": "Black"
+      },
+      {
+        "type": "choice",
+        "question": "What must the writer do before playing on the phone?",
+        "options": [
+          "Eat dinner",
+          "Finish homework",
+          "Clean the room"
+        ],
+        "answer": "Finish homework"
+      }
+    ]
+  },
+  {
+    "id": "reading_a2_009",
+    "title": "Spring Festival",
+    "level": "A2",
+    "category": "culture",
+    "content": "Spring Festival is the most important holiday in China. Families get together and have a big dinner on New Year's Eve. We eat dumplings and fish. Children receive red envelopes with money inside. People put up red decorations on their doors. During the holiday, we visit relatives and friends. Everyone wears new clothes and says Happy New Year. There are also fireworks and lion dances in the streets. It is my favorite time of the year.",
+    "words": 76,
+    "questions": [
+      {
+        "type": "judge",
+        "question": "Children get green envelopes during Spring Festival.",
+        "options": [
+          "正确",
+          "错误",
+          "未提及"
+        ],
+        "answer": "错误"
+      },
+      {
+        "type": "choice",
+        "question": "What do people eat during the festival?",
+        "options": [
+          "Pizza and pasta",
+          "Dumplings and fish",
+          "Hamburgers and fries"
+        ],
+        "answer": "Dumplings and fish"
+      },
+      {
+        "type": "short",
+        "question": "What do people do on New Year's Eve? Please answer in English.",
+        "modelAnswer": "Example: Families get together and have a big dinner."
+      }
+    ]
+  },
+  {
+    "id": "reading_a2_010",
+    "title": "My Hobby: Painting",
+    "level": "A2",
+    "category": "hobbies",
+    "content": "I started painting two years ago when my aunt gave me a set of watercolors. At first, I was not very good, but I practiced every weekend. Now I can paint flowers, trees and even animals. My favorite thing to paint is the sunset. I often paint in the park near my home. My teacher displayed one of my paintings in the school art show last month. Painting makes me feel calm and happy.",
+    "words": 74,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What is the writer's favorite thing to paint?",
+        "options": [
+          "Flowers",
+          "The sunset",
+          "Animals"
+        ],
+        "answer": "The sunset"
+      },
+      {
+        "type": "judge",
+        "question": "The writer's painting was shown in a museum.",
+        "options": [
+          "正确",
+          "错误",
+          "未提及"
+        ],
+        "answer": "错误"
+      }
+    ]
+  },
+  {
+    "id": "reading_a2_r001",
+    "title": "购物清单",
+    "level": "A2",
+    "category": "shopping",
+    "content": "Anna goes to the supermarket. She wants to buy some rice and a cup of tea. The food costs two dollars. After shopping, she goes home by bus.",
+    "words": 28,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What does Anna want to buy?",
+        "options": [
+          "a sandwich",
+          "some rice",
+          "a piece of cake"
+        ],
+        "answer": "some rice"
+      },
+      {
+        "type": "choice",
+        "question": "What drink does Anna want to buy?",
+        "options": [
+          "a bottle of water",
+          "a glass of juice",
+          "a cup of tea"
+        ],
+        "answer": "a cup of tea"
+      },
+      {
+        "type": "choice",
+        "question": "How much does the food cost?",
+        "options": [
+          "two",
+          "four",
+          "three"
+        ],
+        "answer": "two"
+      },
+      {
+        "type": "judge",
+        "question": "Anna goes shopping by bike.",
+        "options": [
+          "正确",
+          "错误"
+        ],
+        "answer": "错误"
+      },
+      {
+        "type": "short",
+        "question": "用一句英文简要回答：What does Anna want to buy?",
+        "answer": "some rice"
+      }
+    ]
+  },
+  {
+    "id": "reading_a2_r002",
+    "title": "我的宠物",
+    "level": "A2",
+    "category": "nature",
+    "content": "Tom has a bird at home. It is green and very friendly. Every day Tom gives it some water. In the evening, they go for a walk to the school. Tom loves a bird very much.",
+    "words": 36,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What pet does Tom have at home?",
+        "options": [
+          "a dog",
+          "a cat",
+          "a bird"
+        ],
+        "answer": "a bird"
+      },
+      {
+        "type": "choice",
+        "question": "What color is Tom’s pet?",
+        "options": [
+          "blue",
+          "green",
+          "yellow"
+        ],
+        "answer": "green"
+      },
+      {
+        "type": "choice",
+        "question": "Where do they go for a walk in the evening?",
+        "options": [
+          "the supermarket",
+          "the park",
+          "the school"
+        ],
+        "answer": "the school"
+      },
+      {
+        "type": "judge",
+        "question": "Tom’s pet is not friendly.",
+        "options": [
+          "正确",
+          "错误"
+        ],
+        "answer": "错误"
+      },
+      {
+        "type": "short",
+        "question": "用一句英文简要回答：What pet does Tom have at home?",
+        "answer": "a bird"
+      }
+    ]
+  },
+  {
+    "id": "reading_a2_r003",
+    "title": "愉快的一天",
+    "level": "A2",
+    "category": "daily",
+    "content": "Ben gets up early and goes to the park with his friends. They eat a sandwich for lunch there. In the afternoon they play games. Ben thinks it is a happy day.",
+    "words": 32,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "Where does Ben go with his friends?",
+        "options": [
+          "the school",
+          "the hospital",
+          "the park"
+        ],
+        "answer": "the park"
+      },
+      {
+        "type": "choice",
+        "question": "What do they eat for lunch?",
+        "options": [
+          "some rice",
+          "a sandwich",
+          "a piece of cake"
+        ],
+        "answer": "a sandwich"
+      },
+      {
+        "type": "judge",
+        "question": "Ben thinks it is a happy day.",
+        "options": [
+          "正确",
+          "错误"
+        ],
+        "answer": "正确"
+      },
+      {
+        "type": "short",
+        "question": "用一句英文简要回答：Where does Ben go with his friends?",
+        "answer": "the park"
+      }
+    ]
+  }
+]

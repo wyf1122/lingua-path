@@ -1,0 +1,170 @@
+[
+  {
+    "id": "speaking_b2_001",
+    "title": "Expressing Your Opinion",
+    "level": "B2",
+    "category": "opinion",
+    "text": "In my opinion, learning a second language is extremely valuable in today's globalized world. It not only opens up career opportunities but also helps you understand different cultures.",
+    "difficulty": 4
+  },
+  {
+    "id": "speaking_b2_002",
+    "title": "Comparing Two Cities",
+    "level": "B2",
+    "category": "comparison",
+    "text": "Compared with the countryside, living in a big city offers far more career opportunities and entertainment options. However, the countryside provides cleaner air and a lower cost of living. Each place has its own distinct advantages.",
+    "difficulty": 4
+  },
+  {
+    "id": "speaking_b2_003",
+    "title": "Discussing Technology",
+    "level": "B2",
+    "category": "technology",
+    "text": "Technology has dramatically changed the way we work and communicate. While it improves efficiency in many ways, it also creates challenges such as information overload and reduced face-to-face interaction. Striking a balance seems essential for our well-being.",
+    "difficulty": 4
+  },
+  {
+    "id": "speaking_b2_004",
+    "title": "Analyzing Modern Education",
+    "level": "B2",
+    "category": "education",
+    "text": "The traditional classroom model is gradually being replaced by more interactive and technology-driven approaches. Students today have access to resources that previous generations could only dream of, which fundamentally changes how knowledge is acquired.",
+    "difficulty": 4
+  },
+  {
+    "id": "speaking_b2_005",
+    "title": "Debating Environmental Responsibility",
+    "level": "B2",
+    "category": "environment",
+    "text": "While governments bear the greatest responsibility for combating climate change, individuals also play a crucial role. Simple actions like reducing plastic use and choosing sustainable products can collectively make a significant impact on the planet.",
+    "difficulty": 4
+  },
+  {
+    "id": "speaking_b2_006",
+    "title": "Discussing Mental Health Awareness",
+    "level": "B2",
+    "category": "health",
+    "text": "Mental health has long been overlooked in many societies, but there is a growing awareness of its importance. Employers and educators should create environments where people feel comfortable discussing their psychological well-being without fear of judgment.",
+    "difficulty": 4
+  },
+  {
+    "id": "speaking_b2_007",
+    "title": "Reflecting on Cultural Heritage",
+    "level": "B2",
+    "category": "culture",
+    "text": "Preserving cultural heritage is vital for maintaining a sense of identity and community. As modernization accelerates, traditional crafts, languages, and customs risk being forgotten unless deliberate efforts are made to protect them for future generations.",
+    "difficulty": 4
+  },
+  {
+    "id": "speaking_b2_008",
+    "title": "Evaluating Work-Life Balance",
+    "level": "B2",
+    "category": "work",
+    "text": "Many professionals struggle to maintain a healthy work-life balance, especially in competitive industries. Companies that offer flexible working arrangements and respect personal time tend to attract more loyal and productive employees.",
+    "difficulty": 4
+  },
+  {
+    "id": "speaking_b2_009",
+    "title": "Hypothesizing About the Future",
+    "level": "B2",
+    "category": "future",
+    "text": "If current trends in artificial intelligence continue, many routine jobs will be automated within the next decade. Society will need to rethink education and retraining programs to help workers adapt to this rapidly changing landscape.",
+    "difficulty": 4
+  },
+  {
+    "id": "speaking_b2_010",
+    "title": "Discussing Media Influence",
+    "level": "B2",
+    "category": "media",
+    "text": "The media has an enormous influence on public opinion and personal beliefs. With the rise of social media platforms, misinformation spreads more easily than ever, making critical media literacy an essential skill for everyone.",
+    "difficulty": 4
+  },
+  {
+    "id": "speaking_b2_011",
+    "title": "Talking About Travel Experiences",
+    "level": "B2",
+    "category": "travel",
+    "text": "Traveling to unfamiliar places broadens your perspective and challenges your assumptions. Rather than simply visiting tourist attractions, immersing yourself in local communities offers a far richer and more meaningful experience.",
+    "difficulty": 4
+  },
+  {
+    "id": "speaking_b2_012",
+    "title": "Debating Free Trade vs Protectionism",
+    "level": "B2",
+    "category": "economics",
+    "text": "Free trade can boost economic growth by allowing countries to specialize in what they produce best. However, without proper regulations, it may also widen inequality and harm domestic industries that cannot compete with cheaper imports.",
+    "difficulty": 4
+  },
+  {
+    "id": "speaking_b2_013",
+    "title": "Discussing the Role of Sports in Society",
+    "level": "B2",
+    "category": "sports",
+    "text": "Professional sports serve as more than just entertainment. They promote national unity, inspire young people to pursue healthy lifestyles, and generate enormous revenue that supports local economies and creates thousands of jobs.",
+    "difficulty": 4
+  },
+  {
+    "id": "speaking_b2_014",
+    "title": "Analyzing Urbanization Trends",
+    "level": "B2",
+    "category": "society",
+    "text": "The rapid growth of cities presents both opportunities and challenges. While urban areas attract talent and investment, they also face pressing issues like housing shortages, traffic congestion, and the need for better public infrastructure.",
+    "difficulty": 4
+  },
+  {
+    "id": "speaking_b2_015",
+    "title": "Reflecting on Personal Growth",
+    "level": "B2",
+    "category": "emotions",
+    "text": "Overcoming failure has taught me more than any success ever could. Each setback forced me to reassess my approach, build resilience, and develop a more realistic understanding of my strengths and weaknesses.",
+    "difficulty": 4
+  },
+  {
+    "id": "speaking_b2_r001",
+    "title": "观点表达",
+    "level": "B2",
+    "category": "opinion",
+    "text": "From my point of view, I question the decision.",
+    "difficulty": 3
+  },
+  {
+    "id": "speaking_b2_r002",
+    "title": "工作汇报",
+    "level": "B2",
+    "category": "work",
+    "text": "I need to prepare a report for the manager before Friday.",
+    "difficulty": 3
+  },
+  {
+    "id": "speaking_b2_r003",
+    "title": "职业规划",
+    "level": "B2",
+    "category": "career",
+    "text": "My goal is to become a researcher and work in Shanghai.",
+    "difficulty": 3
+  },
+  {
+    "id": "speaking_b2_r004",
+    "title": "项目讨论",
+    "level": "B2",
+    "category": "work",
+    "text": "In the meeting we discussed a presentation and made a plan.",
+    "difficulty": 3
+  },
+  {
+    "id": "speaking_b2_r005",
+    "title": "会议安排",
+    "level": "B2",
+    "category": "work",
+    "text": "We will hold a training session next week. Please arrive on time.",
+    "difficulty": 3
+  },
+  {
+    "id": "speaking_b2_r006",
+    "title": "频率表述",
+    "level": "B2",
+    "category": "opinion",
+    "text": "I sometimes read the news to keep myself informed.",
+    "difficulty": 3
+  }
+]

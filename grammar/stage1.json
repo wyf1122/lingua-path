@@ -1,0 +1,941 @@
+[
+  {
+    "id": "grammar_a1_001",
+    "title": "Be 动词的用法",
+    "level": "A1",
+    "category": "时态",
+    "explanation": "Be 动词（am / is / are）用于描述人或事物的状态、身份、位置等。主语不同，be 动词的形式也不同：第一人称单数用 am，第三人称单数用 is，其余用 are。",
+    "rules": [
+      "I am / I'm",
+      "He / She / It is / He's / She's / It's",
+      "You / We / They are / You're / We're / They're",
+      "否定形式：am not / isn't / aren't",
+      "疑问形式：提前 be 动词，如 Are you...?"
+    ],
+    "examples": [
+      {
+        "en": "I am a student.",
+        "zh": "我是一名学生。"
+      },
+      {
+        "en": "She is my friend.",
+        "zh": "她是我的朋友。"
+      },
+      {
+        "en": "They are from China.",
+        "zh": "他们来自中国。"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill",
+        "question": "She ___ a teacher.",
+        "answer": "is",
+        "options": [
+          "am",
+          "is",
+          "are"
+        ]
+      },
+      {
+        "type": "fill",
+        "question": "They ___ from China.",
+        "answer": "are",
+        "options": [
+          "is",
+          "am",
+          "are"
+        ]
+      },
+      {
+        "type": "error",
+        "question": "找出错误并选择正确说法：She are a teacher.",
+        "answer": "She is a teacher",
+        "options": [
+          "She am a teacher",
+          "She is a teacher",
+          "She are teacher"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grammar_a1_002",
+    "title": "人称代词",
+    "level": "A1",
+    "category": "代词",
+    "explanation": "人称代词有主格（做主语）和宾格（做宾语）两种形式。主格用于句子主语位置，宾格用于动词或介词之后作宾语。",
+    "rules": [
+      "主格做主语：I, you, he, she, it, we, they",
+      "宾格做宾语：me, you, him, her, it, us, them",
+      "be 动词后传统语法用主格，口语中常用宾格",
+      "介词后必须用宾格：for me, with him"
+    ],
+    "examples": [
+      {
+        "en": "She likes him very much.",
+        "zh": "她非常喜欢他。"
+      },
+      {
+        "en": "Give the book to me, please.",
+        "zh": "请把书给我。"
+      },
+      {
+        "en": "We are going to the park.",
+        "zh": "我们正要去公园。"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill",
+        "question": "___ (He / Him) is my best friend.",
+        "answer": "He",
+        "options": [
+          "He",
+          "Him",
+          "His"
+        ]
+      },
+      {
+        "type": "fill",
+        "question": "Please help ___ (I / me / my).",
+        "answer": "me",
+        "options": [
+          "I",
+          "me",
+          "my"
+        ]
+      },
+      {
+        "type": "order",
+        "question": "把单词排序成正确的句子（人称代词：1. him 2. I 3. like 4. very much）。",
+        "answer": "i like him very much",
+        "segments": [
+          "him",
+          "I",
+          "like",
+          "very much"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grammar_a1_003",
+    "title": "一般现在时",
+    "level": "A1",
+    "category": "时态",
+    "explanation": "一般现在时用于描述习惯、事实和普遍真理。第三人称单数（he/she/it）动词后加 -s 或 -es，其他人称用动词原形。",
+    "rules": [
+      "主语 + 动词原形（第三人称单数 + -s/-es）",
+      "否定：don't / doesn't + 动词原形",
+      "疑问：Do / Does + 主语 + 动词原形",
+      "常搭配频率副词：always, usually, often, sometimes, never"
+    ],
+    "examples": [
+      {
+        "en": "I play football every day.",
+        "zh": "我每天踢足球。"
+      },
+      {
+        "en": "She plays the piano.",
+        "zh": "她弹钢琴。"
+      },
+      {
+        "en": "Water boils at 100 degrees Celsius.",
+        "zh": "水在100摄氏度沸腾。"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill",
+        "question": "He ___ (play) basketball every Sunday.",
+        "answer": "plays",
+        "options": [
+          "play",
+          "plays",
+          "playing"
+        ]
+      },
+      {
+        "type": "error",
+        "question": "找出错误并选择正确说法：She don't like coffee.",
+        "answer": "She doesn't like coffee.",
+        "options": [
+          "She don't like coffee.",
+          "She doesn't like coffee.",
+          "She not likes coffee."
+        ]
+      },
+      {
+        "type": "order",
+        "question": "把单词排序成正确的句子（一般现在时：1. every day 2. She 3. gets up 4. at six）。",
+        "answer": "she gets up at six every day",
+        "segments": [
+          "every day",
+          "She",
+          "gets up",
+          "at six"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grammar_a1_004",
+    "title": "There be 句型",
+    "level": "A1",
+    "category": "句式",
+    "explanation": "There be 句型用于表示某处存在某物。be 动词的形式由最近的名词决定（就近原则）。肯定、否定和疑问形式各有不同。",
+    "rules": [
+      "There is + 单数名词 / 不可数名词",
+      "There are + 复数名词",
+      "否定：There isn't / There aren't",
+      "疑问：Is there...? / Are there...?"
+    ],
+    "examples": [
+      {
+        "en": "There is a cat on the table.",
+        "zh": "桌子上有一只猫。"
+      },
+      {
+        "en": "There are many books in the library.",
+        "zh": "图书馆里有很多书。"
+      },
+      {
+        "en": "There is some water in the glass.",
+        "zh": "杯子里有一些水。"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill",
+        "question": "There ___ (is / are) a book on the desk.",
+        "answer": "is",
+        "options": [
+          "is",
+          "are",
+          "be"
+        ]
+      },
+      {
+        "type": "fill",
+        "question": "There ___ (is / are) two apples in the basket.",
+        "answer": "are",
+        "options": [
+          "is",
+          "are",
+          "be"
+        ]
+      },
+      {
+        "type": "error",
+        "question": "找出错误并选择正确说法：There is many people in the room.",
+        "answer": "There are many people in the room.",
+        "options": [
+          "There is many people in the room.",
+          "There are many people in the room.",
+          "There has many people in the room."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grammar_a1_005",
+    "title": "可数名词与不可数名词",
+    "level": "A1",
+    "category": "名词",
+    "explanation": "英语名词分为可数名词和不可数名词。可数名词有单复数形式，不可数名词没有复数形式，不能直接加 a/an 或数词。常见的不可数名词有 water, milk, bread, information 等。",
+    "rules": [
+      "可数名词单数前加 a/an：a book, an apple",
+      "可数名词复数加 -s/-es：books, boxes",
+      "不可数名词不能加 a/an 或 -s：water, rice, news",
+      "不可数名词用量词修饰：a glass of water, a piece of bread"
+    ],
+    "examples": [
+      {
+        "en": "I have two cats.",
+        "zh": "我有两只猫。"
+      },
+      {
+        "en": "Can I have a glass of water?",
+        "zh": "我能要一杯水吗？"
+      },
+      {
+        "en": "There is some bread on the table.",
+        "zh": "桌上有一些面包。"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill",
+        "question": "I need ___ (a / an) umbrella.",
+        "answer": "an",
+        "options": [
+          "a",
+          "an",
+          "the"
+        ]
+      },
+      {
+        "type": "fill",
+        "question": "There are several ___ (child) in the park.",
+        "answer": "children",
+        "options": [
+          "child",
+          "children",
+          "childs"
+        ]
+      },
+      {
+        "type": "error",
+        "question": "找出错误并选择正确说法：I bought two furnitures yesterday.",
+        "answer": "I bought two pieces of furniture yesterday.",
+        "options": [
+          "I bought two furnitures yesterday.",
+          "I bought two pieces of furniture yesterday.",
+          "I bought two furniture yesterday."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grammar_a1_006",
+    "title": "情态动词 can",
+    "level": "A1",
+    "category": "情态动词",
+    "explanation": "can 表示能力或许可，后接动词原形。其否定形式为 can't 或 cannot，疑问句将 can 提前。过去式为 could。",
+    "rules": [
+      "can + 动词原形，没有人称变化",
+      "否定：can't / cannot",
+      "疑问：Can + 主语 + 动词原形？",
+      "could 是 can 的过去式，也可用于委婉请求"
+    ],
+    "examples": [
+      {
+        "en": "I can swim very well.",
+        "zh": "我游泳游得很好。"
+      },
+      {
+        "en": "Can you help me, please?",
+        "zh": "请你帮帮我好吗？"
+      },
+      {
+        "en": "She can speak three languages.",
+        "zh": "她能说三种语言。"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill",
+        "question": "___ you speak English?",
+        "answer": "Can",
+        "options": [
+          "Do",
+          "Can",
+          "Are"
+        ]
+      },
+      {
+        "type": "fill",
+        "question": "He ___ (can / cans) drive a car.",
+        "answer": "can",
+        "options": [
+          "can",
+          "cans",
+          "can't"
+        ]
+      },
+      {
+        "type": "order",
+        "question": "把单词排序成正确的句子（can：1. she 2. can 3. play 4. the guitar）。",
+        "answer": "she can play the guitar",
+        "segments": [
+          "she",
+          "can",
+          "play",
+          "the guitar"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grammar_a1_007",
+    "title": "祈使句",
+    "level": "A1",
+    "category": "句式",
+    "explanation": "祈使句用于发出命令、请求、建议或指示。肯定祈使句以动词原形开头，否定祈使句用 Don't + 动词原形。主语 you 通常省略。",
+    "rules": [
+      "肯定祈使句：动词原形开头，如 Open the door.",
+      "否定祈使句：Don't + 动词原形，如 Don't be late.",
+      "Let's + 动词原形表示建议，如 Let's go.",
+      "语气词 please 可放在句首或句末以示礼貌"
+    ],
+    "examples": [
+      {
+        "en": "Please sit down.",
+        "zh": "请坐下。"
+      },
+      {
+        "en": "Don't touch that!",
+        "zh": "别碰那个！"
+      },
+      {
+        "en": "Let's go to the cinema.",
+        "zh": "我们去看电影吧。"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill",
+        "question": "___ (Don't / Doesn't) run in the hallway.",
+        "answer": "Don't",
+        "options": [
+          "Don't",
+          "Doesn't",
+          "Not"
+        ]
+      },
+      {
+        "type": "error",
+        "question": "找出错误并选择正确说法：Please doesn't be late for class.",
+        "answer": "Please don't be late for class.",
+        "options": [
+          "Please doesn't be late for class.",
+          "Please don't be late for class.",
+          "Please not be late for class."
+        ]
+      },
+      {
+        "type": "order",
+        "question": "把单词排序成正确的句子（祈使句：1. your 2. Close 3. books 4. please）。",
+        "answer": "close your books please",
+        "segments": [
+          "your",
+          "Close",
+          "books",
+          "please"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grammar_a1_008",
+    "title": "现在进行时",
+    "level": "A1",
+    "category": "时态",
+    "explanation": "现在进行时用于表示说话时刻正在进行的动作或当前阶段持续的状态。结构为 be (am/is/are) + 动词-ing。动词加 -ing 有特殊拼写规则。",
+    "rules": [
+      "am / is / are + 动词-ing",
+      "一般加 -ing：work → working",
+      "以不发音的 e 结尾去 e 加 -ing：make → making",
+      "重读闭音节双写末字母加 -ing：run → running"
+    ],
+    "examples": [
+      {
+        "en": "I am reading a book now.",
+        "zh": "我正在看书。"
+      },
+      {
+        "en": "She is cooking dinner.",
+        "zh": "她正在做晚饭。"
+      },
+      {
+        "en": "They are playing football in the park.",
+        "zh": "他们正在公园里踢足球。"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill",
+        "question": "Look! The baby ___ (sleep).",
+        "answer": "is sleeping",
+        "options": [
+          "sleeps",
+          "is sleeping",
+          "sleeping"
+        ]
+      },
+      {
+        "type": "fill",
+        "question": "We ___ (watch) TV right now.",
+        "answer": "are watching",
+        "options": [
+          "watch",
+          "are watching",
+          "is watching"
+        ]
+      },
+      {
+        "type": "error",
+        "question": "找出错误并选择正确说法：She is runing in the park.",
+        "answer": "She is running in the park.",
+        "options": [
+          "She is runing in the park.",
+          "She is running in the park.",
+          "She is run in the park."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grammar_a1_009",
+    "title": "一般过去时（was/were）",
+    "level": "A1",
+    "category": "时态",
+    "explanation": "一般过去时用于描述过去发生的动作或存在的状态。was 用于第一人称和第三人称单数，were 用于第二人称和复数。否定用 wasn't/weren't，疑问句提前 was/were。",
+    "rules": [
+      "I / He / She / It + was",
+      "You / We / They + were",
+      "否定：wasn't / weren't",
+      "疑问：Was/Were + 主语 + ...?"
+    ],
+    "examples": [
+      {
+        "en": "I was at home yesterday.",
+        "zh": "我昨天在家。"
+      },
+      {
+        "en": "They were happy last night.",
+        "zh": "他们昨晚很开心。"
+      },
+      {
+        "en": "Was she at school?",
+        "zh": "她在学校吗？"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill",
+        "question": "He ___ (was / were) at the park yesterday.",
+        "answer": "was",
+        "options": [
+          "was",
+          "were",
+          "is"
+        ]
+      },
+      {
+        "type": "fill",
+        "question": "___ (Was / Were) you at home last night?",
+        "answer": "Were",
+        "options": [
+          "Was",
+          "Were",
+          "Are"
+        ]
+      },
+      {
+        "type": "error",
+        "question": "找出错误并选择正确说法：She were very tired yesterday.",
+        "answer": "She was very tired yesterday.",
+        "options": [
+          "She were very tired yesterday.",
+          "She was very tired yesterday.",
+          "She is very tired yesterday."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grammar_a1_010",
+    "title": "感叹句",
+    "level": "A1",
+    "category": "句式",
+    "explanation": "感叹句用于表达强烈的情感，如惊讶、喜悦、赞叹等。常用 What 和 How 引导。What 修饰名词，How 修饰形容词或副词。",
+    "rules": [
+      "What + a/an + 形容词 + 单数可数名词 + 主谓！",
+      "What + 形容词 + 复数/不可数名词 + 主谓！",
+      "How + 形容词/副词 + 主谓！",
+      "How + 形容词 + a/an + 名词 + 主谓！"
+    ],
+    "examples": [
+      {
+        "en": "What a beautiful day!",
+        "zh": "多么美好的一天！"
+      },
+      {
+        "en": "How smart she is!",
+        "zh": "她多聪明啊！"
+      },
+      {
+        "en": "What interesting books you have!",
+        "zh": "你有这么多有趣的书！"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill",
+        "question": "___ beautiful flowers they are!",
+        "answer": "What",
+        "options": [
+          "What",
+          "How",
+          "What a"
+        ]
+      },
+      {
+        "type": "fill",
+        "question": "___ fast he runs!",
+        "answer": "How",
+        "options": [
+          "What",
+          "How",
+          "What a"
+        ]
+      },
+      {
+        "type": "error",
+        "question": "找出错误并选择正确说法：How a nice day it is!",
+        "answer": "What a nice day it is!",
+        "options": [
+          "How a nice day it is!",
+          "What a nice day it is!",
+          "What nice day it is!"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grammar_a1_r001",
+    "title": "一般现在时",
+    "category": "时态",
+    "explanation": "一般现在时表示经常发生的动作、习惯或客观事实。主语是第三人称单数时，动词要加 s/es。",
+    "rules": [
+      "主语 + 动词原形（第三人称单数加 s）",
+      "否定式：don’t / doesn’t + 动词原形",
+      "疑问式：Do / Does 开头提问"
+    ],
+    "examples": [
+      {
+        "en": "I read English every morning.",
+        "zh": "我每天早上读英语。"
+      },
+      {
+        "en": "She watches TV at night.",
+        "zh": "她晚上看电视。"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill",
+        "question": "He ___ play basketball on Sundays.",
+        "answer": "plays",
+        "options": [
+          "play",
+          "plays",
+          "playing"
+        ]
+      },
+      {
+        "type": "error",
+        "question": "找出错误：She don’t like coffee.",
+        "answer": "She doesn’t like coffee",
+        "options": [
+          "She don’t like coffee",
+          "She doesn’t like coffee",
+          "She not like coffee"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grammar_a1_r002",
+    "title": "There be 句型",
+    "category": "句型",
+    "explanation": "There be 句型表示“某处有某物”，be 的形式由后面的名词决定：单数用 is，复数用 are。",
+    "rules": [
+      "There is + 单数名词",
+      "There are + 复数名词",
+      "否定：There isn’t / aren’t"
+    ],
+    "examples": [
+      {
+        "en": "There is a book on the desk.",
+        "zh": "桌上有本书。"
+      },
+      {
+        "en": "There are two cats in the garden.",
+        "zh": "花园里有两只猫。"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill",
+        "question": "There ___ a pen in the box.",
+        "answer": "is",
+        "options": [
+          "is",
+          "are",
+          "am"
+        ]
+      },
+      {
+        "type": "order",
+        "question": "排序：lamp / on / the desk / is / There",
+        "answer": "There is a lamp on the desk",
+        "options": [
+          "There is a lamp on the desk",
+          "A lamp is there on the desk",
+          "On the desk a lamp there is"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grammar_a1_r003",
+    "title": "形容词的用法",
+    "category": "词法",
+    "explanation": "形容词用来修饰名词，说明人或事物的特征，通常放在名词前或 be 动词后。",
+    "rules": [
+      "名词前：a big house",
+      "be 后：The house is big",
+      "very / so 加强调"
+    ],
+    "examples": [
+      {
+        "en": "This is a beautiful flower.",
+        "zh": "这是一朵漂亮的花。"
+      },
+      {
+        "en": "The weather is warm today.",
+        "zh": "今天天气很暖和。"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill",
+        "question": "The ___ day makes me happy.",
+        "answer": "sunny",
+        "options": [
+          "sun",
+          "sunny",
+          "sunnyly"
+        ]
+      },
+      {
+        "type": "error",
+        "question": "找出错误：She has beautiful a flower.",
+        "answer": "She has a beautiful flower",
+        "options": [
+          "She has a beautiful flower",
+          "She has beautiful a flower",
+          "She have beautiful flower"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grammar_a1_r004",
+    "title": "情态动词 can",
+    "category": "情态动词",
+    "explanation": "can 表示“能够”，后面直接加动词原形，没有人称和数的变化。",
+    "rules": [
+      "can + 动词原形",
+      "否定：can not / cannot / can’t",
+      "疑问：Can you …?"
+    ],
+    "examples": [
+      {
+        "en": "I can swim very fast.",
+        "zh": "我游泳游得很快。"
+      },
+      {
+        "en": "Can you help me?",
+        "zh": "你能帮帮我吗？"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill",
+        "question": "She ___ speak English.",
+        "answer": "can",
+        "options": [
+          "can",
+          "cans",
+          "can to"
+        ]
+      },
+      {
+        "type": "error",
+        "question": "找出错误：He can plays the guitar.",
+        "answer": "He can play the guitar",
+        "options": [
+          "He can play the guitar",
+          "He can plays the guitar",
+          "He cans play the guitar"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grammar_a1_r005",
+    "title": "现在进行时",
+    "category": "时态",
+    "explanation": "现在进行时表示正在进行或现阶段持续的动作，结构是 be + 动词ing。",
+    "rules": [
+      "am/is/are + doing",
+      "常见时间词：now, at the moment",
+      "疑问否定由 be 承担"
+    ],
+    "examples": [
+      {
+        "en": "I am reading a book now.",
+        "zh": "我正在读书。"
+      },
+      {
+        "en": "They are playing outside.",
+        "zh": "他们正在外面玩。"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill",
+        "question": "Look, she ___ on the stage.",
+        "answer": "is dancing",
+        "options": [
+          "dances",
+          "is dancing",
+          "dancing"
+        ]
+      },
+      {
+        "type": "error",
+        "question": "找出错误：He is run in the park.",
+        "answer": "He is running in the park",
+        "options": [
+          "He is running in the park",
+          "He is run in the park",
+          "He running in the park"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grammar_a1_r006",
+    "title": "介词 at / in / on",
+    "category": "介词",
+    "explanation": "at 用于时间点或具体地点，in 用于月份年份或大范围，on 用于具体某天或表面。",
+    "rules": [
+      "at + 时刻 / at the station",
+      "in + 月份 / in the city",
+      "on + 星期几 / on the table"
+    ],
+    "examples": [
+      {
+        "en": "We meet at six in the morning.",
+        "zh": "我们早上六点见面。"
+      },
+      {
+        "en": "The keys are on the table.",
+        "zh": "钥匙在桌子上。"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill",
+        "question": "I was born ___ May.",
+        "answer": "in",
+        "options": [
+          "in",
+          "on",
+          "at"
+        ]
+      },
+      {
+        "type": "fill",
+        "question": "See you ___ Friday.",
+        "answer": "on",
+        "options": [
+          "on",
+          "in",
+          "at"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grammar_a1_r007",
+    "title": "一般过去时（规则动词）",
+    "category": "时态",
+    "explanation": "一般过去时表示过去发生的动作或状态，规则动词过去式通常加 ed。",
+    "rules": [
+      "动词 + ed",
+      "常见时间词：yesterday, last week",
+      "be 的过去式：was / were"
+    ],
+    "examples": [
+      {
+        "en": "I visited my grandma yesterday.",
+        "zh": "我昨天去看望了奶奶。"
+      },
+      {
+        "en": "She played the piano last night.",
+        "zh": "她昨晚弹了钢琴。"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill",
+        "question": "They ___ a movie last night.",
+        "answer": "watched",
+        "options": [
+          "watch",
+          "watched",
+          "watching"
+        ]
+      },
+      {
+        "type": "error",
+        "question": "找出错误：I walk to school yesterday.",
+        "answer": "I walked to school yesterday",
+        "options": [
+          "I walked to school yesterday",
+          "I walk to school yesterday",
+          "I walking to school yesterday"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grammar_a1_r008",
+    "title": "感叹句",
+    "category": "句型",
+    "explanation": "感叹句表达强烈的感情。what 感叹名词短语，how 感叹形容词或副词。",
+    "rules": [
+      "What + 名词短语！",
+      "How + 形容词/副词！",
+      "主谓仍用正常语序"
+    ],
+    "examples": [
+      {
+        "en": "What a lovely day!",
+        "zh": "多么美好的一天啊！"
+      },
+      {
+        "en": "How beautiful the garden is!",
+        "zh": "这座花园真美啊！"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill",
+        "question": "___ a clever boy he is!",
+        "answer": "What",
+        "options": [
+          "What",
+          "How",
+          "That"
+        ]
+      },
+      {
+        "type": "fill",
+        "question": "___ quickly he runs!",
+        "answer": "How",
+        "options": [
+          "How",
+          "What",
+          "Where"
+        ]
+      }
+    ]
+  }
+]

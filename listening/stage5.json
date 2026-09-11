@@ -1,0 +1,462 @@
+[
+  {
+    "id": "listening_c1_001",
+    "title": "Innovation in Education",
+    "level": "C1",
+    "category": "education",
+    "content": "The integration of artificial intelligence in education represents a paradigm shift. While proponents argue that personalized learning can significantly enhance educational outcomes, critics raise concerns about privacy and the depersonalization of the learning experience. Ultimately, a balanced approach is essential.",
+    "duration": 60,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What advantage do proponents highlight?",
+        "options": [
+          "Personalized learning",
+          "Lower costs",
+          "Simpler exams"
+        ],
+        "answer": "Personalized learning"
+      },
+      {
+        "type": "choice",
+        "question": "What concern do critics raise?",
+        "options": [
+          "Privacy issues",
+          "Higher taxes",
+          "Longer school days"
+        ],
+        "answer": "Privacy issues"
+      },
+      {
+        "type": "choice",
+        "question": "What does the speaker conclude?",
+        "options": [
+          "AI should replace teachers entirely",
+          "A balanced approach is essential",
+          "Technology has no place in education"
+        ],
+        "answer": "A balanced approach is essential"
+      }
+    ]
+  },
+  {
+    "id": "listening_c1_002",
+    "title": "A Radio Interview on Urban Farming",
+    "level": "C1",
+    "category": "environment",
+    "content": "Today we are discussing urban farming with Dr. Elena Marsh. She argues that growing food inside cities can reduce transport costs and improve food security, especially in densely populated areas. However, she also cautions that limited space and high land prices remain significant obstacles. In her view, rooftop gardens and community plots offer practical solutions, but long-term success will depend on supportive policies and active participation from local residents.",
+    "duration": 55,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What benefit of urban farming does Dr. Marsh mention?",
+        "options": [
+          "Reduced transport costs",
+          "Lower rent",
+          "Fewer regulations"
+        ],
+        "answer": "Reduced transport costs"
+      },
+      {
+        "type": "choice",
+        "question": "What remains a significant obstacle?",
+        "options": [
+          "High land prices",
+          "Too much water",
+          "Extreme cold"
+        ],
+        "answer": "High land prices"
+      },
+      {
+        "type": "choice",
+        "question": "What will long-term success depend on?",
+        "options": [
+          "Higher profits",
+          "Supportive policies and resident participation",
+          "Government bans on imports"
+        ],
+        "answer": "Supportive policies and resident participation"
+      }
+    ]
+  },
+  {
+    "id": "listening_c1_003",
+    "title": "A University Lecture on Memory",
+    "level": "C1",
+    "category": "education",
+    "content": "In today's lecture, we will examine how memory can be deliberately improved. Research indicates that spacing your study sessions and actively testing yourself are far more effective than passive rereading. Furthermore, connecting new information to what you already know creates stronger neural pathways. Finally, adequate sleep is crucial, as the consolidation of memories largely takes place during rest.",
+    "duration": 52,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What is more effective than passive rereading?",
+        "options": [
+          "Spacing sessions and active testing",
+          "Reading faster",
+          "Highlighting everything"
+        ],
+        "answer": "Spacing sessions and active testing"
+      },
+      {
+        "type": "choice",
+        "question": "When does memory consolidation largely take place?",
+        "options": [
+          "During exercise",
+          "During sleep",
+          "During meals"
+        ],
+        "answer": "During sleep"
+      },
+      {
+        "type": "choice",
+        "question": "What helps create stronger neural pathways?",
+        "options": [
+          "Memorizing without understanding",
+          "Connecting new information to existing knowledge",
+          "Studying late at night"
+        ],
+        "answer": "Connecting new information to existing knowledge"
+      }
+    ]
+  },
+  {
+    "id": "listening_c1_004",
+    "title": "A Panel Discussion on Globalization",
+    "level": "C1",
+    "category": "work",
+    "content": "Globalization has profoundly reshaped the world economy. Professor Lee argues that it has lifted millions out of poverty by creating jobs in developing nations. However, Professor Chen counters that it has simultaneously widened income inequality within those same countries. Dr. Patel adds that cultural homogenization is an often-overlooked consequence, as local traditions are gradually replaced by global consumer culture. The panel agrees that international cooperation and fair trade policies are necessary to ensure that the benefits of globalization are more equitably distributed.",
+    "duration": 60,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "How has globalization affected developing nations according to Professor Lee?",
+        "options": [
+          "It has caused widespread unemployment",
+          "It has lifted millions out of poverty",
+          "It has reduced international trade"
+        ],
+        "answer": "It has lifted millions out of poverty"
+      },
+      {
+        "type": "choice",
+        "question": "What concern does Professor Chen raise?",
+        "options": [
+          "Too much poverty reduction",
+          "Widened income inequality within countries",
+          "Too much international cooperation"
+        ],
+        "answer": "Widened income inequality within countries"
+      },
+      {
+        "type": "choice",
+        "question": "What do all panel members agree on?",
+        "options": [
+          "Globalization should be abolished",
+          "International cooperation and fair trade policies are needed",
+          "Cultural homogenization is a positive outcome"
+        ],
+        "answer": "International cooperation and fair trade policies are needed"
+      }
+    ]
+  },
+  {
+    "id": "listening_c1_005",
+    "title": "A Podcast on Artificial Creativity",
+    "level": "C1",
+    "category": "technology",
+    "content": "Can machines be truly creative? Artist Marcus Webb thinks not. He argues that while AI can generate images and music that resemble human art, it lacks the intention and emotional depth that define genuine creativity. Art critic Sarah Lane disagrees, suggesting that the audience's emotional response is what determines artistic value, regardless of the creator. Meanwhile, neuroscientist Dr. Kim points out that human creativity itself is a product of complex neural processes, blurring the line between biological and artificial generation. This debate raises fundamental questions about what we mean by art and authorship.",
+    "duration": 58,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What does Marcus Webb believe about AI art?",
+        "options": [
+          "AI art is superior to human art",
+          "AI lacks intention and emotional depth",
+          "AI will replace all human artists"
+        ],
+        "answer": "AI lacks intention and emotional depth"
+      },
+      {
+        "type": "choice",
+        "question": "What does Sarah Lane consider important for artistic value?",
+        "options": [
+          "The creator's identity",
+          "The audience's emotional response",
+          "The price of the artwork"
+        ],
+        "answer": "The audience's emotional response"
+      },
+      {
+        "type": "choice",
+        "question": "What does Dr. Kim suggest about human creativity?",
+        "options": [
+          "It is unrelated to biology",
+          "It is a product of complex neural processes",
+          "It cannot be studied scientifically"
+        ],
+        "answer": "It is a product of complex neural processes"
+      }
+    ]
+  },
+  {
+    "id": "listening_c1_006",
+    "title": "A Lecture on Linguistic Relativity",
+    "level": "C1",
+    "category": "education",
+    "content": "The Sapir-Whorf hypothesis proposes that the language we speak influences how we think and perceive the world. For example, speakers of languages with many words for different shades of blue can distinguish between those shades more easily than English speakers. However, recent research suggests that while language does shape certain cognitive processes, it does not determine thought entirely. Cultural context and personal experience also play significant roles. This ongoing debate has important implications for fields ranging from artificial intelligence to cross-cultural communication.",
+    "duration": 55,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What does the Sapir-Whorf hypothesis propose?",
+        "options": [
+          "Language determines personality",
+          "Language influences how we think and perceive the world",
+          "All languages are equally complex"
+        ],
+        "answer": "Language influences how we think and perceive the world"
+      },
+      {
+        "type": "choice",
+        "question": "What example is given about blue?",
+        "options": [
+          "English has more blue words than other languages",
+          "Languages with many blue words help speakers distinguish shades",
+          "Blue is the most commonly used colour word"
+        ],
+        "answer": "Languages with many blue words help speakers distinguish shades"
+      },
+      {
+        "type": "choice",
+        "question": "What do recent findings suggest?",
+        "options": [
+          "Language has no effect on thought",
+          "Language shapes cognition but does not determine thought entirely",
+          "Culture is irrelevant to perception"
+        ],
+        "answer": "Language shapes cognition but does not determine thought entirely"
+      }
+    ]
+  },
+  {
+    "id": "listening_c1_007",
+    "title": "An Interview With a Marine Biologist",
+    "level": "C1",
+    "category": "nature",
+    "content": "Dr. Rivera, you've spent twenty years studying coral reefs. What has changed? The situation is quite alarming. Ocean temperatures have risen significantly, causing widespread coral bleaching. When water gets too warm, corals expel the algae living inside them and turn white. Without those algae, the coral cannot get enough nutrients and eventually dies. How serious is it? About one-third of the world's coral reefs are already severely damaged. If warming continues at the current rate, we could lose ninety percent by twenty-fifty. What can be done? Reducing carbon emissions is the most critical step. On a local level, limiting pollution and overfishing helps reefs recover. We also need more marine protected areas. Are you still hopeful? Cautiously, yes. Some reefs have shown remarkable resilience when given the right conditions.",
+    "duration": 62,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What happens during coral bleaching?",
+        "options": [
+          "Corals grow faster",
+          "Corals expel algae and turn white",
+          "Corals change colour to camouflage"
+        ],
+        "answer": "Corals expel algae and turn white"
+      },
+      {
+        "type": "choice",
+        "question": "What percentage of coral reefs could be lost by twenty-fifty?",
+        "options": [
+          "Fifty percent",
+          "Seventy percent",
+          "Ninety percent"
+        ],
+        "answer": "Ninety percent"
+      },
+      {
+        "type": "choice",
+        "question": "What is the most critical step to save coral reefs?",
+        "options": [
+          "Building more aquariums",
+          "Reducing carbon emissions",
+          "Stopping all fishing"
+        ],
+        "answer": "Reducing carbon emissions"
+      }
+    ]
+  },
+  {
+    "id": "listening_c1_008",
+    "title": "A Seminar on the Ethics of Genetic Engineering",
+    "level": "C1",
+    "category": "health",
+    "content": "Gene-editing technologies like CRISPR offer unprecedented possibilities for treating genetic diseases, but they also raise profound ethical questions. Proponents believe that editing genes to eliminate conditions such as sickle cell disease is morally justified because it alleviates suffering. Critics, however, worry about unintended consequences, including off-target mutations that could cause new health problems. There is also the concern about enhancement editing — modifying traits like intelligence or appearance — which could deepen social inequalities. Currently, most countries ban germline editing, which affects future generations, while permitting somatic gene therapy for existing patients. The challenge for policymakers is to develop regulations that encourage innovation while protecting public safety.",
+    "duration": 65,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What do proponents argue about gene editing?",
+        "options": [
+          "It is too dangerous to use",
+          "Editing genes to eliminate diseases is morally justified",
+          "It should only be used for enhancement"
+        ],
+        "answer": "Editing genes to eliminate diseases is morally justified"
+      },
+      {
+        "type": "choice",
+        "question": "What is a concern about enhancement editing?",
+        "options": [
+          "It is not effective enough",
+          "It could deepen social inequalities",
+          "It is too slow to produce results"
+        ],
+        "answer": "It could deepen social inequalities"
+      },
+      {
+        "type": "choice",
+        "question": "What do most countries currently permit?",
+        "options": [
+          "Germline editing for all purposes",
+          "Somatic gene therapy for existing patients",
+          "Enhancement editing in laboratories"
+        ],
+        "answer": "Somatic gene therapy for existing patients"
+      }
+    ]
+  },
+  {
+    "id": "listening_c1_009",
+    "title": "A Talk on Urbanization and Mental Health",
+    "level": "C1",
+    "category": "health",
+    "content": "As more people move to cities, researchers are examining the psychological impact of urban living. Studies have found that city dwellers have a twenty-one percent higher risk of anxiety disorders and a thirty-nine percent higher risk of depression compared to rural residents. The constant noise, overcrowding, and lack of green spaces are believed to contribute to these outcomes. Interestingly, cities that invest in parks, pedestrian zones, and community spaces tend to report lower rates of mental illness. Urban planners are increasingly collaborating with mental health professionals to design cities that support psychological well-being. Simple measures like planting more trees, reducing traffic in residential areas, and creating community gardens can make a measurable difference.",
+    "duration": 58,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "How much higher is the risk of anxiety for city dwellers?",
+        "options": [
+          "Ten percent",
+          "Twenty-one percent",
+          "Thirty-nine percent"
+        ],
+        "answer": "Twenty-one percent"
+      },
+      {
+        "type": "choice",
+        "question": "What type of cities report lower rates of mental illness?",
+        "options": [
+          "Cities with more highways",
+          "Cities that invest in parks and community spaces",
+          "Cities with taller buildings"
+        ],
+        "answer": "Cities that invest in parks and community spaces"
+      },
+      {
+        "type": "choice",
+        "question": "Who are urban planners collaborating with?",
+        "options": [
+          "Software engineers",
+          "Mental health professionals",
+          "Construction companies"
+        ],
+        "answer": "Mental health professionals"
+      }
+    ]
+  },
+  {
+    "id": "listening_c1_010",
+    "title": "A Documentary Narration on the Deep Ocean",
+    "level": "C1",
+    "category": "nature",
+    "content": "The deep ocean remains one of the least explored frontiers on Earth. Below two thousand metres, sunlight cannot penetrate, and temperatures drop to near freezing. Yet life thrives in these extreme conditions. Bioluminescent organisms create their own light to attract prey and communicate. Tube worms, some living over two hundred and fifty years, cluster around hydrothermal vents that spew superheated water rich in minerals. Recent expeditions have discovered species previously unknown to science, suggesting that the deep sea holds far more biodiversity than we imagined. However, deep-sea mining poses a serious threat to these fragile ecosystems. As demand for rare minerals grows, scientists urge caution to prevent irreversible damage to habitats we have barely begun to understand.",
+    "duration": 60,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What happens below two thousand metres in the ocean?",
+        "options": [
+          "Sunlight remains strong",
+          "Sunlight cannot penetrate and temperatures drop",
+          "Water becomes warmer"
+        ],
+        "answer": "Sunlight cannot penetrate and temperatures drop"
+      },
+      {
+        "type": "choice",
+        "question": "What do bioluminescent organisms use their light for?",
+        "options": [
+          "Heating themselves",
+          "Attracting prey and communicating",
+          "Repelling predators only"
+        ],
+        "answer": "Attracting prey and communicating"
+      },
+      {
+        "type": "choice",
+        "question": "What threat do scientists warn about?",
+        "options": [
+          "Overfishing in shallow waters",
+          "Deep-sea mining damaging fragile ecosystems",
+          "Rising sea levels"
+        ],
+        "answer": "Deep-sea mining damaging fragile ecosystems"
+      }
+    ]
+  },
+  {
+    "id": "listening_c1_r001",
+    "title": "出差计划",
+    "level": "C1",
+    "category": "travel",
+    "content": "I am flying to Manchester for business next week. How long will you stay there? About a week. I always travel for work. Good luck and enjoy the trip.",
+    "duration": 20,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "Where is the person flying to?",
+        "options": [
+          "Manchester",
+          "Chicago",
+          "Munich"
+        ],
+        "answer": "Manchester"
+      },
+      {
+        "type": "choice",
+        "question": "How often does the person travel for work?",
+        "options": [
+          "always",
+          "rarely",
+          "sometimes"
+        ],
+        "answer": "always"
+      }
+    ]
+  },
+  {
+    "id": "listening_c1_r002",
+    "title": "会议通知",
+    "level": "C1",
+    "category": "work",
+    "content": "There will be a meeting next Wednesday morning. Good, I have prepared an interview already. Please arrive by nine and bring your notes. No problem, I will be there on time.",
+    "duration": 20,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What will be held next Wednesday?",
+        "options": [
+          "meeting",
+          "training session",
+          "conference"
+        ],
+        "answer": "meeting"
+      },
+      {
+        "type": "choice",
+        "question": "What has the person already prepared?",
+        "options": [
+          "a report",
+          "an interview",
+          "a presentation"
+        ],
+        "answer": "an interview"
+      }
+    ]
+  }
+]

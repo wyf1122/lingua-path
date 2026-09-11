@@ -1,0 +1,412 @@
+[
+  {
+    "id": "listening_a2_001",
+    "title": "A Weekend Plan",
+    "level": "A2",
+    "category": "hobbies",
+    "content": "What are you doing this weekend? I'm going to visit the museum on Saturday. That sounds fun. Do you want to come with me? Yes, I'd love to. Let's meet at ten.",
+    "duration": 30,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What is the person doing on Saturday?",
+        "options": [
+          "Going shopping",
+          "Visiting the museum",
+          "Watching a movie"
+        ],
+        "answer": "Visiting the museum"
+      },
+      {
+        "type": "choice",
+        "question": "What time will they meet?",
+        "options": [
+          "At nine",
+          "At ten",
+          "At eleven"
+        ],
+        "answer": "At ten"
+      }
+    ]
+  },
+  {
+    "id": "listening_a2_002",
+    "title": "Ordering Food",
+    "level": "A2",
+    "category": "food",
+    "content": "Are you ready to order? Yes, I'd like a chicken salad and a glass of orange juice. Would you like anything for dessert? A piece of chocolate cake, please. OK, your food will be ready in ten minutes.",
+    "duration": 30,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What main dish does the customer order?",
+        "options": [
+          "A chicken salad",
+          "A beef burger",
+          "A tomato soup"
+        ],
+        "answer": "A chicken salad"
+      },
+      {
+        "type": "choice",
+        "question": "What dessert does the customer want?",
+        "options": [
+          "Apple pie",
+          "Chocolate cake",
+          "Ice cream"
+        ],
+        "answer": "Chocolate cake"
+      }
+    ]
+  },
+  {
+    "id": "listening_a2_003",
+    "title": "Asking for Directions",
+    "level": "A2",
+    "category": "travel",
+    "content": "Excuse me, how do I get to the library? Go straight along this road and turn left at the traffic lights. The library is on your right, next to the bank. Is it far? No, it's about five minutes on foot.",
+    "duration": 32,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "Where is the library located?",
+        "options": [
+          "Next to the bank",
+          "Next to the park",
+          "Next to the station"
+        ],
+        "answer": "Next to the bank"
+      },
+      {
+        "type": "choice",
+        "question": "How far is the library on foot?",
+        "options": [
+          "About five minutes",
+          "About ten minutes",
+          "About fifteen minutes"
+        ],
+        "answer": "About five minutes"
+      }
+    ]
+  },
+  {
+    "id": "listening_a2_004",
+    "title": "Calling in Sick",
+    "level": "A2",
+    "category": "health",
+    "content": "Hello, this is Mr. Park calling. I can't come to work today. I'm sorry to hear that. What's wrong? I have a bad cold and a sore throat. That sounds unpleasant. Please rest and get better soon. Thank you. I hope to be back tomorrow.",
+    "duration": 28,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "Why can't Mr. Park come to work?",
+        "options": [
+          "He has a meeting",
+          "He has a cold",
+          "He is on holiday"
+        ],
+        "answer": "He has a cold"
+      },
+      {
+        "type": "choice",
+        "question": "When does Mr. Park hope to return?",
+        "options": [
+          "Today",
+          "Tomorrow",
+          "Next week"
+        ],
+        "answer": "Tomorrow"
+      }
+    ]
+  },
+  {
+    "id": "listening_a2_005",
+    "title": "At the Doctor's Office",
+    "level": "A2",
+    "category": "health",
+    "content": "Good morning. Please sit down. What brings you here today? I've had a terrible stomachache since last night. Did you eat anything unusual? I think the fish I had for dinner wasn't fresh. I'll give you some medicine. Take one tablet after each meal. Thank you, doctor.",
+    "duration": 30,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What symptom does the patient describe?",
+        "options": [
+          "A headache",
+          "A stomachache",
+          "A backache"
+        ],
+        "answer": "A stomachache"
+      },
+      {
+        "type": "choice",
+        "question": "When should the patient take the medicine?",
+        "options": [
+          "Before meals",
+          "After each meal",
+          "Before bed only"
+        ],
+        "answer": "After each meal"
+      }
+    ]
+  },
+  {
+    "id": "listening_a2_006",
+    "title": "Buying Groceries",
+    "level": "A2",
+    "category": "shopping",
+    "content": "Hi! Do we have everything on the list? Let me check. We need bread, milk, and some apples. OK, the bread is over there. I'll get the milk. And I see the apples on the left. How many should we get? A bag of six should be enough. Great. Let's pay and go home.",
+    "duration": 32,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What items do they need?",
+        "options": [
+          "Bread, milk and apples",
+          "Rice, eggs and bananas",
+          "Cheese, butter and oranges"
+        ],
+        "answer": "Bread, milk and apples"
+      },
+      {
+        "type": "choice",
+        "question": "How many apples do they decide to buy?",
+        "options": [
+          "Three",
+          "Six",
+          "Twelve"
+        ],
+        "answer": "Six"
+      }
+    ]
+  },
+  {
+    "id": "listening_a2_007",
+    "title": "Planning a Trip",
+    "level": "A2",
+    "category": "travel",
+    "content": "Where are you going for your holiday? I'm going to Paris with my family. How exciting! When are you leaving? Next Monday. We're taking the train. How long is the trip? About four hours. We'll arrive in the afternoon and check into our hotel. That sounds wonderful!",
+    "duration": 30,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "Where is the person going?",
+        "options": [
+          "London",
+          "Paris",
+          "Berlin"
+        ],
+        "answer": "Paris"
+      },
+      {
+        "type": "choice",
+        "question": "How long is the train journey?",
+        "options": [
+          "About two hours",
+          "About four hours",
+          "About six hours"
+        ],
+        "answer": "About four hours"
+      }
+    ]
+  },
+  {
+    "id": "listening_a2_008",
+    "title": "Making a Phone Call",
+    "level": "A2",
+    "category": "work",
+    "content": "Hello, is this the Greenfield Restaurant? Yes, it is. I'd like to reserve a table for four people tonight at seven, please. What name, please? The name is Johnson. One moment, please. OK, your table is reserved. See you at seven. Thank you very much.",
+    "duration": 28,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "How many people is the table for?",
+        "options": [
+          "Two",
+          "Three",
+          "Four"
+        ],
+        "answer": "Four"
+      },
+      {
+        "type": "choice",
+        "question": "What time is the reservation?",
+        "options": [
+          "At six",
+          "At seven",
+          "At eight"
+        ],
+        "answer": "At seven"
+      }
+    ]
+  },
+  {
+    "id": "listening_a2_009",
+    "title": "A Birthday Party",
+    "level": "A2",
+    "category": "family",
+    "content": "Happy birthday, Sarah! Thank you so much! Here's a present for you. Oh, how lovely! Can I open it now? Of course. Wow, it's a beautiful scarf! I'm so glad you like it. What time is the party? It starts at four. I can't wait!",
+    "duration": 28,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What gift does Sarah receive?",
+        "options": [
+          "A scarf",
+          "A hat",
+          "A book"
+        ],
+        "answer": "A scarf"
+      },
+      {
+        "type": "choice",
+        "question": "What time does the party start?",
+        "options": [
+          "At three",
+          "At four",
+          "At five"
+        ],
+        "answer": "At four"
+      }
+    ]
+  },
+  {
+    "id": "listening_a2_010",
+    "title": "Lost and Found",
+    "level": "A2",
+    "category": "going-out",
+    "content": "Excuse me, I think I left my umbrella on the bus this morning. What does it look like? It's black with a wooden handle. Let me check. Yes, we have it. Someone handed it in. Oh, that's a relief! Thank you so much. Here you are. Please be careful next time. I will. Thanks again.",
+    "duration": 30,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "Where did the person lose their umbrella?",
+        "options": [
+          "On the bus",
+          "In a shop",
+          "At school"
+        ],
+        "answer": "On the bus"
+      },
+      {
+        "type": "choice",
+        "question": "What does the umbrella look like?",
+        "options": [
+          "Blue with a metal handle",
+          "Black with a wooden handle",
+          "Red with a plastic handle"
+        ],
+        "answer": "Black with a wooden handle"
+      }
+    ]
+  },
+  {
+    "id": "listening_a2_r001",
+    "title": "动物园见闻",
+    "level": "A2",
+    "category": "nature",
+    "content": "Look, there is a bird over there! Wow, it is so cute and green. Yes, I love it a lot. Let us take a photo of it.",
+    "duration": 20,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What animal do they see?",
+        "options": [
+          "a bird",
+          "a dog",
+          "a cat"
+        ],
+        "answer": "a bird"
+      },
+      {
+        "type": "choice",
+        "question": "What color is the animal?",
+        "options": [
+          "green",
+          "blue",
+          "yellow"
+        ],
+        "answer": "green"
+      }
+    ]
+  },
+  {
+    "id": "listening_a2_r002",
+    "title": "上学聊天",
+    "level": "A2",
+    "category": "education",
+    "content": "How do you go to school every day? I go to school by bus. What time do you leave home? I leave home at eight in the morning.",
+    "duration": 20,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What time does the person leave home?",
+        "options": [
+          "nine",
+          "eight",
+          "seven"
+        ],
+        "answer": "eight"
+      }
+    ]
+  },
+  {
+    "id": "listening_a2_r003",
+    "title": "早餐讨论",
+    "level": "A2",
+    "category": "food",
+    "content": "What do you have for breakfast? I usually have a sandwich and a glass of milk. That sounds good! And I also drink a bottle of water later in the day.",
+    "duration": 20,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What does the person eat for breakfast?",
+        "options": [
+          "some rice",
+          "some chicken",
+          "a sandwich"
+        ],
+        "answer": "a sandwich"
+      },
+      {
+        "type": "choice",
+        "question": "What does the person also like to drink?",
+        "options": [
+          "a cup of coffee",
+          "a glass of juice",
+          "a bottle of water"
+        ],
+        "answer": "a bottle of water"
+      }
+    ]
+  },
+  {
+    "id": "listening_a2_r004",
+    "title": "在咖啡店点单",
+    "level": "A2",
+    "category": "going-out",
+    "content": "Can I help you? Yes, I would like a cup of coffee, please. That will be two dollars. Here you go. Thank you.",
+    "duration": 20,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What would the customer like to order?",
+        "options": [
+          "a glass of juice",
+          "a cup of tea",
+          "a cup of coffee"
+        ],
+        "answer": "a cup of coffee"
+      },
+      {
+        "type": "choice",
+        "question": "How much does the drink cost?",
+        "options": [
+          "two",
+          "four",
+          "five"
+        ],
+        "answer": "two"
+      }
+    ]
+  }
+]

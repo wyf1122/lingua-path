@@ -1,0 +1,170 @@
+[
+  {
+    "id": "speaking_c1_001",
+    "title": "Academic Discussion",
+    "level": "C1",
+    "category": "academic",
+    "text": "The advancement of artificial intelligence raises profound questions about the future of human labor. While automation promises efficiency, society must carefully consider how to prepare workers for this significant transformation.",
+    "difficulty": 5
+  },
+  {
+    "id": "speaking_c1_002",
+    "title": "Presenting an Argument",
+    "level": "C1",
+    "category": "argument",
+    "text": "I would argue that reading widely is indispensable for critical thinking. A diverse range of perspectives enables us to question assumptions and evaluate evidence more rigorously. Without such habits, informed and balanced judgment becomes increasingly difficult to achieve.",
+    "difficulty": 5
+  },
+  {
+    "id": "speaking_c1_003",
+    "title": "Reflecting on Globalization",
+    "level": "C1",
+    "category": "society",
+    "text": "Globalization has undeniably connected economies and cultures across the world. Nevertheless, its benefits are not distributed evenly, and local traditions sometimes face pressure to homogenize. A thoughtful approach is to embrace exchange while safeguarding cultural diversity and regional identity.",
+    "difficulty": 5
+  },
+  {
+    "id": "speaking_c1_004",
+    "title": "Philosophy of Ethics in Technology",
+    "level": "C1",
+    "category": "philosophy",
+    "text": "As autonomous systems become increasingly embedded in daily life, the question of who bears moral responsibility when something goes wrong grows ever more urgent. Ethical frameworks must evolve alongside the technologies they seek to govern.",
+    "difficulty": 5
+  },
+  {
+    "id": "speaking_c1_005",
+    "title": "Discussing Climate Change Policy",
+    "level": "C1",
+    "category": "environment",
+    "text": "The tension between economic development and environmental sustainability remains one of the defining challenges of our era. Policymakers must navigate competing interests while ensuring that climate action does not disproportionately burden vulnerable communities.",
+    "difficulty": 5
+  },
+  {
+    "id": "speaking_c1_006",
+    "title": "Analyzing Educational Inequality",
+    "level": "C1",
+    "category": "education",
+    "text": "Disparities in educational quality often reflect and reinforce broader socioeconomic inequalities. Unless structural reforms address the root causes, such as funding gaps and teacher shortages, the gap between disadvantaged and privileged students will continue to widen.",
+    "difficulty": 5
+  },
+  {
+    "id": "speaking_c1_007",
+    "title": "The Psychology of Decision Making",
+    "level": "C1",
+    "category": "psychology",
+    "text": "Human decision-making is far less rational than we would like to believe. Cognitive biases, emotional influences, and social pressures all shape our choices in ways that often contradict the purely logical models traditionally assumed by economists.",
+    "difficulty": 5
+  },
+  {
+    "id": "speaking_c1_008",
+    "title": "Reflecting on the Nature of Creativity",
+    "level": "C1",
+    "category": "art",
+    "text": "Creativity does not emerge in a vacuum. It is shaped by cultural context, personal experience, and often by the collision of seemingly unrelated ideas. Nurturing it requires both freedom to experiment and the discipline to refine raw inspiration.",
+    "difficulty": 5
+  },
+  {
+    "id": "speaking_c1_009",
+    "title": "Debating Democratic Participation",
+    "level": "C1",
+    "category": "politics",
+    "text": "Declining voter turnout in many democracies signals a deeper disillusionment with political institutions. Revitalizing civic engagement demands not only electoral reform but also fostering a culture in which informed participation is regarded as a fundamental civic duty.",
+    "difficulty": 5
+  },
+  {
+    "id": "speaking_c1_010",
+    "title": "The Ethics of Genetic Engineering",
+    "level": "C1",
+    "category": "science",
+    "text": "The prospect of editing human genes presents extraordinary medical possibilities alongside deeply unsettling ethical dilemmas. While eliminating hereditary diseases is a compelling goal, we must proceed with caution to avoid unintended consequences for future generations.",
+    "difficulty": 5
+  },
+  {
+    "id": "speaking_c1_011",
+    "title": "Evaluating Global Health Systems",
+    "level": "C1",
+    "category": "health",
+    "text": "The pandemic exposed critical weaknesses in healthcare infrastructure worldwide, particularly in low-income countries. Building more resilient health systems requires sustained international cooperation, equitable resource allocation, and a willingness to invest in preventive medicine.",
+    "difficulty": 5
+  },
+  {
+    "id": "speaking_c1_012",
+    "title": "The Influence of Social Media on Democracy",
+    "level": "C1",
+    "category": "media",
+    "text": "Social media platforms have fundamentally altered the public sphere by democratizing information access while simultaneously amplifying misinformation. The challenge lies in regulating these spaces without undermining the very freedoms that make them valuable to democratic discourse.",
+    "difficulty": 5
+  },
+  {
+    "id": "speaking_c1_013",
+    "title": "Discussing Economic Inequality",
+    "level": "C1",
+    "category": "economics",
+    "text": "The widening gap between the wealthiest individuals and the rest of the population threatens social cohesion and economic stability. Progressive taxation alone is insufficient; structural changes in education, healthcare, and labor markets are equally necessary.",
+    "difficulty": 5
+  },
+  {
+    "id": "speaking_c1_014",
+    "title": "The Role of Art in Social Change",
+    "level": "C1",
+    "category": "culture",
+    "text": "Throughout history, art has served as a powerful catalyst for social transformation. Whether through literature, music, or visual expression, creative works have the unique capacity to challenge prevailing narratives and inspire movements for justice and equity.",
+    "difficulty": 5
+  },
+  {
+    "id": "speaking_c1_015",
+    "title": "Reflecting on Identity and Belonging",
+    "level": "C1",
+    "category": "emotions",
+    "text": "Identity is not a fixed attribute but a fluid negotiation between personal experience and social expectation. In an increasingly interconnected world, many individuals navigate multiple cultural affiliations, which can enrich their sense of self while also posing profound questions about belonging.",
+    "difficulty": 5
+  },
+  {
+    "id": "speaking_c1_r001",
+    "title": "频率表述",
+    "level": "C1",
+    "category": "opinion",
+    "text": "I usually read the news to keep myself informed.",
+    "difficulty": 3
+  },
+  {
+    "id": "speaking_c1_r002",
+    "title": "职业规划",
+    "level": "C1",
+    "category": "career",
+    "text": "My goal is to become a researcher and work in Manchester.",
+    "difficulty": 3
+  },
+  {
+    "id": "speaking_c1_r003",
+    "title": "项目讨论",
+    "level": "C1",
+    "category": "work",
+    "text": "In the meeting we discussed an interview and made a plan.",
+    "difficulty": 3
+  },
+  {
+    "id": "speaking_c1_r004",
+    "title": "会议安排",
+    "level": "C1",
+    "category": "work",
+    "text": "We will hold a training session next week. Please arrive on time.",
+    "difficulty": 3
+  },
+  {
+    "id": "speaking_c1_r005",
+    "title": "工作汇报",
+    "level": "C1",
+    "category": "work",
+    "text": "I need to prepare an interview for the manager before Friday.",
+    "difficulty": 3
+  },
+  {
+    "id": "speaking_c1_r006",
+    "title": "观点表达",
+    "level": "C1",
+    "category": "opinion",
+    "text": "From my point of view, I agree with the plan.",
+    "difficulty": 3
+  }
+]

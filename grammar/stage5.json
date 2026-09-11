@@ -1,0 +1,949 @@
+[
+  {
+    "id": "grammar_c1_001",
+    "title": "分词作定语",
+    "level": "C1",
+    "category": "从句",
+    "explanation": "分词（现在分词或过去分词）可充当定语修饰名词。单个分词放在名词前，分词短语放在名词后。现在分词表主动/进行，过去分词表被动/完成。分词定语相当于简化的定语从句。",
+    "rules": [
+      "单个现在分词前置：a sleeping baby（正在睡觉的婴儿）",
+      "单个过去分词前置：a broken window（被打碎的窗户）",
+      "分词短语后置：the man standing at the door（站在门口的人）",
+      "过去分词短语后置：the letter written in English（用英语写的信）",
+      "可转化为定语从句：a sleeping baby = a baby who is sleeping"
+    ],
+    "examples": [
+      {
+        "en": "The girl singing on the stage is my sister.",
+        "zh": "在舞台上唱歌的那个女孩是我姐姐。"
+      },
+      {
+        "en": "The book written by Mo Yan won an award.",
+        "zh": "莫言写的那本书获了奖。"
+      },
+      {
+        "en": "I saw a man carrying a heavy box.",
+        "zh": "我看到一个男人提着一个很重的箱子。"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill",
+        "question": "The man ___ (stand) at the door is my uncle.",
+        "answer": "standing",
+        "options": [
+          "stands",
+          "standing",
+          "stood"
+        ]
+      },
+      {
+        "type": "fill",
+        "question": "The letter ___ (write) by hand was very beautiful.",
+        "answer": "written",
+        "options": [
+          "writing",
+          "written",
+          "having written"
+        ]
+      },
+      {
+        "type": "error",
+        "question": "找出错误并选择正确说法：The child sleep in the bed is my brother.",
+        "answer": "The child sleeping in the bed is my brother.",
+        "options": [
+          "The child sleep in the bed is my brother.",
+          "The child sleeping in the bed is my brother.",
+          "The child slept in the bed is my brother."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grammar_c1_002",
+    "title": "独立主格结构",
+    "level": "C1",
+    "category": "从句",
+    "explanation": "独立主格结构是一种名词/代词 + 分词/形容词/副词/不定式/介词短语构成的结构，在句中作状语。其逻辑主语与主句主语不同，这是它与普通分词状语的关键区别。",
+    "rules": [
+      "名词/代词 + 现在分词（主动）：Weather permitting, we'll go.",
+      "名词/代词 + 过去分词（被动）：That done, we left.",
+      "名词/代词 + 形容词：He sat there, eyes closed.",
+      "名词/代词 + 介词短语：Book in hand, she entered.",
+      "名词/代词 + 不定式：So many people to help, he felt happy."
+    ],
+    "examples": [
+      {
+        "en": "Weather permitting, we will go on a picnic.",
+        "zh": "如果天气允许，我们就去野餐。"
+      },
+      {
+        "en": "The work done, they went home.",
+        "zh": "工作做完了，他们就回家了。"
+      },
+      {
+        "en": "He stood there, hands in his pockets.",
+        "zh": "他站在那里，手插在口袋里。"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill",
+        "question": "Weather ___ (permit), we will have the match outdoors.",
+        "answer": "permitting",
+        "options": [
+          "permitting",
+          "permitted",
+          "permits"
+        ]
+      },
+      {
+        "type": "fill",
+        "question": "The task ___ (complete), we celebrated.",
+        "answer": "completed",
+        "options": [
+          "completing",
+          "completed",
+          "having completed"
+        ]
+      },
+      {
+        "type": "order",
+        "question": "把单词排序成正确的句子（独立主格：1. All 2. things 3. considered 4. it was a good trip）。",
+        "answer": "all things considered it was a good trip",
+        "segments": [
+          "All things",
+          "considered",
+          "it was",
+          "a good trip"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grammar_c1_003",
+    "title": "情态动词+have done（推测与遗憾）",
+    "level": "C1",
+    "category": "情态动词",
+    "explanation": "情态动词 + have + 过去分词用于对过去事件的推测、责备或表达遗憾。不同情态动词表达不同的语气强度：must（肯定推测）、may/might（可能）、should/ought to（应该）、could have（本可以）、needn't have（没必要做）。",
+    "rules": [
+      "must have + p.p.：过去一定发生了（肯定推测）",
+      "may/might/could have + p.p.：过去可能发生（不确定推测）",
+      "should/ought to have + p.p.：过去本应做但没做（责备/遗憾）",
+      "could have + p.p.：过去本可以做但没做",
+      "needn't have + p.p.：过去没必要做但做了（浪费）"
+    ],
+    "examples": [
+      {
+        "en": "You should have called me. I was worried.",
+        "zh": "你本应该打电话给我的。我很担心。"
+      },
+      {
+        "en": "He might have missed the train.",
+        "zh": "他可能错过了火车。"
+      },
+      {
+        "en": "We needn't have bought so much food.",
+        "zh": "我们没必要买这么多食物。"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill",
+        "question": "She ___ (could have been / could be) a great singer if she had practiced.",
+        "answer": "could have been",
+        "options": [
+          "could have been",
+          "could be",
+          "could has been"
+        ]
+      },
+      {
+        "type": "fill",
+        "question": "You ___ (needn't have bought / needn't buy) so many gifts.",
+        "answer": "needn't have bought",
+        "options": [
+          "needn't have bought",
+          "needn't buy",
+          "mustn't have bought"
+        ]
+      },
+      {
+        "type": "error",
+        "question": "找出错误并选择正确说法：He should has come earlier.",
+        "answer": "He should have come earlier.",
+        "options": [
+          "He should has come earlier.",
+          "He should have come earlier.",
+          "He should had come earlier."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grammar_c1_004",
+    "title": "It is...that 强调句型",
+    "level": "C1",
+    "category": "句式",
+    "explanation": "It is/was...that/who... 强调句型用于突出句子中的某一成分。可强调主语、宾语、状语，但不能强调谓语。被强调部分放在 It is/was 和 that 之间。判断方法：去掉框架后句子仍然完整。",
+    "rules": [
+      "It is/was + 被强调部分 + that/who + 句子其余部分",
+      "强调人时可用 who 代替 that",
+      "强调时间、地点、原因仍用 that（不用 when/where/why）",
+      "否定强调：It was not until...that...",
+      "疑问形式：Was it + 被强调部分 + that...?"
+    ],
+    "examples": [
+      {
+        "en": "It was in Paris that we first met.",
+        "zh": "我们第一次见面是在巴黎。"
+      },
+      {
+        "en": "It is this book that I want to read.",
+        "zh": "我想读的就是这本书。"
+      },
+      {
+        "en": "Was it you who broke the vase?",
+        "zh": "打碎花瓶的人是你吗？"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill",
+        "question": "It ___ Tom who called you yesterday.",
+        "answer": "was",
+        "options": [
+          "is",
+          "was",
+          "were"
+        ]
+      },
+      {
+        "type": "fill",
+        "question": "It was not ___ midnight that he finished the report.",
+        "answer": "until",
+        "options": [
+          "until",
+          "till",
+          "before"
+        ]
+      },
+      {
+        "type": "error",
+        "question": "找出错误并选择正确说法：It was in the park where we met.",
+        "answer": "It was in the park that we met.",
+        "options": [
+          "It was in the park where we met.",
+          "It was in the park that we met.",
+          "It was in the park which we met."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grammar_c1_005",
+    "title": "连接副词与连接代词",
+    "level": "C1",
+    "category": "连词",
+    "explanation": "连接副词（how, when, where, why）和连接代词（who, whom, what, which, whose）用于引导名词性从句（主语从句、宾语从句、表语从句）。它们既起连接作用，又在从句中充当成分。",
+    "rules": [
+      "who/whom/whose：指人，在从句中作主语/宾语/定语",
+      "what/which/whose：指物，在从句中作主语/宾语/定语",
+      "when/where/why/how：指时间/地点/原因/方式，在从句中作状语",
+      "that 引导从句时不充当成分（可省略于宾语从句）",
+      "whether/if 引导是否从句，whether 可接 or not"
+    ],
+    "examples": [
+      {
+        "en": "I don't know what he wants.",
+        "zh": "我不知道他想要什么。"
+      },
+      {
+        "en": "Can you tell me where the station is?",
+        "zh": "你能告诉我车站在哪里吗？"
+      },
+      {
+        "en": "Whoever finishes first will get a prize.",
+        "zh": "谁先完成谁就能得到奖品。"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill",
+        "question": "I wonder ___ he will come on time.",
+        "answer": "whether",
+        "options": [
+          "whether",
+          "what",
+          "that"
+        ]
+      },
+      {
+        "type": "fill",
+        "question": "Do you know ___ she lives?",
+        "answer": "where",
+        "options": [
+          "where",
+          "what",
+          "which"
+        ]
+      },
+      {
+        "type": "error",
+        "question": "找出错误并选择正确说法：I don't know what does he want.",
+        "answer": "I don't know what he wants.",
+        "options": [
+          "I don't know what does he want.",
+          "I don't know what he wants.",
+          "I don't know what he does want."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grammar_c1_006",
+    "title": "比较结构（the more...the more）",
+    "level": "C1",
+    "category": "比较结构",
+    "explanation": "the more...the more 结构表示越就越，表达两个变化之间的正比关系。此外还有 no more...than（不比多）、not more...than（不比更）、no less...than（不比少）等复杂比较结构。",
+    "rules": [
+      "the + 比较级, the + 比较级：越越",
+      "no more...than：和一样不（两者都否定）",
+      "not more...than：不比更（仅否定比较）",
+      "no less...than：和一样（两者都肯定）",
+      "the + 比较级 + of the two：两者中较的"
+    ],
+    "examples": [
+      {
+        "en": "The harder you work, the luckier you get.",
+        "zh": "你越努力，就越幸运。"
+      },
+      {
+        "en": "He is no richer than I am.",
+        "zh": "他和我一样穷。（都不富）"
+      },
+      {
+        "en": "The more you read, the more you learn.",
+        "zh": "你读得越多，学得就越多。"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill",
+        "question": "The ___ (fast) you walk, the ___ (soon) you will arrive.",
+        "answer": "faster, sooner",
+        "options": [
+          "faster, sooner",
+          "fast, soon",
+          "more fast, more soon"
+        ]
+      },
+      {
+        "type": "fill",
+        "question": "He is ___ (no smarter / not smarter) than his brother.",
+        "answer": "no smarter",
+        "options": [
+          "no smarter",
+          "not smarter",
+          "more smart"
+        ]
+      },
+      {
+        "type": "order",
+        "question": "把单词排序成正确的句子（比较结构：1. The 2. more 3. you 4. practice 5. the better you become）。",
+        "answer": "the more you practice the better you become",
+        "segments": [
+          "The",
+          "more",
+          "you",
+          "practice",
+          "the better you become"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grammar_c1_007",
+    "title": "否定前置（否定转移）",
+    "level": "C1",
+    "category": "句式",
+    "explanation": "否定前置（否定转移）是指在英语中，某些动词（如 think, believe, expect, suppose, imagine 等）的宾语从句中，否定意义转移到主句谓语动词上。即 I don't think... 而非 I think...not。",
+    "rules": [
+      "I don't think (that) + 陈述句（肯定形式）",
+      "类似动词：believe, expect, suppose, imagine, feel",
+      "反意疑问句与从句保持一致：I don't think he is, is he?",
+      "hope 不发生否定转移：I hope he doesn't come（不说 I don't hope）",
+      "否定前移的翻译：中文仍翻译为我认为他不"
+    ],
+    "examples": [
+      {
+        "en": "I don't think he will come.",
+        "zh": "我认为他不会来。"
+      },
+      {
+        "en": "She doesn't believe that he is honest.",
+        "zh": "她认为他不诚实。"
+      },
+      {
+        "en": "I don't suppose you could help me?",
+        "zh": "我想你帮不了我吧？"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill",
+        "question": "I ___ (don't think / think not) he is right.",
+        "answer": "don't think",
+        "options": [
+          "don't think",
+          "think not",
+          "don't thinks"
+        ]
+      },
+      {
+        "type": "fill",
+        "question": "She doesn't believe he ___ (is / isn't) coming.",
+        "answer": "isn't",
+        "options": [
+          "is",
+          "isn't",
+          "not"
+        ]
+      },
+      {
+        "type": "error",
+        "question": "找出错误并选择正确说法：I think he doesn't like coffee.",
+        "answer": "I don't think he likes coffee.",
+        "options": [
+          "I think he doesn't like coffee.",
+          "I don't think he likes coffee.",
+          "I think not he likes coffee."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grammar_c1_008",
+    "title": "部分倒装（高级用法）",
+    "level": "C1",
+    "category": "句式",
+    "explanation": "部分倒装是指将助动词或情态动词提到主语之前。除了否定词前置外，还有 so/neither/nor 引导的倒装、only 状语前置、as 引导的让步状语从句、虚拟条件句省略 if 等情况。",
+    "rules": [
+      "so/neither/nor + 助动词 + 主语：I like coffee. So do I.",
+      "only + 状语 + 助动词 + 主语：Only then did I realize...",
+      "as 引导让步：Tired as she was, she kept working.",
+      "省略 if 的虚拟条件：Had I known = If I had known",
+      "so...that 的倒装：So beautiful was the view that..."
+    ],
+    "examples": [
+      {
+        "en": "He can swim, and so can I.",
+        "zh": "他会游泳，我也会。"
+      },
+      {
+        "en": "Hard as he tried, he couldn't solve the problem.",
+        "zh": "尽管他努力尝试了，他还是解决不了这个问题。"
+      },
+      {
+        "en": "So impressive was the speech that everyone applauded.",
+        "zh": "演讲如此精彩，以至于所有人都鼓掌了。"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill",
+        "question": "She likes tea and ___ do I.",
+        "answer": "so",
+        "options": [
+          "so",
+          "neither",
+          "nor"
+        ]
+      },
+      {
+        "type": "fill",
+        "question": "___ he be late, we will start without him.",
+        "answer": "Should",
+        "options": [
+          "Should",
+          "If",
+          "Had"
+        ]
+      },
+      {
+        "type": "error",
+        "question": "找出错误并选择正确说法：He can't swim, so I can't too.",
+        "answer": "He can't swim, and neither can I.",
+        "options": [
+          "He can't swim, so I can't too.",
+          "He can't swim, and neither can I.",
+          "He can't swim, so neither I can."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grammar_c1_009",
+    "title": "同位语从句",
+    "level": "C1",
+    "category": "从句",
+    "explanation": "同位语从句用于解释说明前面的抽象名词（如 fact, news, idea, hope, belief, doubt, question, suggestion 等）的具体内容。通常由 that 引导，that 不充当成分，不可省略。与定语从句的区别：同位语从句的 that 从句是对名词的解释，而非修饰。",
+    "rules": [
+      "抽象名词 + that + 完整陈述句",
+      "that 不充当成分，不可省略",
+      "常接同位语从句的名词：fact, news, idea, hope, belief, doubt, suggestion, possibility",
+      "也可用 whether, what, when, where 等引导",
+      "与定语从句区分：同位语从句 = 名词的内容；定语从句 = 名词的特征"
+    ],
+    "examples": [
+      {
+        "en": "The news that he won the prize is true.",
+        "zh": "他获奖的消息是真的。"
+      },
+      {
+        "en": "I have no idea when he will return.",
+        "zh": "我不知道他什么时候回来。"
+      },
+      {
+        "en": "The fact that she passed the exam surprised everyone.",
+        "zh": "她通过考试这件事让所有人都很惊讶。"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill",
+        "question": "The news ___ our team won was exciting.",
+        "answer": "that",
+        "options": [
+          "that",
+          "which",
+          "what"
+        ]
+      },
+      {
+        "type": "fill",
+        "question": "I have no doubt ___ he will succeed.",
+        "answer": "that",
+        "options": [
+          "that",
+          "whether",
+          "if"
+        ]
+      },
+      {
+        "type": "error",
+        "question": "找出错误并选择正确说法：The idea which he proposed was great.",
+        "answer": "The idea that he proposed was great.",
+        "options": [
+          "The idea which he proposed was great.",
+          "The idea that he proposed was great.",
+          "The idea what he proposed was great."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grammar_c1_010",
+    "title": "强调句型（高级变体）",
+    "level": "C1",
+    "category": "句式",
+    "explanation": "除了基本的 It is/was...that 结构外，强调句还有多种高级变体。包括否定强调（It was not until...that...）、疑问强调（Was it...that...）、not until 强调、do/does/did 强调谓语等。这些变体在书面语和口语中都很常见。",
+    "rules": [
+      "It was not until + 时间 + that + 过去式",
+      "It is/was not...but...that...（不是而是）",
+      "强调谓语：do/does/did + 动词原形",
+      "强调句中 It is/was 的时态与从句一致",
+      "疑问形式：Was it + 被强调部分 + that...?"
+    ],
+    "examples": [
+      {
+        "en": "It was not until midnight that he finished the work.",
+        "zh": "他直到半夜才完成工作。"
+      },
+      {
+        "en": "I do believe what you said.",
+        "zh": "我确实相信你所说的话。"
+      },
+      {
+        "en": "Was it in 2020 that the pandemic started?",
+        "zh": "疫情是在2020年开始的吗？"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill",
+        "question": "It was not ___ she took off her glasses that I recognized her.",
+        "answer": "until",
+        "options": [
+          "until",
+          "till",
+          "when"
+        ]
+      },
+      {
+        "type": "fill",
+        "question": "She ___ (does / do) look like her mother.",
+        "answer": "does",
+        "options": [
+          "does",
+          "do",
+          "is"
+        ]
+      },
+      {
+        "type": "error",
+        "question": "找出错误并选择正确说法：It was not until midnight when he finished.",
+        "answer": "It was not until midnight that he finished.",
+        "options": [
+          "It was not until midnight when he finished.",
+          "It was not until midnight that he finished.",
+          "It was not until midnight he finished."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grammar_c1_r001",
+    "title": "虚拟语气（第三类）",
+    "category": "从句",
+    "explanation": "第三类虚拟条件句描述与过去事实相反的假设：if 从句用 had done，主句用 would have done。",
+    "rules": [
+      "if 从句：had + 过去分词",
+      "主句：would have + 过去分词",
+      "表示“本可以但没发生”"
+    ],
+    "examples": [
+      {
+        "en": "If I had known, I would have helped.",
+        "zh": "如果我早知道，我就会帮忙了。"
+      },
+      {
+        "en": "She would have passed if she had studied.",
+        "zh": "如果她学习了，她就会通过考试。"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill",
+        "question": "If he had been careful, he ___ the mistake.",
+        "answer": "would not have made",
+        "options": [
+          "would not have made",
+          "would not make",
+          "had not made"
+        ]
+      },
+      {
+        "type": "error",
+        "question": "找出错误：If I knew, I would have told you yesterday.",
+        "answer": "If I had known, I would have told you yesterday",
+        "options": [
+          "If I had known, I would have told you yesterday",
+          "If I knew, I would have told you yesterday",
+          "If I had known, I would told you yesterday"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grammar_c1_r002",
+    "title": "强调句型 It … that …",
+    "category": "句型",
+    "explanation": "It is/was … that … 结构用于强调句中的某一成分，其余信息不变。",
+    "rules": [
+      "强调人：It was Tom that broke it",
+      "强调物 / 时间 / 地点",
+      "去掉 It is…that 后句子仍完整"
+    ],
+    "examples": [
+      {
+        "en": "It was Tom who broke the window.",
+        "zh": "打碎窗户的是汤姆。"
+      },
+      {
+        "en": "It was in 2020 that I graduated.",
+        "zh": "我是在 2020 年毕业的。"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill",
+        "question": "It was in the garden ___ they met.",
+        "answer": "that",
+        "options": [
+          "that",
+          "which",
+          "where"
+        ]
+      },
+      {
+        "type": "error",
+        "question": "找出错误：It is you who is late today.",
+        "answer": "It is you who are late today",
+        "options": [
+          "It is you who are late today",
+          "It is you who is late today",
+          "It was you who are late today"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grammar_c1_r003",
+    "title": "非谓语动词辨析",
+    "category": "词法",
+    "explanation": "不定式、动名词与分词的选择取决于其在句中的角色：宾语、主语、定语或状语。",
+    "rules": [
+      "动名词作主语：Swimming is fun",
+      "不定式表目的：to succeed",
+      "分词作定语：a broken window"
+    ],
+    "examples": [
+      {
+        "en": "He enjoys reading before bed.",
+        "zh": "他喜欢睡前阅读。"
+      },
+      {
+        "en": "To succeed, one must work hard.",
+        "zh": "要成功，就必须努力。"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill",
+        "question": "___ (swim) is good for your health.",
+        "answer": "Swimming",
+        "options": [
+          "Swimming",
+          "Swim",
+          "To swims"
+        ]
+      },
+      {
+        "type": "error",
+        "question": "找出错误：I enjoy to read novels.",
+        "answer": "I enjoy reading novels",
+        "options": [
+          "I enjoy reading novels",
+          "I enjoy to read novels",
+          "I enjoy read novels"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grammar_c1_r004",
+    "title": "状语从句省略",
+    "category": "从句",
+    "explanation": "状语从句的主语与主句一致且含 be 动词时，可省略从句主语和 be，使句子更简洁。",
+    "rules": [
+      "When (he was) young, he lived in Paris",
+      "While (she was) working, she listened to music",
+      "省略后句意不变"
+    ],
+    "examples": [
+      {
+        "en": "When young, he lived in Paris.",
+        "zh": "年轻的时候他住在巴黎。"
+      },
+      {
+        "en": "While cooking, she talked on the phone.",
+        "zh": "做饭时她打电话。"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "error",
+        "question": "找出错误：When was young, he lived in Paris.",
+        "answer": "When young, he lived in Paris",
+        "options": [
+          "When young, he lived in Paris",
+          "When was young, he lived in Paris",
+          "When he young, he lived in Paris"
+        ]
+      },
+      {
+        "type": "fill",
+        "question": "___ (walk) home, she saw a rainbow.",
+        "answer": "While walking",
+        "options": [
+          "While walking",
+          "While walked",
+          "When walk"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grammar_c1_r005",
+    "title": "含蓄条件句（without / but for）",
+    "category": "从句",
+    "explanation": "用介词短语 without / but for 代替 if 从句表达虚拟条件，主句仍用虚拟语气。",
+    "rules": [
+      "without + 名词：没有…",
+      "but for：要不是…",
+      "主句用 would have / would 等"
+    ],
+    "examples": [
+      {
+        "en": "Without your help, I would have failed.",
+        "zh": "没有你的帮助，我早就失败了。"
+      },
+      {
+        "en": "But for the rain, we would go out.",
+        "zh": "要不是下雨，我们就出去了。"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill",
+        "question": "___ your support, he would not succeed.",
+        "answer": "Without",
+        "options": [
+          "Without",
+          "With",
+          "Because"
+        ]
+      },
+      {
+        "type": "error",
+        "question": "找出错误：But for the map, we lost our way.",
+        "answer": "But for the map, we would lose our way",
+        "options": [
+          "But for the map, we would lose our way",
+          "But for the map, we lost our way",
+          "But for the map, we lose our way"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grammar_c1_r006",
+    "title": "as if / as though 虚拟",
+    "category": "从句",
+    "explanation": "as if / as though 表示“好像”，所描述内容与事实相反时，从句用过去式或过去完成式。",
+    "rules": [
+      "与现在相反：动词过去式",
+      "与过去相反：had done",
+      "be 动词用 were"
+    ],
+    "examples": [
+      {
+        "en": "He talks as if he knew everything.",
+        "zh": "他说起来好像什么都懂。"
+      },
+      {
+        "en": "She acted as if nothing had happened.",
+        "zh": "她表现得好像什么都没发生。"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill",
+        "question": "He looks as if he ___ (know) us well.",
+        "answer": "knew",
+        "options": [
+          "knew",
+          "knows",
+          "know"
+        ]
+      },
+      {
+        "type": "error",
+        "question": "找出错误：She looks as if she was angry.",
+        "answer": "She looks as if she were angry",
+        "options": [
+          "She looks as if she were angry",
+          "She looks as if she was angry",
+          "She looks as if she is angry"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grammar_c1_r007",
+    "title": "主谓一致",
+    "category": "词法",
+    "explanation": "谓语动词的数须与主语一致，需要注意 a number of（接复数）与 the number of（接单数）等易错点。",
+    "rules": [
+      "a number of + 名词复数 → 复数谓语",
+      "the number of + 名词复数 → 单数谓语",
+      "就近原则：either…or… 就近取"
+    ],
+    "examples": [
+      {
+        "en": "A number of students are late.",
+        "zh": "许多学生迟到了。"
+      },
+      {
+        "en": "The number of students is growing.",
+        "zh": "学生人数在增长。"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill",
+        "question": "The number of errors ___ small.",
+        "answer": "is",
+        "options": [
+          "is",
+          "are",
+          "were"
+        ]
+      },
+      {
+        "type": "error",
+        "question": "找出错误：Either you or he are wrong.",
+        "answer": "Either you or he is wrong",
+        "options": [
+          "Either you or he is wrong",
+          "Either you or he are wrong",
+          "Either you or he be wrong"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grammar_c1_r008",
+    "title": "地道表达与习语",
+    "category": "词法",
+    "explanation": "掌握高频习语能让表达更地道，如 by the way（顺便说）、as a matter of fact（事实上）。",
+    "rules": [
+      "by the way：顺便一提",
+      "as a matter of fact：事实上",
+      "make sense：有道理"
+    ],
+    "examples": [
+      {
+        "en": "By the way, are you free tonight?",
+        "zh": "顺便问一下，你今晚有空吗？"
+      },
+      {
+        "en": "As a matter of fact, I agree with you.",
+        "zh": "事实上，我同意你的看法。"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill",
+        "question": "___ , have you seen my keys?",
+        "answer": "By the way",
+        "options": [
+          "By the way",
+          "By the road",
+          "In meanwhile"
+        ]
+      },
+      {
+        "type": "error",
+        "question": "找出错误：This plan does sense.",
+        "answer": "This plan makes sense",
+        "options": [
+          "This plan makes sense",
+          "This plan does sense",
+          "This plan is sense"
+        ]
+      }
+    ]
+  }
+]

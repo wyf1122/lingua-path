@@ -1,0 +1,449 @@
+[
+  {
+    "id": "reading_a1_001",
+    "title": "My Family",
+    "level": "A1",
+    "category": "family",
+    "content": "Hello, my name is Tom. This is my family. We are five people. My father is a doctor. My mother is a teacher. I have one brother and one sister. We live in a small house. I love my family very much.",
+    "words": 50,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "How many people are in the family?",
+        "options": [
+          "Four",
+          "Five",
+          "Six"
+        ],
+        "answer": "Five"
+      },
+      {
+        "type": "choice",
+        "question": "What does the mother do?",
+        "options": [
+          "Doctor",
+          "Teacher",
+          "Nurse"
+        ],
+        "answer": "Teacher"
+      }
+    ]
+  },
+  {
+    "id": "reading_a1_002",
+    "title": "My School Day",
+    "level": "A1",
+    "category": "education",
+    "content": "I get up at seven every morning. I go to school by bus. Classes start at eight. I have lunch at school. In the afternoon, I play games with my friends in the playground. I go home at five. In the evening, I do my homework and read a book.",
+    "words": 52,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "How does the writer go to school?",
+        "options": [
+          "By bus",
+          "By bike",
+          "On foot"
+        ],
+        "answer": "By bus"
+      },
+      {
+        "type": "choice",
+        "question": "What time do classes start?",
+        "options": [
+          "At seven",
+          "At eight",
+          "At nine"
+        ],
+        "answer": "At eight"
+      }
+    ]
+  },
+  {
+    "id": "reading_a1_003",
+    "title": "The Little Cat",
+    "level": "A1",
+    "category": "nature",
+    "content": "Tom has a little cat. The cat is white and very cute. It likes to play with a red ball. It sleeps on the sofa every afternoon. Tom gives it milk and fish. The cat is his best friend.",
+    "words": 40,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What color is the cat?",
+        "options": [
+          "Black",
+          "White",
+          "Brown"
+        ],
+        "answer": "White"
+      },
+      {
+        "type": "judge",
+        "question": "The passage says the cat likes to eat apples.",
+        "options": [
+          "正确",
+          "错误",
+          "未提及"
+        ],
+        "answer": "错误"
+      },
+      {
+        "type": "short",
+        "question": "用英文写一句关于这只小猫的句子。",
+        "modelAnswer": "示例：The little cat is white and very cute."
+      }
+    ]
+  },
+  {
+    "id": "reading_a1_004",
+    "title": "My Pet Dog",
+    "level": "A1",
+    "category": "nature",
+    "content": "Tom has a small dog. It is brown and has big eyes. The dog can run fast and jump high. Every morning, Tom takes the dog for a walk in the park. The dog likes to chase balls. Tom loves his dog very much.",
+    "words": 44,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What color is the dog?",
+        "options": [
+          "White",
+          "Brown",
+          "Black"
+        ],
+        "answer": "Brown"
+      },
+      {
+        "type": "judge",
+        "question": "The dog can jump very high.",
+        "options": [
+          "正确",
+          "错误",
+          "未提及"
+        ],
+        "answer": "正确"
+      }
+    ]
+  },
+  {
+    "id": "reading_a1_005",
+    "title": "My Breakfast",
+    "level": "A1",
+    "category": "food",
+    "content": "I eat breakfast every morning. I usually have bread, milk and an egg. My sister likes cereal with fruit. My mother makes breakfast for us. I do not eat breakfast at school. A good breakfast gives me energy for the day.",
+    "words": 41,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What does the writer usually have for breakfast?",
+        "options": [
+          "Cereal and fruit",
+          "Bread, milk and an egg",
+          "Rice and vegetables"
+        ],
+        "answer": "Bread, milk and an egg"
+      },
+      {
+        "type": "short",
+        "question": "用英文写出你早餐通常吃什么。",
+        "modelAnswer": "示例：I usually have milk and bread for breakfast."
+      }
+    ]
+  },
+  {
+    "id": "reading_a1_006",
+    "title": "I Like Swimming",
+    "level": "A1",
+    "category": "sports",
+    "content": "I like swimming very much. I go to the swimming pool every Saturday. The water is cool and clean. I can swim with my friends. We play games in the water. Swimming is fun and good for my body. I want to swim every day.",
+    "words": 45,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "When does the writer go swimming?",
+        "options": [
+          "Every Sunday",
+          "Every Saturday",
+          "Every Friday"
+        ],
+        "answer": "Every Saturday"
+      },
+      {
+        "type": "judge",
+        "question": "The writer wants to swim every day.",
+        "options": [
+          "正确",
+          "错误",
+          "未提及"
+        ],
+        "answer": "正确"
+      }
+    ]
+  },
+  {
+    "id": "reading_a1_007",
+    "title": "My Weekend",
+    "level": "A1",
+    "category": "daily-life",
+    "content": "On Saturday, I play football with my friends in the morning. In the afternoon, I watch cartoons on TV. On Sunday, my family goes to the market. We buy fruit and vegetables. I also help my mother cook dinner. I like weekends because they are fun.",
+    "words": 46,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What does the writer do on Saturday morning?",
+        "options": [
+          "Watches cartoons",
+          "Plays football",
+          "Goes to the market"
+        ],
+        "answer": "Plays football"
+      },
+      {
+        "type": "choice",
+        "question": "Where does the family go on Sunday?",
+        "options": [
+          "To the park",
+          "To the cinema",
+          "To the market"
+        ],
+        "answer": "To the market"
+      }
+    ]
+  },
+  {
+    "id": "reading_a1_008",
+    "title": "The Beautiful Park",
+    "level": "A1",
+    "category": "nature",
+    "content": "There is a big park near my house. There are many tall trees and colorful flowers. I can see birds in the trees. There is a small lake with ducks. I go to the park with my parents. We sit on a bench and talk.",
+    "words": 45,
+    "questions": [
+      {
+        "type": "judge",
+        "question": "There is a big lake in the park.",
+        "options": [
+          "正确",
+          "错误",
+          "未提及"
+        ],
+        "answer": "错误"
+      },
+      {
+        "type": "choice",
+        "question": "What do the writer and the parents do in the park?",
+        "options": [
+          "Swim in the lake",
+          "Sit on a bench and talk",
+          "Play football"
+        ],
+        "answer": "Sit on a bench and talk"
+      }
+    ]
+  },
+  {
+    "id": "reading_a1_009",
+    "title": "My Books",
+    "level": "A1",
+    "category": "hobbies",
+    "content": "I love reading books. I have many books at home. My favorite books are about animals. I read before I go to sleep. My teacher says reading is good for me. I go to the library every week. I can borrow new books there.",
+    "words": 44,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What are the writer's favorite books about?",
+        "options": [
+          "Sports",
+          "Animals",
+          "Music"
+        ],
+        "answer": "Animals"
+      },
+      {
+        "type": "short",
+        "question": "Where does the writer borrow books? 请用英文回答。",
+        "modelAnswer": "示例：The writer borrows books from the library."
+      }
+    ]
+  },
+  {
+    "id": "reading_a1_010",
+    "title": "Going to the Doctor",
+    "level": "A1",
+    "category": "health",
+    "content": "Yesterday, I did not feel well. My mother took me to the doctor. The doctor looked at me carefully. She said I had a cold. She gave me some medicine. I went home and slept. Today I feel much better. I am happy now.",
+    "words": 44,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What was wrong with the writer?",
+        "options": [
+          "A headache",
+          "A cold",
+          "A stomachache"
+        ],
+        "answer": "A cold"
+      },
+      {
+        "type": "judge",
+        "question": "The writer went to the hospital by himself.",
+        "options": [
+          "正确",
+          "错误",
+          "未提及"
+        ],
+        "answer": "错误"
+      }
+    ]
+  },
+  {
+    "id": "reading_a1_r001",
+    "title": "购物清单",
+    "level": "A1",
+    "category": "shopping",
+    "content": "Anna goes to the supermarket. She wants to buy some chicken and a glass of juice. The food costs three dollars. After shopping, she goes home by bus.",
+    "words": 28,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What does Anna want to buy?",
+        "options": [
+          "some chicken",
+          "a sandwich",
+          "a piece of cake"
+        ],
+        "answer": "some chicken"
+      },
+      {
+        "type": "choice",
+        "question": "What drink does Anna want to buy?",
+        "options": [
+          "a bottle of water",
+          "a cup of coffee",
+          "a glass of juice"
+        ],
+        "answer": "a glass of juice"
+      },
+      {
+        "type": "choice",
+        "question": "How much does the food cost?",
+        "options": [
+          "three",
+          "five",
+          "four"
+        ],
+        "answer": "three"
+      },
+      {
+        "type": "judge",
+        "question": "Anna goes shopping by bike.",
+        "options": [
+          "正确",
+          "错误"
+        ],
+        "answer": "错误"
+      },
+      {
+        "type": "short",
+        "question": "用一句英文简要回答：What does Anna want to buy?",
+        "answer": "some chicken"
+      }
+    ]
+  },
+  {
+    "id": "reading_a1_r002",
+    "title": "我的宠物",
+    "level": "A1",
+    "category": "nature",
+    "content": "Tom has a rabbit at home. It is yellow and very friendly. Every day Tom gives it some water. In the evening, they go for a walk to the supermarket. Tom loves a rabbit very much.",
+    "words": 36,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What pet does Tom have at home?",
+        "options": [
+          "a cat",
+          "a rabbit",
+          "a bird"
+        ],
+        "answer": "a rabbit"
+      },
+      {
+        "type": "choice",
+        "question": "What color is Tom’s pet?",
+        "options": [
+          "yellow",
+          "red",
+          "blue"
+        ],
+        "answer": "yellow"
+      },
+      {
+        "type": "choice",
+        "question": "Where do they go for a walk in the evening?",
+        "options": [
+          "the hospital",
+          "the supermarket",
+          "the park"
+        ],
+        "answer": "the supermarket"
+      },
+      {
+        "type": "judge",
+        "question": "Tom’s pet is not friendly.",
+        "options": [
+          "正确",
+          "错误"
+        ],
+        "answer": "错误"
+      },
+      {
+        "type": "short",
+        "question": "用一句英文简要回答：What pet does Tom have at home?",
+        "answer": "a rabbit"
+      }
+    ]
+  },
+  {
+    "id": "reading_a1_r003",
+    "title": "愉快的一天",
+    "level": "A1",
+    "category": "daily",
+    "content": "Ben gets up early and goes to the school with his friends. They eat some chicken for lunch there. In the afternoon they play games. Ben thinks it is a happy day.",
+    "words": 32,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "Where does Ben go with his friends?",
+        "options": [
+          "the school",
+          "the hospital",
+          "the park"
+        ],
+        "answer": "the school"
+      },
+      {
+        "type": "choice",
+        "question": "What do they eat for lunch?",
+        "options": [
+          "a sandwich",
+          "some chicken",
+          "some rice"
+        ],
+        "answer": "some chicken"
+      },
+      {
+        "type": "judge",
+        "question": "Ben thinks it is a happy day.",
+        "options": [
+          "正确",
+          "错误"
+        ],
+        "answer": "正确"
+      },
+      {
+        "type": "short",
+        "question": "用一句英文简要回答：Where does Ben go with his friends?",
+        "answer": "the school"
+      }
+    ]
+  }
+]

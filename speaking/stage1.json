@@ -1,0 +1,218 @@
+[
+  {
+    "id": "speaking_a1_001",
+    "title": "Introduce Yourself",
+    "level": "A1",
+    "category": "greeting",
+    "text": "Hello, my name is Anna. I am from China. I am a student. Nice to meet you.",
+    "difficulty": 1
+  },
+  {
+    "id": "speaking_a1_002",
+    "title": "Daily Greetings",
+    "level": "A1",
+    "category": "greeting",
+    "text": "Good morning! How are you today? I am fine, thank you. How about you?",
+    "difficulty": 1
+  },
+  {
+    "id": "speaking_a1_003",
+    "title": "Talking About Your Family",
+    "level": "A1",
+    "category": "family",
+    "text": "There are four people in my family. My father is a doctor and my mother is a teacher. I have one little sister. We love each other very much.",
+    "difficulty": 1
+  },
+  {
+    "id": "speaking_a1_004",
+    "title": "Ordering Food at a Restaurant",
+    "level": "A1",
+    "category": "food",
+    "text": "I would like a bowl of rice and some chicken, please. Can I also have a glass of water?",
+    "difficulty": 1
+  },
+  {
+    "id": "speaking_a1_005",
+    "title": "Talking About Colors",
+    "level": "A1",
+    "category": "color",
+    "text": "My favorite color is blue. I like blue sky and blue sea. What is your favorite color?",
+    "difficulty": 1
+  },
+  {
+    "id": "speaking_a1_006",
+    "title": "Counting Numbers",
+    "level": "A1",
+    "category": "number",
+    "text": "I have three apples and two bananas. That makes five fruits in total.",
+    "difficulty": 1
+  },
+  {
+    "id": "speaking_a1_007",
+    "title": "Asking for Directions",
+    "level": "A1",
+    "category": "travel",
+    "text": "Excuse me, where is the bus station? Is it near here? I want to go to the city center.",
+    "difficulty": 1
+  },
+  {
+    "id": "speaking_a1_008",
+    "title": "Shopping for Clothes",
+    "level": "A1",
+    "category": "shopping",
+    "text": "How much is this T-shirt? It is too expensive. Do you have a smaller size in red?",
+    "difficulty": 1
+  },
+  {
+    "id": "speaking_a1_009",
+    "title": "Talking About Feelings",
+    "level": "A1",
+    "category": "emotion",
+    "text": "I am very happy today. I got a good grade on my test. I feel excited and proud.",
+    "difficulty": 1
+  },
+  {
+    "id": "speaking_a1_010",
+    "title": "Telling the Time",
+    "level": "A1",
+    "category": "time",
+    "text": "It is nine o'clock in the morning. I have English class at ten. School finishes at three.",
+    "difficulty": 1
+  },
+  {
+    "id": "speaking_a1_011",
+    "title": "Visiting a Doctor",
+    "level": "A1",
+    "category": "health",
+    "text": "I have a headache and a sore throat. I do not feel well. Please help me, doctor.",
+    "difficulty": 1
+  },
+  {
+    "id": "speaking_a1_012",
+    "title": "Describing Animals",
+    "level": "A1",
+    "category": "nature",
+    "text": "I like dogs because they are very friendly. Cats are cute too. I have a small dog at home.",
+    "difficulty": 1
+  },
+  {
+    "id": "speaking_a1_013",
+    "title": "Talking About Your Job",
+    "level": "A1",
+    "category": "work",
+    "text": "I work in a bank. I go to work every day from Monday to Friday. I like my job very much.",
+    "difficulty": 1
+  },
+  {
+    "id": "speaking_a1_014",
+    "title": "Making a Phone Call",
+    "level": "A1",
+    "category": "communication",
+    "text": "Hello, is this Mike? This is Lucy speaking. Can you come to my house tomorrow?",
+    "difficulty": 1
+  },
+  {
+    "id": "speaking_a1_015",
+    "title": "Talking About Daily Activities",
+    "level": "A1",
+    "category": "daily",
+    "text": "I wake up at seven o'clock every morning. I brush my teeth and eat breakfast before school.",
+    "difficulty": 1
+  },
+  {
+    "id": "speaking_a1_r001",
+    "title": "周末计划",
+    "level": "A1",
+    "category": "hobby",
+    "text": "On weekends I play with my friends in the hospital.",
+    "difficulty": 1
+  },
+  {
+    "id": "speaking_a1_r002",
+    "title": "喜欢的颜色",
+    "level": "A1",
+    "category": "hobby",
+    "text": "My favorite color is blue. I love it very much.",
+    "difficulty": 1
+  },
+  {
+    "id": "speaking_a1_r003",
+    "title": "去超市",
+    "level": "A1",
+    "category": "shopping",
+    "text": "I want to buy some rice and a bottle of water.",
+    "difficulty": 1
+  },
+  {
+    "id": "speaking_a1_r004",
+    "title": "介绍家乡",
+    "level": "A1",
+    "category": "greeting",
+    "text": "I'm from the UK. It is a beautiful place.",
+    "difficulty": 1
+  },
+  {
+    "id": "speaking_a1_r005",
+    "title": "问候与介绍",
+    "level": "A1",
+    "category": "greeting",
+    "text": "Hello, my name is Lily. Nice to meet you.",
+    "difficulty": 1
+  },
+  {
+    "id": "speaking_a1_r006",
+    "title": "谈论天气",
+    "level": "A1",
+    "category": "weather",
+    "text": "Today is sunny and warm. Let us go to the hospital.",
+    "difficulty": 1
+  },
+  {
+    "id": "speaking_a1_r007",
+    "title": "家庭成员",
+    "level": "A1",
+    "category": "family",
+    "text": "There are two people in my family. We love each other.",
+    "difficulty": 1
+  },
+  {
+    "id": "speaking_a1_r008",
+    "title": "家里的宠物",
+    "level": "A1",
+    "category": "family",
+    "text": "I have a cat at home. It is small and cute.",
+    "difficulty": 1
+  },
+  {
+    "id": "speaking_a1_r009",
+    "title": "我的房间",
+    "level": "A1",
+    "category": "home",
+    "text": "My room is clean. There is a green bed in it.",
+    "difficulty": 1
+  },
+  {
+    "id": "speaking_a1_r010",
+    "title": "问时间",
+    "level": "A1",
+    "category": "daily",
+    "text": "Excuse me, what time is it? It is five o’clock.",
+    "difficulty": 1
+  },
+  {
+    "id": "speaking_a1_r011",
+    "title": "点餐",
+    "level": "A1",
+    "category": "food",
+    "text": "I would like a bottle of water, please. Thank you.",
+    "difficulty": 1
+  },
+  {
+    "id": "speaking_a1_r012",
+    "title": "上学方式",
+    "level": "A1",
+    "category": "travel",
+    "text": "I go to school by bus every morning.",
+    "difficulty": 1
+  }
+]
