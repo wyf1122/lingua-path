@@ -1,0 +1,82 @@
+[
+  {
+    "id": "speaking_test_001",
+    "title": "Introduce Yourself",
+    "level": "A1",
+    "category": "greeting",
+    "text": "Hello, my name is Anna. I am from China. I am a student. Nice to meet you.",
+    "difficulty": 1
+  },
+  {
+    "id": "speaking_test_002",
+    "title": "Daily Greetings",
+    "level": "A1",
+    "category": "greeting",
+    "text": "Good morning! How are you today? I am fine, thank you. How about you?",
+    "difficulty": 1
+  },
+  {
+    "id": "speaking_test_003",
+    "title": "Talking About Your Family",
+    "level": "A1",
+    "category": "family",
+    "text": "There are four people in my family. My father is a doctor and my mother is a teacher. I have one little sister. We love each other.",
+    "difficulty": 1
+  },
+  {
+    "id": "speaking_test_004",
+    "title": "Ordering Food at a Restaurant",
+    "level": "A1",
+    "category": "food",
+    "text": "I would like a chicken sandwich and a glass of juice, please. How much is it? It is eight dollars.",
+    "difficulty": 1
+  },
+  {
+    "id": "speaking_test_005",
+    "title": "Asking the Time",
+    "level": "A1",
+    "category": "daily",
+    "text": "Excuse me, what time is it? It is half past eight. Thank you very much. You are welcome.",
+    "difficulty": 1
+  },
+  {
+    "id": "speaking_test_006",
+    "title": "Going to School",
+    "level": "A1",
+    "category": "education",
+    "text": "I go to school by bus every day. It takes about twenty minutes. Classes start at eight o’clock.",
+    "difficulty": 1
+  },
+  {
+    "id": "speaking_test_007",
+    "title": "Talking About the Weather",
+    "level": "A1",
+    "category": "weather",
+    "text": "The weather is sunny and warm today. Let us go to the park and have a picnic. That sounds great!",
+    "difficulty": 1
+  },
+  {
+    "id": "speaking_test_008",
+    "title": "My Hobby",
+    "level": "A1",
+    "category": "hobby",
+    "text": "My hobby is swimming. I swim every Saturday morning at the sports center. It keeps me healthy and strong.",
+    "difficulty": 1
+  },
+  {
+    "id": "speaking_test_009",
+    "title": "Shopping for Clothes",
+    "level": "A1",
+    "category": "shopping",
+    "text": "How much is this blue shirt? It is twenty dollars. It fits me well. I will take it, thank you.",
+    "difficulty": 1
+  },
+  {
+    "id": "speaking_test_010",
+    "title": "Weekend Plans",
+    "level": "A1",
+    "category": "hobby",
+    "text": "On the weekend, I will visit my grandparents. We will have lunch together and talk about my school life.",
+    "difficulty": 1
+  }
+]

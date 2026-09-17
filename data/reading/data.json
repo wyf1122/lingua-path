@@ -1,0 +1,302 @@
+[
+  {
+    "id": "reading_test_001",
+    "title": "My Family",
+    "level": "A1",
+    "category": "family",
+    "content": "Hello, my name is Tom. This is my family. We are five people. My father is a doctor. My mother is a teacher. I have one brother and one sister. We live in a small house. I love my family very much.",
+    "words": 42,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "How many people are in the family?",
+        "options": [
+          "Four",
+          "Five",
+          "Six"
+        ],
+        "answer": "Five"
+      },
+      {
+        "type": "choice",
+        "question": "What does the mother do?",
+        "options": [
+          "Doctor",
+          "Teacher",
+          "Nurse"
+        ],
+        "answer": "Teacher"
+      }
+    ]
+  },
+  {
+    "id": "reading_test_002",
+    "title": "My School Day",
+    "level": "A1",
+    "category": "education",
+    "content": "I get up at seven every morning. I go to school by bus. Classes start at eight. I have lunch at school. In the afternoon, I play games with my friends in the playground. I go home at five.",
+    "words": 39,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "How does the writer go to school?",
+        "options": [
+          "By bus",
+          "By bike",
+          "On foot"
+        ],
+        "answer": "By bus"
+      },
+      {
+        "type": "choice",
+        "question": "What time do classes start?",
+        "options": [
+          "At seven",
+          "At eight",
+          "At nine"
+        ],
+        "answer": "At eight"
+      }
+    ]
+  },
+  {
+    "id": "reading_test_003",
+    "title": "My Pet Dog",
+    "level": "A1",
+    "category": "nature",
+    "content": "I have a little dog named Max. He is brown and white. Max likes to run in the park. I feed him every morning. In the evening, we go for a walk together. Max is my best friend.",
+    "words": 38,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What is the dog’s name?",
+        "options": [
+          "Max",
+          "Tom",
+          "Ben"
+        ],
+        "answer": "Max"
+      },
+      {
+        "type": "choice",
+        "question": "When do they go for a walk?",
+        "options": [
+          "In the morning",
+          "In the evening",
+          "At noon"
+        ],
+        "answer": "In the evening"
+      }
+    ]
+  },
+  {
+    "id": "reading_test_004",
+    "title": "A Busy Day",
+    "level": "A1",
+    "category": "daily",
+    "content": "Today is Saturday. I get up late because I have no classes. In the morning, I clean my room and do my homework. In the afternoon, I visit my grandparents with my parents. We have dinner together. It is a busy but happy day.",
+    "words": 44,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What day is it today?",
+        "options": [
+          "Saturday",
+          "Sunday",
+          "Friday"
+        ],
+        "answer": "Saturday"
+      },
+      {
+        "type": "choice",
+        "question": "What does the writer do in the morning?",
+        "options": [
+          "Visit grandparents",
+          "Clean the room and do homework",
+          "Play outside"
+        ],
+        "answer": "Clean the room and do homework"
+      }
+    ]
+  },
+  {
+    "id": "reading_test_005",
+    "title": "The Market",
+    "level": "A1",
+    "category": "shopping",
+    "content": "Every Sunday, my mother goes to the market. She buys fruit, vegetables and fish there. The market is big and noisy. People are friendly. I like going there with her because I can eat fresh fruit.",
+    "words": 36,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "When does the mother go to the market?",
+        "options": [
+          "Every Sunday",
+          "Every Monday",
+          "Every day"
+        ],
+        "answer": "Every Sunday"
+      },
+      {
+        "type": "choice",
+        "question": "Why does the writer like the market?",
+        "options": [
+          "It is quiet",
+          "They can eat fresh fruit",
+          "It is far away"
+        ],
+        "answer": "They can eat fresh fruit"
+      }
+    ]
+  },
+  {
+    "id": "reading_test_006",
+    "title": "A Trip to the Zoo",
+    "level": "A1",
+    "category": "nature",
+    "content": "Last Sunday, my class went to the zoo. We saw pandas, tigers and monkeys. The pandas were eating bamboo. The monkeys were very funny. We took many photos. I had a wonderful time.",
+    "words": 33,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "When did the class go to the zoo?",
+        "options": [
+          "Last Sunday",
+          "Last Saturday",
+          "This week"
+        ],
+        "answer": "Last Sunday"
+      },
+      {
+        "type": "choice",
+        "question": "What were the pandas doing?",
+        "options": [
+          "Sleeping",
+          "Eating bamboo",
+          "Running"
+        ],
+        "answer": "Eating bamboo"
+      }
+    ]
+  },
+  {
+    "id": "reading_test_007",
+    "title": "My Favorite Sport",
+    "level": "A1",
+    "category": "hobby",
+    "content": "I like basketball best. I play it with my classmates after school. We play on the school playground. Basketball makes me strong and healthy. My dream is to play in a big game one day.",
+    "words": 35,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What is the writer’s favorite sport?",
+        "options": [
+          "Football",
+          "Basketball",
+          "Tennis"
+        ],
+        "answer": "Basketball"
+      },
+      {
+        "type": "choice",
+        "question": "Where do they play?",
+        "options": [
+          "In the gym",
+          "On the school playground",
+          "At the park"
+        ],
+        "answer": "On the school playground"
+      }
+    ]
+  },
+  {
+    "id": "reading_test_008",
+    "title": "A Healthy Breakfast",
+    "level": "A1",
+    "category": "food",
+    "content": "Breakfast is very important. Every morning I have milk, bread and an egg. My father likes tea with his breakfast. Eating well in the morning helps us study and work better.",
+    "words": 31,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What does the writer have for breakfast?",
+        "options": [
+          "Milk, bread and an egg",
+          "Rice and fish",
+          "Fruit only"
+        ],
+        "answer": "Milk, bread and an egg"
+      },
+      {
+        "type": "choice",
+        "question": "Why is breakfast important?",
+        "options": [
+          "It helps us study and work better",
+          "It makes us sleep",
+          "It is cold"
+        ],
+        "answer": "It helps us study and work better"
+      }
+    ]
+  },
+  {
+    "id": "reading_test_009",
+    "title": "My New Friend",
+    "level": "A1",
+    "category": "friendship",
+    "content": "I have a new friend named Anna. She comes from America. She speaks English and a little Chinese. We often play together after school. She teaches me English and I teach her Chinese.",
+    "words": 33,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "Where does Anna come from?",
+        "options": [
+          "The UK",
+          "America",
+          "China"
+        ],
+        "answer": "America"
+      },
+      {
+        "type": "choice",
+        "question": "What does Anna teach the writer?",
+        "options": [
+          "Chinese",
+          "English",
+          "Math"
+        ],
+        "answer": "English"
+      }
+    ]
+  },
+  {
+    "id": "reading_test_010",
+    "title": "Learning to Cook",
+    "level": "A1",
+    "category": "daily",
+    "content": "Last week, I learned to cook rice from my mother. First, I washed the rice. Then I put it in the cooker with some water. After twenty minutes, the rice was ready. It tasted really good!",
+    "words": 36,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What did the writer learn last week?",
+        "options": [
+          "To cook rice",
+          "To wash clothes",
+          "To make tea"
+        ],
+        "answer": "To cook rice"
+      },
+      {
+        "type": "choice",
+        "question": "How long did the rice take?",
+        "options": [
+          "Ten minutes",
+          "Twenty minutes",
+          "Thirty minutes"
+        ],
+        "answer": "Twenty minutes"
+      }
+    ]
+  }
+]

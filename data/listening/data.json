@@ -1,0 +1,302 @@
+[
+  {
+    "id": "listening_test_001",
+    "title": "At the Coffee Shop",
+    "level": "A1",
+    "category": "going-out",
+    "content": "Can I help you? Yes, I’d like a coffee, please. Would you like anything else? No, thank you. That will be three dollars.",
+    "duration": 20,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What does the customer want?",
+        "options": [
+          "A tea",
+          "A coffee",
+          "A juice"
+        ],
+        "answer": "A coffee"
+      },
+      {
+        "type": "choice",
+        "question": "How much is the coffee?",
+        "options": [
+          "Two dollars",
+          "Three dollars",
+          "Four dollars"
+        ],
+        "answer": "Three dollars"
+      }
+    ]
+  },
+  {
+    "id": "listening_test_002",
+    "title": "Greeting a New Friend",
+    "level": "A1",
+    "category": "friendship",
+    "content": "Hi, I’m Lucy. Nice to meet you. I’m Tom. Where are you from? I’m from the UK. How about you? I’m from Australia.",
+    "duration": 25,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "Where is Tom from?",
+        "options": [
+          "The UK",
+          "Australia",
+          "The USA"
+        ],
+        "answer": "Australia"
+      },
+      {
+        "type": "choice",
+        "question": "Who says “Nice to meet you”?",
+        "options": [
+          "Lucy",
+          "Tom",
+          "Both"
+        ],
+        "answer": "Lucy"
+      }
+    ]
+  },
+  {
+    "id": "listening_test_003",
+    "title": "Going to School",
+    "level": "A1",
+    "category": "education",
+    "content": "How do you go to school, Ben? I go by bus. What time do you leave home? I leave at seven thirty. That is early!",
+    "duration": 22,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "How does Ben go to school?",
+        "options": [
+          "By bus",
+          "On foot",
+          "By bike"
+        ],
+        "answer": "By bus"
+      },
+      {
+        "type": "choice",
+        "question": "What time does Ben leave home?",
+        "options": [
+          "At seven",
+          "At seven thirty",
+          "At eight"
+        ],
+        "answer": "At seven thirty"
+      }
+    ]
+  },
+  {
+    "id": "listening_test_004",
+    "title": "At the Zoo",
+    "level": "A1",
+    "category": "nature",
+    "content": "Look, there is a panda over there! Wow, it is so cute. Yes, I love it. Let’s take a photo. Good idea!",
+    "duration": 18,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What animal do they see?",
+        "options": [
+          "A panda",
+          "A tiger",
+          "A monkey"
+        ],
+        "answer": "A panda"
+      },
+      {
+        "type": "choice",
+        "question": "What do they do together?",
+        "options": [
+          "Take a photo",
+          "Buy food",
+          "Go home"
+        ],
+        "answer": "Take a photo"
+      }
+    ]
+  },
+  {
+    "id": "listening_test_005",
+    "title": "Ordering Lunch",
+    "level": "A1",
+    "category": "food",
+    "content": "What do you have for lunch? I have rice and chicken. Something to drink? A glass of juice, please.",
+    "duration": 20,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What does the person have for lunch?",
+        "options": [
+          "Rice and fish",
+          "Rice and chicken",
+          "Bread and milk"
+        ],
+        "answer": "Rice and chicken"
+      },
+      {
+        "type": "choice",
+        "question": "What does the person drink?",
+        "options": [
+          "Water",
+          "Juice",
+          "Tea"
+        ],
+        "answer": "Juice"
+      }
+    ]
+  },
+  {
+    "id": "listening_test_006",
+    "title": "Asking the Way",
+    "level": "A1",
+    "category": "daily",
+    "content": "Excuse me, where is the library? It is next to the park. Thank you very much. You are welcome.",
+    "duration": 20,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "Where is the library?",
+        "options": [
+          "Next to the park",
+          "Next to the school",
+          "Next to the bank"
+        ],
+        "answer": "Next to the park"
+      },
+      {
+        "type": "choice",
+        "question": "What does the person ask about?",
+        "options": [
+          "The park",
+          "The library",
+          "The bank"
+        ],
+        "answer": "The library"
+      }
+    ]
+  },
+  {
+    "id": "listening_test_007",
+    "title": "Weekend Plans",
+    "level": "A1",
+    "category": "hobby",
+    "content": "What are your plans for the weekend? I will play football with my friends. Where? At the sports center.",
+    "duration": 22,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What will the person do at the weekend?",
+        "options": [
+          "Play football",
+          "Swim",
+          "Read books"
+        ],
+        "answer": "Play football"
+      },
+      {
+        "type": "choice",
+        "question": "Where will they play?",
+        "options": [
+          "At the park",
+          "At the sports center",
+          "At home"
+        ],
+        "answer": "At the sports center"
+      }
+    ]
+  },
+  {
+    "id": "listening_test_008",
+    "title": "A Shopping Trip",
+    "level": "A1",
+    "category": "shopping",
+    "content": "How much is this shirt? It is ten dollars. That is a good price. I will take it.",
+    "duration": 20,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What does the person buy?",
+        "options": [
+          "A shirt",
+          "A dress",
+          "A hat"
+        ],
+        "answer": "A shirt"
+      },
+      {
+        "type": "choice",
+        "question": "How much is the shirt?",
+        "options": [
+          "Ten dollars",
+          "Twelve dollars",
+          "Twenty dollars"
+        ],
+        "answer": "Ten dollars"
+      }
+    ]
+  },
+  {
+    "id": "listening_test_009",
+    "title": "Weather Talk",
+    "level": "A1",
+    "category": "weather",
+    "content": "What is the weather like today? It is sunny and warm. Great, let’s go to the beach.",
+    "duration": 18,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What is the weather like?",
+        "options": [
+          "Rainy",
+          "Sunny and warm",
+          "Cold"
+        ],
+        "answer": "Sunny and warm"
+      },
+      {
+        "type": "choice",
+        "question": "Where do they plan to go?",
+        "options": [
+          "The beach",
+          "The park",
+          "The museum"
+        ],
+        "answer": "The beach"
+      }
+    ]
+  },
+  {
+    "id": "listening_test_010",
+    "title": "Calling a Friend",
+    "level": "A1",
+    "category": "daily",
+    "content": "Hello, is that Ann? Yes, speaking. Are you free this evening? I am sorry, I am busy tonight.",
+    "duration": 20,
+    "questions": [
+      {
+        "type": "choice",
+        "question": "Who is on the phone?",
+        "options": [
+          "Ann",
+          "Tom",
+          "Lucy"
+        ],
+        "answer": "Ann"
+      },
+      {
+        "type": "choice",
+        "question": "Can Ann meet this evening?",
+        "options": [
+          "Yes",
+          "No",
+          "Not sure"
+        ],
+        "answer": "No"
+      }
+    ]
+  }
+]

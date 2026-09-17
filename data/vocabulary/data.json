@@ -1,0 +1,222 @@
+[
+  {
+    "word": "apple",
+    "phonetic": "/ˈæpl/",
+    "partOfSpeech": "noun",
+    "chineseMeaning": "苹果",
+    "englishDefinition": "a round fruit with red, green or yellow skin",
+    "examples": [
+      {
+        "en": "I eat an apple every morning.",
+        "zh": "我每天早上吃一个苹果。"
+      },
+      {
+        "en": "This apple is very sweet.",
+        "zh": "这个苹果很甜。"
+      }
+    ],
+    "level": "A1",
+    "tags": [
+      "food",
+      "test"
+    ]
+  },
+  {
+    "word": "water",
+    "phonetic": "/ˈwɔːtə(r)/",
+    "partOfSpeech": "noun",
+    "chineseMeaning": "水",
+    "englishDefinition": "the clear liquid that falls as rain and is used for drinking",
+    "examples": [
+      {
+        "en": "Please give me a glass of water.",
+        "zh": "请给我一杯水。"
+      },
+      {
+        "en": "We should drink enough water every day.",
+        "zh": "我们每天应该喝足够的水。"
+      }
+    ],
+    "level": "A1",
+    "tags": [
+      "food",
+      "test"
+    ]
+  },
+  {
+    "word": "teacher",
+    "phonetic": "/ˈtiːtʃə(r)/",
+    "partOfSpeech": "noun",
+    "chineseMeaning": "老师",
+    "englishDefinition": "a person who teaches in a school",
+    "examples": [
+      {
+        "en": "Our English teacher is very kind.",
+        "zh": "我们的英语老师很和蔼。"
+      },
+      {
+        "en": "She wants to become a teacher.",
+        "zh": "她想成为一名老师。"
+      }
+    ],
+    "level": "A1",
+    "tags": [
+      "people",
+      "test"
+    ]
+  },
+  {
+    "word": "school",
+    "phonetic": "/skuːl/",
+    "partOfSpeech": "noun",
+    "chineseMeaning": "学校",
+    "englishDefinition": "a place where children go to learn",
+    "examples": [
+      {
+        "en": "My brother goes to school by bus.",
+        "zh": "我弟弟坐公交车上学。"
+      },
+      {
+        "en": "The school is near my home.",
+        "zh": "学校在我家附近。"
+      }
+    ],
+    "level": "A1",
+    "tags": [
+      "places",
+      "test"
+    ]
+  },
+  {
+    "word": "green",
+    "phonetic": "/ɡriːn/",
+    "partOfSpeech": "adjective",
+    "chineseMeaning": "绿色的",
+    "englishDefinition": "the color of grass and leaves",
+    "examples": [
+      {
+        "en": "The trees are green in spring.",
+        "zh": "春天里树是绿色的。"
+      },
+      {
+        "en": "She likes the green dress.",
+        "zh": "她喜欢那条绿裙子。"
+      }
+    ],
+    "level": "A1",
+    "tags": [
+      "colors",
+      "test"
+    ]
+  },
+  {
+    "word": "morning",
+    "phonetic": "/ˈmɔːnɪŋ/",
+    "partOfSpeech": "noun",
+    "chineseMeaning": "早晨",
+    "englishDefinition": "the early part of the day",
+    "examples": [
+      {
+        "en": "I get up at six in the morning.",
+        "zh": "我早上六点起床。"
+      },
+      {
+        "en": "Good morning, everyone!",
+        "zh": "大家早上好！"
+      }
+    ],
+    "level": "A1",
+    "tags": [
+      "time",
+      "test"
+    ]
+  },
+  {
+    "word": "swim",
+    "phonetic": "/swɪm/",
+    "partOfSpeech": "verb",
+    "chineseMeaning": "游泳",
+    "englishDefinition": "to move through water by moving your body",
+    "examples": [
+      {
+        "en": "I can swim very well.",
+        "zh": "我游泳游得很好。"
+      },
+      {
+        "en": "They swim in the pool every Saturday.",
+        "zh": "他们每周六在游泳池游泳。"
+      }
+    ],
+    "level": "A1",
+    "tags": [
+      "action",
+      "test"
+    ]
+  },
+  {
+    "word": "family",
+    "phonetic": "/ˈfæməli/",
+    "partOfSpeech": "noun",
+    "chineseMeaning": "家庭",
+    "englishDefinition": "a group of people who live together",
+    "examples": [
+      {
+        "en": "There are five people in my family.",
+        "zh": "我家有五口人。"
+      },
+      {
+        "en": "I love my family.",
+        "zh": "我爱我的家人。"
+      }
+    ],
+    "level": "A1",
+    "tags": [
+      "people",
+      "test"
+    ]
+  },
+  {
+    "word": "happy",
+    "phonetic": "/ˈhæpi/",
+    "partOfSpeech": "adjective",
+    "chineseMeaning": "快乐的",
+    "englishDefinition": "feeling or showing pleasure",
+    "examples": [
+      {
+        "en": "The children look very happy.",
+        "zh": "孩子们看起来很开心。"
+      },
+      {
+        "en": "I am happy to see you.",
+        "zh": "见到你我很高兴。"
+      }
+    ],
+    "level": "A1",
+    "tags": [
+      "feelings",
+      "test"
+    ]
+  },
+  {
+    "word": "run",
+    "phonetic": "/rʌn/",
+    "partOfSpeech": "verb",
+    "chineseMeaning": "跑",
+    "englishDefinition": "to move very quickly on foot",
+    "examples": [
+      {
+        "en": "He runs in the park every morning.",
+        "zh": "他每天早上在公园跑步。"
+      },
+      {
+        "en": "Don’t run in the classroom.",
+        "zh": "不要在教室里跑。"
+      }
+    ],
+    "level": "A1",
+    "tags": [
+      "action",
+      "test"
+    ]
+  }
+]
